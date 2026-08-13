@@ -1,0 +1,105 @@
+{
+  "$schema": "./schema.json",
+  "updated": "2026-08-13",
+  "plugins": [
+    {
+      "name": "dsh-base",
+      "repo": "deepseek-ai/deepseek-harness",
+      "path": "packages/bundle/base",
+      "npm": "@deepseek-ai/dsh-base",
+      "description": "The shared dsh core as a profile bundle: every profile's first patch layer, inserting the base plugin rows over the empty profile root",
+      "category": "bundle",
+      "official": true,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "dsh-web-app",
+      "repo": "deepseek-ai/deepseek-harness",
+      "path": "packages/bundle/web-app",
+      "npm": "@deepseek-ai/dsh-web-app",
+      "description": "The browser-surface bundle: the web patch layer over dsh-base plus the runtime glue plugin (frontend dist serving, web-surface prompt, URL line)",
+      "category": "bundle",
+      "official": true,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "dsh-headless",
+      "repo": "deepseek-ai/deepseek-harness",
+      "path": "packages/bundle/headless",
+      "npm": "@deepseek-ai/dsh-headless",
+      "description": "The one-shot bundle: a direct core Agent/Session runner over dsh-base with no Host, HTTP, or browser layer",
+      "category": "bundle",
+      "official": true,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "dsh-hooks-claude-code",
+      "repo": "deepseek-ai/deepseek-harness",
+      "path": "packages/hooks/hooks-claude-code",
+      "npm": "@deepseek-ai/dsh-hooks-claude-code",
+      "description": "Bridge plugin: runs an existing Claude Code hooks.json on the harness interception seams (command hooks only; http, mcp_tool, prompt, and agent hooks are skipped with a warning)",
+      "category": "plugin",
+      "official": true,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "dsh-hooks-codex",
+      "repo": "deepseek-ai/deepseek-harness",
+      "path": "packages/hooks/hooks-codex",
+      "npm": "@deepseek-ai/dsh-hooks-codex",
+      "description": "Bridge plugin: runs a Codex hooks.json on the harness interception seams (regex-only matchers, snake_case payloads, only blocking decisions honored)",
+      "category": "plugin",
+      "official": true,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "modlens",
+      "repo": "liustack/modlens",
+      "npm": "@liustack/modlens",
+      "description": "Vision plugin for text-only models: image understanding bridged into the harness via a dsh.bundle patch layer, shipping a modlens skill alongside",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "dsh-web-ui",
+      "repo": "zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for the dsh Web UI: task board, git graph, right-side panel, remote mobile UI, live token stats, and a skin center that routes around the theme-persistence gap",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    },
+    {
+      "name": "colleague-skill",
+      "repo": "titanwings/colleague-skill",
+      "description": "Digital-companion skill in the Anthropic SKILL.md format dsh reads; install by copying it into a dsh skill root such as .agents/skills",
+      "category": "skill",
+      "official": false,
+      "added": "2026-08-13",
+      "lastVerified": "2026-08-13",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified"
+    }
+  ]
+}

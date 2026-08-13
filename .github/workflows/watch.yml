@@ -1,0 +1,86 @@
+# Scheduled ecosystem discovery with a single reused triage PR.
+#
+# Anti-PR-spam design: one fixed branch, rebuilt from fresh main every run,
+# force-pushed, and the existing open PR is retitled instead of opening a
+# duplicate. Zero candidates found means zero pushes and zero PR churn.
+# Candidates only ever land in data/candidates.json; promotion into
+# data/plugins.json is a separate, human-reviewed PR.
+#
+# The org name is not hardcoded here: github.repository already carries it,
+# and the scripts read it from package.json "registry".
+#
+# Setup: repo Settings > Actions > General must have "Allow GitHub Actions to
+# create and approve pull requests" enabled, or the pr create step fails.
+
+name: watch
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  DISCOVERY_BRANCH: bot/discovery
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Discover candidates
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/discover.mjs
+
+      - name: Validate
+        run: node scripts/validate.mjs
+
+      - name: Publish to the reused triage PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data/candidates.json; then
+            echo "no new candidates; leaving the queue and any open PR untouched"
+            exit 0
+          fi
+
+          COUNT=$(node -p "JSON.parse(require('fs').readFileSync('data/candidates.json','utf8')).candidates.length")
+          TITLE="discovery: ${COUNT} candidate(s) awaiting triage ($(date -u +%F))"
+          BODY=$(cat <<'EOF'
+          Automated sweep of the `dsh-plugin` topic, npm, and GitHub code search.
+
+          Triage: for each entry in `data/candidates.json`, either promote it
+          (separate PR moving it into `data/plugins.json` after the spam gate
+          in CONTRIBUTING.md passes) or delete it from the queue. This branch
+          is rebuilt from main and force-pushed on every run, so merge or
+          close whenever; the next run reopens or refreshes it.
+          EOF
+          )
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$DISCOVERY_BRANCH"
+          git add data/candidates.json
+          git commit -m "discovery: refresh candidate queue"
+          git push --force origin "$DISCOVERY_BRANCH"
+
+          PR=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$DISCOVERY_BRANCH" \
+            --state open --json number --jq '.[0].number // empty')
+          if [ -n "$PR" ]; then
+            gh pr edit "$PR" --repo "$GITHUB_REPOSITORY" --title "$TITLE" --body "$BODY"
+          else
+            gh pr create --repo "$GITHUB_REPOSITORY" --head "$DISCOVERY_BRANCH" \
+              --base main --title "$TITLE" --body "$BODY"
+          fi

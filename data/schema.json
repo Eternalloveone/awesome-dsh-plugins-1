@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "awesome-dsh-plugins registry",
+  "description": "Machine-readable registry of DeepSeek Harness (dsh) extensions. data/plugins.json is the source of truth; README.md is rendered from it. dsh is a developer preview with promised breaking changes, which is why every entry records the dsh version it was last verified against.",
+  "type": "object",
+  "required": ["updated", "plugins"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Relative path to this schema"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Date the registry data was last edited (YYYY-MM-DD)"
+    },
+    "plugins": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/plugin" }
+    }
+  },
+  "$defs": {
+    "plugin": {
+      "type": "object",
+      "required": [
+        "name",
+        "repo",
+        "description",
+        "category",
+        "added",
+        "lastVerified",
+        "verifiedAgainst",
+        "status"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 64,
+          "description": "Display name, unique across the registry"
+        },
+        "repo": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
+          "description": "GitHub slug, owner/name"
+        },
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Subdirectory inside the repo, for monorepo entries"
+        },
+        "npm": {
+          "type": "string",
+          "pattern": "^(@[a-z0-9-~][a-z0-9-._~]*/)?[a-z0-9-~][a-z0-9-._~]*$",
+          "description": "npm package name, when published"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200,
+          "description": "One honest sentence; no keyword stuffing"
+        },
+        "category": {
+          "enum": ["bundle", "plugin", "skill", "theme", "tool"],
+          "description": "bundle: npm package with a dsh.bundle manifest that ships a patch layer. plugin: a Cordis plugin activated via patch rows. skill: Anthropic-format SKILL.md unit. theme: UI skin. tool: developer tooling around dsh."
+        },
+        "official": {
+          "type": "boolean",
+          "description": "True when maintained inside deepseek-ai/deepseek-harness"
+        },
+        "added": {
+          "type": "string",
+          "format": "date",
+          "description": "Date the entry entered the registry"
+        },
+        "lastVerified": {
+          "type": "string",
+          "format": "date",
+          "description": "Date a maintainer last checked the entry"
+        },
+        "verifiedAgainst": {
+          "type": "string",
+          "minLength": 1,
+          "description": "dsh version the entry was last checked against, e.g. 0.1.0-rc.5. Undated compatibility claims rot: the .dsh-plugin manifest format was deleted 2026-08-09 with no migration."
+        },
+        "status": {
+          "enum": ["verified", "unverified", "broken"],
+          "description": "verified: install path confirmed against verifiedAgainst (manifest or skill-layout inspection at minimum). unverified: listed, not yet checked. broken: known not to work against verifiedAgainst."
+        }
+      }
+    }
+  }
+}
