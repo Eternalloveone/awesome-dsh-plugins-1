@@ -9805,9 +9805,9 @@ window.__PLUGINS__ = {
       "pushedAt": "2026-08-14"
     },
     {
-      "name": "dsh-hydrophone",
-      "repo": "dshworks/dsh-hydrophone",
-      "description": "Background stream listeners that wake the agent: matching lines from a long-running command or a growing file arrive as batched, budgeted in-session notices. Listeners are first-class jobs.",
+      "name": "dsh-watch",
+      "repo": "dshworks/dsh-watch",
+      "description": "Put a watch on a stream: matching lines from a long-running command or a growing file wake the agent as batched, budgeted in-session notices. Watches are first-class background jobs.",
       "category": "plugin",
       "tags": [
         "agents",
