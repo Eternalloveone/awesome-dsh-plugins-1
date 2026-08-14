@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>awesome-dsh-plugins — the reef</title>
+  <meta name="description" content="406+ DeepSeek Harness plugins, bundles, and skills as a filterable reef: search, areas, stars, editor's picks. Not affiliated with DeepSeek.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23071824'/%3E%3Cpath d='M8 22c2-6 6-9 12-9-2 3-2 5 0 8-4 2-8 2-12 1z' fill='%23ff7a59'/%3E%3Ccircle cx='22' cy='12' r='2' fill='%237ef0ff'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="reef.css">
+</head>
+<body>
+  <a class="skip" href="#reef">Skip to plugins</a>
+  <div class="ocean" aria-hidden="true">
+    <div class="caustics"></div>
+    <div class="mist"></div>
+    <div class="polyps" id="polyps"></div>
+  </div>
+
+  <header class="hero">
+    <p class="eyebrow">a community reef · not a marketplace</p>
+    <h1>awesome-dsh-plugins</h1>
+    <p class="lede">Every lantern needs a reef to hang on. This is where the dsh ecosystem grows: <span id="hero-count">hundreds of</span> plugins, bundles, and skills — spam-filtered, machine-readable, every one dated against the dsh version it was checked on. Built with ❤️ and a healthy fear of topic-riders.</p>
+    <div class="actions">
+      <a class="btn primary" href="#featured">Editor's picks</a>
+      <a class="btn ghost" href="https://github.com/dshworks/awesome-dsh-plugins">Source</a>
+      <a class="btn ghost" href="https://raw.githubusercontent.com/dshworks/awesome-dsh-plugins/main/data/plugins.json">The JSON</a>
+    </div>
+  </header>
+
+  <section class="featured" id="featured" aria-label="Editor's picks">
+    <h2>Editor's picks <span class="fine">hand-curated, sparing</span></h2>
+    <div class="shelf" id="shelf"></div>
+  </section>
+
+  <nav class="filters" aria-label="Filter and sort plugins">
+    <div class="frow" id="tag-row">
+      <button type="button" class="chip is-on" data-tag="all" aria-pressed="true">All areas</button>
+      <!-- tag chips injected -->
+    </div>
+    <div class="frow">
+      <input type="search" id="search" class="search" placeholder="Search the reef — name, what it does, repo…" aria-label="Search plugins">
+      <span class="sorts" role="group" aria-label="Sort plugins">
+        <button type="button" class="chip is-on" data-sort="stars" aria-pressed="true">Most ★</button>
+        <button type="button" class="chip" data-sort="newest" aria-pressed="false">Fresh catch</button>
+        <button type="button" class="chip" data-sort="name" aria-pressed="false">A–Z</button>
+      </span>
+      <select id="category" class="select" aria-label="Filter by form factor">
+        <option value="all">All kinds</option>
+        <option value="plugin">Plugins</option>
+        <option value="bundle">Bundles</option>
+        <option value="skill">Skills</option>
+        <option value="theme">Themes</option>
+        <option value="tool">Tools</option>
+      </select>
+      <span class="stats" id="stats" aria-live="polite"></span>
+    </div>
+  </nav>
+
+  <main id="reef" class="reef" tabindex="-1"></main>
+
+  <footer class="foot">
+    <p>Not affiliated with DeepSeek. <span aria-hidden="true" id="heart-anchor">❤️</span> for everyone growing the reef anyway.</p>
+    <p>
+      Sisters: <a href="https://dshworks.github.io/awesome-dsh-themes/">awesome-dsh-themes</a>
+      · <a href="https://github.com/dshworks/howto-dsh">howto-dsh</a>
+      · Source: <a href="https://github.com/dshworks/awesome-dsh-plugins">awesome-dsh-plugins</a>
+    </p>
+  </footer>
+
+  <script src="plugins-embed.js"></script>
+  <script src="reef.js"></script>
+</body>
+</html>
