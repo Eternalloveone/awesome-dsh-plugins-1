@@ -38,6 +38,14 @@ function starRank(p) {
   return p.official ? 0 : p.stars ?? 0;
 }
 
+function activityLabel(p) {
+  if (!p.pushedAt) return "";
+  const days = Math.max(0, Math.floor((Date.now() - Date.parse(p.pushedAt)) / 86400000));
+  const when = days === 0 ? "today" : days === 1 ? "yesterday" : days <= 30 ? `${days}d ago` : `on ${p.pushedAt}`;
+  const cls = days <= 14 ? "fresh" : "";
+  return ` · <span class="activity ${cls}">pushed ${esc(when)}</span>`;
+}
+
 function starsLabel(p) {
   if (p.stars === undefined) return "";
   const n = p.stars >= 1000 ? `${(p.stars / 1000).toFixed(1).replace(/\.0$/, "")}k` : String(p.stars);
@@ -85,6 +93,7 @@ function card(p) {
   const verified = p.status === "verified"
     ? `${esc(p.verifiedAgainst)} · ${esc(p.lastVerified)}`
     : esc(p.status);
+  const activity = activityLabel(p);
   return `<article class="card${p.featured ? " is-pick" : ""}">
     <div class="head">
       <h3><a href="${esc(repoUrl(p))}" rel="noopener">${esc(p.name)}</a></h3>
@@ -93,7 +102,7 @@ function card(p) {
     <div class="badges">${badges.join("")}</div>
     <p class="desc">${esc(p.description)}</p>
     ${install}
-    <p class="meta">${verified}</p>
+    <p class="meta">${verified}${activity}</p>
   </article>`;
 }
 

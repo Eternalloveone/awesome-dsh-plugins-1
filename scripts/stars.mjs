@@ -32,7 +32,7 @@ for (let i = 0; i < repos.length; i += 100) {
   const batch = repos.slice(i, i + 100);
   const fields = batch.map((slug, j) => {
     const [owner, name] = slug.split("/");
-    return `r${j}: repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(name)}) { stargazerCount nameWithOwner }`;
+    return `r${j}: repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(name)}) { stargazerCount pushedAt nameWithOwner }`;
   }).join("\n");
   let res;
   try {
@@ -46,16 +46,21 @@ for (let i = 0; i < repos.length; i += 100) {
   }
   batch.forEach((slug, j) => {
     const node = res.data?.[`r${j}`];
-    if (node && typeof node.stargazerCount === "number") counts.set(slug, node.stargazerCount);
-    else missing.push(slug);
+    if (node && typeof node.stargazerCount === "number") {
+      counts.set(slug, { stars: node.stargazerCount, pushedAt: node.pushedAt?.slice(0, 10) });
+    } else {
+      missing.push(slug);
+    }
   });
 }
 
 let touched = 0;
 for (const p of data.plugins) {
-  if (counts.has(p.repo)) {
-    p.stars = counts.get(p.repo);
+  const hit = counts.get(p.repo);
+  if (hit) {
+    p.stars = hit.stars;
     p.starsUpdated = today;
+    if (hit.pushedAt) p.pushedAt = hit.pushedAt;
     touched++;
   }
 }

@@ -51,6 +51,14 @@ yourself; candidate metadata is a lead, not a record) or record it in
 it from the queue. The discovery sweep never re-queues a rejected repo; to
 appeal a rejection, delete its ledger row in the same PR that adds the entry.
 
+## Field ownership
+
+Human judgment always wins over automation. `tags` picked by a person during
+triage or review are never overwritten by the watch — automation may only fill
+fields that are empty. `featured` is hand-curated and off-limits to automation
+entirely. `stars`, `starsUpdated`, and `pushedAt` are the reverse: machine
+fields refreshed by `scripts/stars.mjs`, not worth editing by hand.
+
 ## Verification sweeps
 
 dsh is a developer preview with promised breaking changes, so entries rot.

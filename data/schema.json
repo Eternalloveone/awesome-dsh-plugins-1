@@ -91,6 +91,11 @@
           "format": "date",
           "description": "Date stars was last refreshed"
         },
+        "pushedAt": {
+          "type": "string",
+          "format": "date",
+          "description": "Date of the repo's last push, refreshed alongside stars by scripts/stars.mjs. Deterministic activity signal: a registry entry can be verified yet abandoned, and readers deserve to see which"
+        },
         "featured": {
           "type": "boolean",
           "description": "Editor's pick, hand-curated and sparing. The gallery and README surface these first"
