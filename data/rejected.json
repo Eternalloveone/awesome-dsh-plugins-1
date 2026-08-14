@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "rejected": [
     {
       "repo": "0xsline/awesome-deepseek-harness",
@@ -69,11 +69,6 @@
     {
       "repo": "LaplaceYoung/oh-my-dsh",
       "reason": "700+ batch-generated plugin stubs, no dsh.bundle anywhere; template spam",
-      "date": "2026-08-13"
-    },
-    {
-      "repo": "Lum1104/dsh-browser",
-      "reason": "no dsh.bundle/npm/SKILL.md install path (hand-written cordis config); bridge package squats @deepseek-ai scope",
       "date": "2026-08-13"
     },
     {

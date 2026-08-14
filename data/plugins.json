@@ -1,6 +1,6 @@
 {
   "$schema": "./schema.json",
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "plugins": [
     {
       "name": "dsh-base",
@@ -358,6 +358,53 @@
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified"
+    },
+    {
+      "name": "dsh-browser",
+      "repo": "Lum1104/dsh-browser",
+      "description": "Chrome sidebar plugin that lets dsh operate the browser directly, without vision.",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-08-14",
+      "lastVerified": "2026-08-14",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified"
+    },
+    {
+      "name": "modsearch",
+      "repo": "liustack/modsearch",
+      "description": "Web plugin for dsh that gives a text-only model the web: search, X, and any page as structured evidence.",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-08-14",
+      "lastVerified": "2026-08-14",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified",
+      "npm": "@liustack/modsearch"
+    },
+    {
+      "name": "dsh-genui",
+      "repo": "omdsh-dev/dsh-genui",
+      "description": "Renders interactive UI components inline in assistant replies via the dsh-ui fence: layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model.",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-08-14",
+      "lastVerified": "2026-08-14",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified"
+    },
+    {
+      "name": "create-dsh-plugin",
+      "repo": "whyihaveyou/dsh-suite",
+      "path": "packages/create-dsh-plugin",
+      "description": "Scaffold a DeepSeek Harness plugin in seconds: tool, events, and webui templates with next-tag version pinning and a built-in --verify smoke test.",
+      "category": "tool",
+      "official": false,
+      "added": "2026-08-14",
+      "lastVerified": "2026-08-14",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified",
+      "npm": "create-dsh-plugin"
     }
   ]
 }
