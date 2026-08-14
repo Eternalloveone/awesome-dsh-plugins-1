@@ -6,7 +6,7 @@
 [![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![browse the reef](https://img.shields.io/badge/browse-the_reef-ff7a59)](https://dshworks.github.io/awesome-dsh-plugins/)
 
-A spam-filtered, open-data registry of [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) plugins, bundles, and skills — 490 entries across 17 functional areas, every one stating the dsh version it was last verified against.
+A spam-filtered, open-data registry of [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) plugins, bundles, and skills — 491 entries across 17 functional areas, every one stating the dsh version it was last verified against.
 
 **[Browse the reef](https://dshworks.github.io/awesome-dsh-plugins/)** — the same registry as a filterable, sortable gallery.
 
@@ -676,6 +676,7 @@ npm packages with a `dsh.bundle` manifest: composition layers a profile boots fr
 | dsh-101 | 2 | [bill9109/dsh-101](https://github.com/bill9109/dsh-101) | A document-first reader profile bundle for DeepSeek Harness: curated, ordered, searchable, translatable reading of DSH's own documentation over dsh-base + dsh-web-app. | 0.1.0-rc.6 (2026-08-14) |
 | dsh-cmd-starter | 2 | [PandaColour/dsh-cmd-starter](https://github.com/PandaColour/dsh-cmd-starter) | Claude-Code style CLI scheduling bundle for DeepSeek Harness headless: --append-prompt, --resume, --continue, --output-format json, and model overrides. | 0.1.0-rc.6 (2026-08-14) |
 | dsh-deeptutor | 2 | [TecFancy/dsh-deeptutor](https://github.com/TecFancy/dsh-deeptutor) | DeepTutor bridge bundle for DeepSeek Harness: learning capabilities, knowledge bases, and note archiving (HTTP/WS first, CLI fallback; auto-adapts local/remote deployment). | 0.1.0-rc.6 (2026-08-14) |
+| dsh-desk | 2 | [majiayu000/dsh-desk](https://github.com/majiayu000/dsh-desk) | Tauri desktop companion for DeepSeek Harness: wraps official dsh 0.1.0-rc.6 in a system WebView with isolated DSH_HOME and a plugin-manager UI. | 0.1.0-rc.6 (2026-08-14) |
 | coding-coach | 1 | [xiehuan123/coding-coach](https://github.com/xiehuan123/coding-coach) | Engineering skill pack for non-developers: a DSH profile bundle of Chinese-friendly coding skills. | 0.1.0-rc.6 (2026-08-14) |
 
 ### Skills

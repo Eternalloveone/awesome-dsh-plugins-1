@@ -8453,6 +8453,23 @@
         "capabilities"
       ],
       "pushedAt": "2026-08-14"
+    },
+    {
+      "name": "dsh-desk",
+      "repo": "majiayu000/dsh-desk",
+      "description": "Tauri desktop companion for DeepSeek Harness: wraps official dsh 0.1.0-rc.6 in a system WebView with isolated DSH_HOME and a plugin-manager UI.",
+      "category": "bundle",
+      "official": false,
+      "added": "2026-08-14",
+      "lastVerified": "2026-08-14",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified",
+      "stars": 2,
+      "starsUpdated": "2026-08-14",
+      "tags": [
+        "terminal"
+      ],
+      "pushedAt": "2026-08-14"
     }
   ]
 }
