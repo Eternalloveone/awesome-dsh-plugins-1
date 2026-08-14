@@ -23,6 +23,7 @@ const ANNOTATIONS = new Set([
 const SUPPORTED = new Set([
   "type", "properties", "required", "additionalProperties", "items",
   "enum", "pattern", "minLength", "maxLength", "format", "$ref",
+  "minimum", "minItems", "maxItems", "uniqueItems",
 ]);
 
 function resolveRef(ref, rootSchema) {
@@ -55,7 +56,9 @@ function validateNode(schema, value, path, rootSchema, errors) {
 
   if (schema.type) {
     const allowed = Array.isArray(schema.type) ? schema.type : [schema.type];
-    if (!allowed.includes(typeOf(value))) {
+    const matches = allowed.some((t) =>
+      t === "integer" ? Number.isInteger(value) : t === typeOf(value));
+    if (!matches) {
       errors.push(`${path}: expected ${allowed.join("|")}, got ${typeOf(value)}`);
       return;
     }
@@ -94,9 +97,24 @@ function validateNode(schema, value, path, rootSchema, errors) {
     }
   }
 
-  if (typeOf(value) === "array" && schema.items) {
-    value.forEach((item, i) =>
-      validateNode(schema.items, item, `${path}[${i}]`, rootSchema, errors));
+  if (typeOf(value) === "number" && schema.minimum !== undefined && value < schema.minimum) {
+    errors.push(`${path}: ${value} below minimum ${schema.minimum}`);
+  }
+
+  if (typeOf(value) === "array") {
+    if (schema.minItems !== undefined && value.length < schema.minItems) {
+      errors.push(`${path}: fewer than minItems ${schema.minItems}`);
+    }
+    if (schema.maxItems !== undefined && value.length > schema.maxItems) {
+      errors.push(`${path}: more than maxItems ${schema.maxItems}`);
+    }
+    if (schema.uniqueItems && new Set(value.map((v) => JSON.stringify(v))).size !== value.length) {
+      errors.push(`${path}: items are not unique`);
+    }
+    if (schema.items) {
+      value.forEach((item, i) =>
+        validateNode(schema.items, item, `${path}[${i}]`, rootSchema, errors));
+    }
   }
 }
 

@@ -1,4 +1,4 @@
-{
+window.__PLUGINS__ = {
   "$schema": "./schema.json",
   "updated": "2026-08-14",
   "plugins": [
@@ -6542,4 +6542,4 @@
       ]
     }
   ]
-}
+};

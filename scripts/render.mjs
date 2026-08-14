@@ -1,13 +1,14 @@
 #!/usr/bin/env node
-// Render README.md from data/plugins.json. The data is the source of truth;
-// the README is a build artifact. Prose lives in the template below, the org
-// and repo names come from package.json "registry" so they are defined in
-// exactly one place. Node stdlib only.
+// Render README.md, docs/plugins.json, and docs/plugins-embed.js from
+// data/plugins.json. The data is the source of truth; everything else is a
+// build artifact. Prose lives in the template below, the org and repo names
+// come from package.json "registry" so they are defined in exactly one place.
+// Node stdlib only.
 //
 // Usage: node scripts/render.mjs [--check]
-//   --check  exit 1 if README.md is out of sync with the data (for CI)
+//   --check  exit 1 if any artifact is out of sync with the data (for CI)
 
-import { readFileSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -19,26 +20,49 @@ const data = read("data/plugins.json");
 
 const HARNESS = "deepseek-ai/deepseek-harness";
 const BADGE = "https://img.shields.io/badge/powered__by-dsh-4D6BFE?logo=deepseek";
+const GALLERY = `https://${cfg.org}.github.io/${cfg.repo}/`;
 
 const CATEGORIES = [
   ["bundle", "Bundles", "npm packages with a `dsh.bundle` manifest: composition layers a profile boots from."],
-  ["plugin", "Plugins", "Cordis plugins activated through patch rows in a bundle or profile."],
   ["skill", "Skills", "Anthropic-format `SKILL.md` units; dsh discovers them from its skill roots (no nested discovery, kebab-case names only)."],
-  ["theme", "Themes", "UI skins. Note: third-party theme ids do not yet persist to settings; most skins ship as plugins instead."],
+  ["theme", "Themes", `UI skins. The dedicated registry is [awesome-dsh-themes](https://github.com/${cfg.org}/awesome-dsh-themes); only themes that also ship plugin machinery live here.`],
   ["tool", "Tools", "Developer tooling around dsh."],
 ];
 
+// Functional areas, in browse order. Tag ids match data/schema.json.
+const TAGS = [
+  ["ui", "Web UI", "Panels, composer upgrades, navigation, layout, mobile."],
+  ["terminal", "Terminals & desktop", "TUIs, desktop shells, headless runners."],
+  ["capabilities", "Tools & capabilities", "New things the model can do: search, browser, files, databases, devices, media."],
+  ["vision", "Vision", "Image understanding for text-only models."],
+  ["agents", "Agents & orchestration", "Subagents, workflows, cross-session coordination."],
+  ["memory", "Memory & sessions", "Memory systems, context management, session search/rewind/export."],
+  ["models", "Models & providers", "Providers, routing, fallbacks, subscription adapters."],
+  ["interop", "Interop & migration", "Bridges to and from Claude Code, Codex, and other harnesses."],
+  ["channels", "Channels & remote", "IM bridges and remote control: Feishu, Telegram, WeCom, DingTalk."],
+  ["notifications", "Notifications", "Alerting the human: desktop, sound, even a phone call."],
+  ["usage", "Usage & cost", "Token accounting, billing, balance, quota."],
+  ["observability", "Observability & evidence", "Diagnostics, logs, audits, content-addressed proofs."],
+  ["safety", "Safety & approvals", "Permission tiers, gates, redaction, protection."],
+  ["marketplace", "Plugin managers & stores", "In-UI stores, installers, skill managers."],
+  ["devtools", "Developer tools", "Building, testing, and publishing plugins."],
+  ["knowledge", "Knowledge & research", "Research workbenches, RAG, learning modes."],
+  ["fun", "Fun", "Games, pets, memes, ambience. The reef has coral."],
+];
+
 const esc = (s) => s.replaceAll("|", "\\|");
+const slug = (s) => s.toLowerCase().replace(/&/g, "").replace(/[^a-z0-9 -]/g, "").trim().replace(/\s+/g, "-");
 
 function repoCell(p) {
   const url = p.path
     ? `https://github.com/${p.repo}/tree/HEAD/${p.path}`
     : `https://github.com/${p.repo}`;
-  return `[${p.repo}](${url})`;
+  const npm = p.npm ? ` · [npm](https://www.npmjs.com/package/${p.npm})` : "";
+  return `[${p.repo}](${url})${npm}`;
 }
 
-function npmCell(p) {
-  return p.npm ? `[\`${p.npm}\`](https://www.npmjs.com/package/${p.npm})` : "-";
+function starsCell(p) {
+  return p.stars === undefined ? "-" : String(p.stars);
 }
 
 function verifiedCell(p) {
@@ -47,20 +71,49 @@ function verifiedCell(p) {
   return "unverified";
 }
 
+function byRank(a, b) {
+  return Number(b.official ?? false) - Number(a.official ?? false)
+    || (b.stars ?? 0) - (a.stars ?? 0)
+    || a.name.localeCompare(b.name);
+}
+
 function table(plugins) {
   const rows = plugins
     .slice()
-    .sort((a, b) => Number(b.official ?? false) - Number(a.official ?? false) || a.name.localeCompare(b.name))
+    .sort(byRank)
     .map((p) =>
-      `| ${esc(p.name)}${p.official ? " (official)" : ""} | ${repoCell(p)} | ${npmCell(p)} | ${esc(p.description)} | ${verifiedCell(p)} |`);
+      `| ${esc(p.name)}${p.official ? " (official)" : ""}${p.featured ? " ⭐" : ""} | ${starsCell(p)} | ${repoCell(p)} | ${esc(p.description)} | ${verifiedCell(p)} |`);
   return [
-    "| Name | Repo | npm | Description | Verified against |",
+    "| Name | Repo ★ | Repo | Description | Verified against |",
     "|---|---|---|---|---|",
     ...rows,
   ].join("\n");
 }
 
-function registrySection() {
+function featuredSection() {
+  const picks = data.plugins.filter((p) => p.featured).sort(byRank);
+  if (!picks.length) return "";
+  const rows = picks.map((p) =>
+    `- **[${p.name}](https://github.com/${p.repo})** — ${p.description} <sub>${starsCell(p)} ★ · ${p.tags?.[0] ?? ""}</sub>`);
+  return `## Editor's picks\n\nHand-curated, sparing, and revisited as the ecosystem moves; the ⭐ mark in the tables below means the same thing. Stars are the linked repo's count, which for monorepo entries is the whole repo, not the plugin.\n\n${rows.join("\n")}`;
+}
+
+function pluginSections() {
+  const plugins = data.plugins.filter((p) => p.category === "plugin");
+  const parts = [];
+  for (const [id, title, blurb] of TAGS) {
+    const rows = plugins.filter((p) => (p.tags?.[0] ?? "untagged") === id);
+    if (!rows.length) continue;
+    parts.push(`### ${title}\n\n${blurb}\n\n${table(rows)}`);
+  }
+  const untagged = plugins.filter((p) => !p.tags?.length);
+  if (untagged.length) {
+    parts.push(`### Untagged\n\nFresh from the watch, not yet placed in an area.\n\n${table(untagged)}`);
+  }
+  return parts.join("\n\n");
+}
+
+function categorySections() {
   const parts = [];
   for (const [key, heading, blurb] of CATEGORIES) {
     const plugins = data.plugins.filter((p) => p.category === key);
@@ -70,20 +123,36 @@ function registrySection() {
   return parts.join("\n\n");
 }
 
+const nPlugins = data.plugins.filter((p) => p.category === "plugin").length;
+const toc = [
+  "- [Editor's picks](#editors-picks)",
+  `- [Plugins by area](#plugins-by-area)`,
+  ...TAGS.filter(([id]) => data.plugins.some((p) => p.category === "plugin" && p.tags?.[0] === id))
+    .map(([, title]) => `  - [${title}](#${slug(title)})`),
+  ...CATEGORIES.filter(([key]) => data.plugins.some((p) => p.category === key))
+    .map(([, title]) => `- [${title}](#${slug(title)})`),
+  "- [Add your plugin](#add-your-plugin)",
+].join("\n");
+
 const readme = `<!-- Rendered by scripts/render.mjs from data/plugins.json. Do not edit by hand: edit the data or the template, then run \`npm run render\`. -->
 
 # awesome-dsh-plugins
 
 [![powered by dsh](${BADGE})](https://github.com/${HARNESS})
 [![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![browse the reef](https://img.shields.io/badge/browse-the_reef-ff7a59)](${GALLERY})
 
-A spam-filtered, open-data registry of [DeepSeek Harness](https://github.com/${HARNESS}) (\`dsh\`) plugins, bundles, and skills.
+A spam-filtered, open-data registry of [DeepSeek Harness](https://github.com/${HARNESS}) (\`dsh\`) plugins, bundles, and skills — ${data.plugins.length} entries across ${TAGS.length} functional areas, every one stating the dsh version it was last verified against.
 
-Most awesome lists are prose. This one is data: [\`data/plugins.json\`](data/plugins.json) is the source of truth, this README is rendered from it, and every entry states an install path and the dsh version it was last verified against. Build on the JSON directly:
+**[Browse the reef](${GALLERY})** — the same registry as a filterable, sortable gallery.
+
+Most awesome lists are prose. This one is data: [\`data/plugins.json\`](data/plugins.json) is the source of truth, this README is rendered from it. Build on the JSON directly:
 
 \`\`\`sh
 curl -s https://raw.githubusercontent.com/${cfg.org}/${cfg.repo}/main/data/plugins.json
 \`\`\`
+
+Each entry carries two orthogonal dimensions: \`category\` is the form factor (bundle, plugin, skill, theme, tool — what dsh docs call things) and \`tags\` is the functional area (what it actually does). \`stars\` is the linked repo's GitHub count (refreshed by \`scripts/stars.mjs\`, display signal only), and \`featured\` marks a hand-curated editor's pick.
 
 ## Why a filtered registry
 
@@ -95,15 +164,23 @@ If you prefer a curated prose list, [AdamPlatin123/awesome-dsh-plugins](https://
 
 dsh is a developer preview and the team promises compatibility-breaking changes. Example: the \`.dsh-plugin\` manifest format was deleted on 2026-08-09 with no migration path, silently stranding every tutorial written against it. A compatibility claim without a version and a date rots, so the schema records both (\`verifiedAgainst\`, \`lastVerified\`) and stale entries get re-checked or flagged.
 
-## Registry
+## Contents
 
-${data.plugins.length} entries. Data updated ${data.updated}.
+${toc}
 
-${registrySection()}
+${featuredSection()}
+
+## Plugins by area
+
+${nPlugins} Cordis plugins activated through patch rows in a bundle or profile, grouped by what they do. Data updated ${data.updated}.
+
+${pluginSections()}
+
+${categorySections()}
 
 ## Add your plugin
 
-Open a PR against [\`data/plugins.json\`](data/plugins.json) only; the README is regenerated. See [CONTRIBUTING.md](CONTRIBUTING.md). The spam gate in short: a real install path (a \`dsh.bundle\` manifest, a published npm package, or a \`SKILL.md\` layout dsh discovers), not a renamed template fork, and it loads against the dsh version you claim.
+Open a PR against [\`data/plugins.json\`](data/plugins.json) only; the README is regenerated. See [CONTRIBUTING.md](CONTRIBUTING.md). The spam gate in short: a real install path (a \`dsh.bundle\` manifest, a published npm package, or a \`SKILL.md\` layout dsh discovers), not a renamed template fork, and it loads against the dsh version you claim. Pick one or two \`tags\` from the schema's list so your entry lands in the right area.
 
 A scheduled workflow also sweeps the \`dsh-plugin\` topic, npm, and GitHub code search; new finds queue in [\`data/candidates.json\`](data/candidates.json) on a single reused triage PR and never enter the registry without review. Rejected candidates are recorded with one-line reasons in [\`data/rejected.json\`](data/rejected.json) and are not re-queued.
 
@@ -116,18 +193,26 @@ Verified dsh traps, skill discovery rules, and hook-bridge limits live in [howto
 MIT. Not affiliated with DeepSeek; the harness README calls itself "an idea, an official showcase, and a source of inspiration", and the ecosystem belongs to the community.
 `;
 
-const target = join(ROOT, "README.md");
+mkdirSync(join(ROOT, "docs"), { recursive: true });
+const artifacts = [
+  { rel: "README.md", body: readme },
+  { rel: "docs/plugins.json", body: `${JSON.stringify(data, null, 2)}\n` },
+  { rel: "docs/plugins-embed.js", body: `window.__PLUGINS__ = ${JSON.stringify(data, null, 2)};\n` },
+];
+
 if (process.argv.includes("--check")) {
-  let current = "";
-  try {
-    current = readFileSync(target, "utf8");
-  } catch {}
-  if (current !== readme) {
-    console.error("render: README.md is out of sync with data/plugins.json; run `npm run render`");
-    process.exit(1);
+  let bad = false;
+  for (const { rel, body } of artifacts) {
+    let current = "";
+    try { current = readFileSync(join(ROOT, rel), "utf8"); } catch {}
+    if (current !== body) {
+      console.error(`render: ${rel} is out of sync with data/plugins.json; run \`npm run render\``);
+      bad = true;
+    }
   }
-  console.log("render: README.md is in sync");
+  if (bad) process.exit(1);
+  console.log("render: README.md and docs artifacts are in sync");
 } else {
-  writeFileSync(target, readme);
-  console.log(`render: wrote README.md (${data.plugins.length} entries)`);
+  for (const { rel, body } of artifacts) writeFileSync(join(ROOT, rel), body);
+  console.log(`render: wrote README.md + docs artifacts (${data.plugins.length} entries)`);
 }
