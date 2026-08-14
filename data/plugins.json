@@ -405,6 +405,18 @@
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "create-dsh-plugin"
+    },
+    {
+      "name": "dsh-context",
+      "repo": "bowenliang123/dsh-context",
+      "npm": "dsh-context",
+      "description": "Context insight panel — a Context tab in the dsh web UI showing what the model's context window is made of and how it evolves.",
+      "category": "plugin",
+      "official": false,
+      "added": "2026-08-14",
+      "lastVerified": "2026-08-14",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified"
     }
   ]
 }
