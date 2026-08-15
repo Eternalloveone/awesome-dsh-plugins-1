@@ -239,6 +239,24 @@ Open a PR against [\`data/plugins.json\`](data/plugins.json) only; the README is
 
 A scheduled workflow also sweeps every dsh discovery topic, npm, and GitHub code search; new finds queue in [\`data/candidates.json\`](data/candidates.json) on a single reused triage PR and never enter the registry without review. Rejected candidates are recorded with one-line reasons in [\`data/rejected.json\`](data/rejected.json). Rejections of judgment ("this is a curated list") are permanent; rejections of fact ("no install path on the day we looked") carry a \`recheckAfter\` date and are swept again once it passes, so shipping a manifest late is not a life sentence.
 
+### Already listed?
+
+Most entries here arrived by sweep, not by PR, so plenty of authors are in the registry without knowing it. Search this README, or:
+
+\`\`\`sh
+curl -s ${GALLERY}plugins.json | jq '.plugins[] | select(.repo=="you/your-plugin")'
+\`\`\`
+
+If the row is wrong — bad description, wrong tags, a version you have since moved past — the fix is a PR against the data file, and it is the fastest way to correct it.
+
+If you want to say so in your own README, this badge is static — it points here and needs no upkeep:
+
+\`\`\`md
+[![listed on dsh.works](https://img.shields.io/badge/listed_on-dsh.works-00c2e9?labelColor=0d0d0d)](${GALLERY})
+\`\`\`
+
+It is a link, not a certification: it means your plugin is in an open-data registry that publishes its rejections too, and nothing more.
+
 ## Field notes
 
 Verified dsh traps, skill discovery rules, and hook-bridge limits live in [howto-dsh](https://github.com/${cfg.org}/howto-dsh).
