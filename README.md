@@ -13,7 +13,8 @@ A spam-filtered, open-data registry of [DeepSeek Harness](https://github.com/dee
 Most awesome lists are prose. This one is data: [`data/plugins.json`](data/plugins.json) is the source of truth, this README is rendered from it. Build on the JSON directly:
 
 ```sh
-curl -s https://raw.githubusercontent.com/dshworks/awesome-dsh-plugins/main/data/plugins.json
+curl -s https://dsh.works/awesome-dsh-plugins/plugins.json                 # every entry
+curl -s https://dsh.works/awesome-dsh-plugins/stats.json                   # just the counts, ~150 bytes
 ```
 
 Each entry carries two orthogonal dimensions: `category` is the form factor (bundle, plugin, skill, theme, tool — what dsh docs call things) and `tags` is the functional area (what it actually does). `stars` is the linked repo's GitHub count (refreshed by `scripts/stars.mjs`, display signal only), and `featured` marks a hand-curated editor's pick.
