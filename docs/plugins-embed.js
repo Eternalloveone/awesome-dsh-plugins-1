@@ -9807,7 +9807,7 @@ window.__PLUGINS__ = {
     {
       "name": "dsh-watch",
       "repo": "dshworks/dsh-watch",
-      "description": "Background stream listeners that wake the agent: matching lines from a long-running command or a growing file arrive as batched, budgeted in-session notices. Listeners are first-class jobs.",
+      "description": "Background stream listeners that wake the agent: matching lines from a command or growing file arrive as batched, budgeted notices. Plus a daemon host for a watcher that runs unattended.",
       "category": "plugin",
       "tags": [
         "agents",
@@ -9815,12 +9815,13 @@ window.__PLUGINS__ = {
       ],
       "official": false,
       "added": "2026-08-14",
-      "lastVerified": "2026-08-14",
+      "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
       "starsUpdated": "2026-08-15",
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-15",
+      "npm": "@dshworks/dsh-watch"
     },
     {
       "name": "dsh-monitor",
