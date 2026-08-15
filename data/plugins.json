@@ -48850,7 +48850,7 @@
     {
       "name": "dsh-meter",
       "repo": "dshworks/dsh-meter",
-      "description": "DeepSeek's time-of-use meter: session cost billed at the tariff in force when each request was dispatched, the running tariff and its countdown, and a local-time tariff clock in the composer dock.",
+      "description": "DeepSeek's time-of-use meter for the Web UI: session cost billed at the tariff in force when each request was dispatched, a local-time tariff clock, cache economics, and the account balance.",
       "category": "plugin",
       "official": false,
       "added": "2026-08-15",
