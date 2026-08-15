@@ -48863,7 +48863,8 @@ window.__PLUGINS__ = {
       ],
       "stars": 0,
       "starsUpdated": "2026-08-15",
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-15",
+      "npm": "@dshworks/dsh-meter"
     },
     {
       "name": "dsh-ui-hub",
