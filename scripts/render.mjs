@@ -279,12 +279,36 @@ if (!MARKERS.test(indexSrc)) {
 }
 const indexBody = indexSrc.replace(MARKERS, `<!-- render:meta -->\n${headMeta}\n  <!-- /render:meta -->`);
 
+// A counts-only file so a page can quote this registry's size without
+// pulling the whole 1.6MB of it. dsh.works reads it on load; anything
+// else that wants the numbers gets them for ~150 bytes.
+const rejected = read("data/rejected.json").rejected ?? [];
+const stats = {
+  updated: data.updated,
+  plugins: data.plugins.length,
+  npm: data.plugins.filter((p) => p.npm).length,
+  categories: Object.fromEntries(
+    [...new Set(data.plugins.map((p) => p.category))]
+      .sort()
+      .map((c) => [c, data.plugins.filter((p) => p.category === c).length]),
+  ),
+  tags: TAGS.length,
+  rejected: rejected.length,
+  rejectedRecheck: rejected.filter((r) => r.recheckAfter).length,
+  verifiedAgainst: data.plugins
+    .map((p) => p.verifiedAgainst)
+    .filter(Boolean)
+    .sort()
+    .at(-1) ?? null,
+};
+
 const artifacts = [
   { rel: "README.md", body: readme },
   ...lists,
   { rel: INDEX_REL, body: indexBody },
   { rel: "docs/plugins.json", body: `${JSON.stringify(data, null, 2)}\n` },
   { rel: "docs/plugins-embed.js", body: `window.__PLUGINS__ = ${JSON.stringify(data, null, 2)};\n` },
+  { rel: "docs/stats.json", body: `${JSON.stringify(stats, null, 2)}\n` },
 ];
 
 // A README that GitHub truncates looks complete until you scroll to the cut.

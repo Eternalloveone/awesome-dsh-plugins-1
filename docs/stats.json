@@ -1,0 +1,16 @@
+{
+  "updated": "2026-08-16",
+  "plugins": 2757,
+  "npm": 580,
+  "categories": {
+    "bundle": 83,
+    "plugin": 2650,
+    "skill": 20,
+    "theme": 1,
+    "tool": 3
+  },
+  "tags": 17,
+  "rejected": 849,
+  "rejectedRecheck": 817,
+  "verifiedAgainst": "0.1.0-rc.6"
+}
