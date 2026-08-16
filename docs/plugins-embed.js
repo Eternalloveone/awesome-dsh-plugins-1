@@ -14,7 +14,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 122370,
+      "stars": 127421,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -33,7 +33,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 122370,
+      "stars": 127421,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -52,7 +52,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 122370,
+      "stars": 127421,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -71,7 +71,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 122370,
+      "stars": 127421,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -90,7 +90,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 122370,
+      "stars": 127421,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -108,7 +108,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 2115,
+      "stars": 2279,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
@@ -126,7 +126,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 3025,
+      "stars": 3277,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -144,7 +144,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 22633,
+      "stars": 22737,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -161,7 +161,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 35,
+      "stars": 37,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -178,7 +178,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 61,
+      "stars": 62,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -196,7 +196,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 475,
+      "stars": 500,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
@@ -214,7 +214,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 1391,
+      "stars": 1486,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -233,7 +233,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 182,
+      "stars": 187,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -250,7 +250,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 206,
+      "stars": 212,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -267,7 +267,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 61,
+      "stars": 63,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -285,7 +285,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 434,
+      "stars": 451,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -302,7 +302,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 137,
+      "stars": 153,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -319,12 +319,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 373,
+      "stars": 399,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-at-file",
@@ -336,12 +336,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 241,
+      "stars": 258,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-better-sidebar",
@@ -354,7 +354,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 1429,
+      "stars": 1549,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -406,7 +406,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 46,
+      "stars": 45,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -424,7 +424,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 92,
+      "stars": 96,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -441,7 +441,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 182,
+      "stars": 189,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -460,7 +460,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 976,
+      "stars": 1049,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -477,7 +477,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 115,
+      "stars": 123,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -511,7 +511,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 45,
+      "stars": 46,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -545,7 +545,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 87,
+      "stars": 90,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -562,7 +562,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 178,
+      "stars": 194,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -581,7 +581,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@liustack/modsearch",
-      "stars": 106,
+      "stars": 110,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -598,7 +598,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 119,
+      "stars": 134,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -617,7 +617,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "create-dsh-plugin",
-      "stars": 35,
+      "stars": 37,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -635,7 +635,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 43,
+      "stars": 105,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -652,7 +652,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 49,
+      "stars": 53,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -691,7 +691,7 @@ window.__PLUGINS__ = {
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-bash-encoding",
@@ -793,7 +793,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-easyssh",
@@ -805,7 +805,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -878,7 +878,7 @@ window.__PLUGINS__ = {
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-fabric",
@@ -890,7 +890,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
+      "stars": 14,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -992,7 +992,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models"
@@ -1026,7 +1026,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 42,
+      "stars": 50,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -1083,7 +1083,7 @@ window.__PLUGINS__ = {
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-role-router",
@@ -1197,7 +1197,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -1270,7 +1270,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-track",
@@ -1287,7 +1287,7 @@ window.__PLUGINS__ = {
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-ui-progress",
@@ -1367,7 +1367,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 260,
+      "stars": 374,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
@@ -1384,7 +1384,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
@@ -1435,7 +1435,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 21,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -1537,7 +1537,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -1622,7 +1622,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -1644,7 +1644,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-auto-approval",
@@ -1690,7 +1690,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -1707,7 +1707,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -1831,7 +1831,7 @@ window.__PLUGINS__ = {
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-engram-relay",
@@ -1877,7 +1877,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
@@ -1911,12 +1911,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-personalize",
@@ -1945,7 +1945,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
@@ -1962,7 +1962,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 53,
+      "stars": 57,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -1979,7 +1979,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 58,
+      "stars": 60,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -2030,7 +2030,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 21,
+      "stars": 22,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -2358,7 +2358,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-email",
@@ -2375,7 +2375,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "knowlp-rag",
@@ -2409,7 +2409,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skill-viewer",
@@ -2421,7 +2421,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 40,
+      "stars": 41,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -2438,7 +2438,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
@@ -2455,7 +2455,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 41,
+      "stars": 45,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -2472,7 +2472,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 57,
+      "stars": 66,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -2540,7 +2540,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -2557,7 +2557,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -2591,7 +2591,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -2664,7 +2664,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-file-claim",
@@ -2681,7 +2681,7 @@ window.__PLUGINS__ = {
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "better-deepseek-harness",
@@ -2732,7 +2732,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-benchmark-evidence",
@@ -2812,7 +2812,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -2868,7 +2868,7 @@ window.__PLUGINS__ = {
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-model-modes",
@@ -2897,7 +2897,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -3004,7 +3004,7 @@ window.__PLUGINS__ = {
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "llm-adaptive",
@@ -3084,7 +3084,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -3191,7 +3191,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-recommend",
@@ -3203,7 +3203,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -3322,7 +3322,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -3407,7 +3407,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -3459,7 +3459,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -3850,7 +3850,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -3867,7 +3867,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 17,
+      "stars": 20,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -3969,7 +3969,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 28,
+      "stars": 33,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -4127,7 +4127,7 @@ window.__PLUGINS__ = {
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-session-delete",
@@ -4139,7 +4139,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -4173,7 +4173,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 19,
+      "stars": 30,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models"
@@ -4377,7 +4377,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -4394,7 +4394,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 17,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -4496,7 +4496,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -4518,7 +4518,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-evidence-memory",
@@ -4581,7 +4581,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -4598,7 +4598,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -4637,7 +4637,7 @@ window.__PLUGINS__ = {
       "tags": [
         "notifications"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepjit",
@@ -4734,7 +4734,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -4773,7 +4773,7 @@ window.__PLUGINS__ = {
       "tags": [
         "notifications"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-genshin-startup",
@@ -4841,7 +4841,7 @@ window.__PLUGINS__ = {
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-im-gateway",
@@ -4960,7 +4960,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-slack",
@@ -4977,7 +4977,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-plugin-store",
@@ -4989,12 +4989,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 15,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-balance-plugin",
@@ -5091,7 +5091,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -5113,7 +5113,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-todo-freshness-guard",
@@ -5346,7 +5346,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 408,
+      "stars": 510,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -5363,7 +5363,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 46,
+      "stars": 49,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -5431,7 +5431,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -5453,7 +5453,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skill-loader",
@@ -5499,7 +5499,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -5584,7 +5584,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -5703,7 +5703,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -5771,7 +5771,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
@@ -5788,7 +5788,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 32,
+      "stars": 48,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
@@ -5805,7 +5805,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -5909,7 +5909,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -5926,7 +5926,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -5943,7 +5943,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -6130,7 +6130,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -6148,7 +6148,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@oil-oil/dsh-vision",
-      "stars": 47,
+      "stars": 53,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
@@ -6216,7 +6216,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -6251,7 +6251,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@dsh-external/dsh-plugin-workshop",
-      "stars": 24,
+      "stars": 25,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -6336,7 +6336,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -6529,7 +6529,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-claude-import",
@@ -6559,12 +6559,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@dsh-external/dsh-motion",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-calculator",
@@ -6645,12 +6645,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skillradar",
@@ -6667,7 +6667,7 @@ window.__PLUGINS__ = {
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-qrcode",
@@ -6684,7 +6684,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-usage-record",
@@ -6904,7 +6904,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -6922,7 +6922,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@huiliyi37/dsh-office",
-      "stars": 8,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -6940,7 +6940,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@zseven-w/dsh-noema",
-      "stars": 73,
+      "stars": 81,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -6958,12 +6958,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "dsh-web-lan-access",
-      "stars": 8,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-web-mobile-fix",
@@ -6981,7 +6981,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-bilibili",
@@ -7048,7 +7048,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "dsh-attachments",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -7137,7 +7137,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 15,
+      "stars": 14,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -7173,7 +7173,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@sanqi-normal/dsh-webui-market-plugin",
-      "stars": 60,
+      "stars": 62,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -7244,7 +7244,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "dsh-skill-manager-ytxue",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -7297,7 +7297,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -7405,7 +7405,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@reverse-skill/dsh-reverse-skill",
-      "stars": 18,
+      "stars": 20,
       "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
@@ -7518,7 +7518,7 @@ window.__PLUGINS__ = {
       "tags": [
         "notifications"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "muretai-dsh-skill",
@@ -7567,7 +7567,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "dsh-bookmarks",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -7621,7 +7621,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@tencent-connect/dsh-qqbot",
-      "stars": 44,
+      "stars": 49,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -7715,7 +7715,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-stream-rules",
@@ -7817,7 +7817,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 74,
+      "stars": 80,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -7889,7 +7889,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -8140,7 +8140,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -8176,7 +8176,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -8286,7 +8286,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 31,
+      "stars": 36,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -8304,7 +8304,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -8340,7 +8340,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 11,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -8358,7 +8358,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 46,
+      "stars": 55,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -8376,7 +8376,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
@@ -8430,12 +8430,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 40,
+      "stars": 47,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-computer-use-zrui",
@@ -8447,7 +8447,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -8498,7 +8498,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -8625,7 +8625,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -8643,7 +8643,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -8679,7 +8679,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -8702,7 +8702,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "godot-bridge"
     },
     {
@@ -8918,7 +8918,7 @@ window.__PLUGINS__ = {
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-img"
     },
     {
@@ -8931,7 +8931,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 137,
+      "stars": 140,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -8950,12 +8950,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-store"
     },
     {
@@ -9146,7 +9146,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models"
@@ -9343,7 +9343,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 29,
+      "stars": 31,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -9404,7 +9404,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-channel-feishu"
     },
     {
@@ -9423,7 +9423,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-channel-telegram"
     },
     {
@@ -9442,7 +9442,7 @@ window.__PLUGINS__ = {
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-channel-wechat"
     },
     {
@@ -9617,7 +9617,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -9744,7 +9744,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -10105,7 +10105,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -10168,7 +10168,7 @@ window.__PLUGINS__ = {
         "agents",
         "capabilities"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-s1"
     },
     {
@@ -10273,7 +10273,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -10292,7 +10292,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
@@ -10347,7 +10347,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -10389,7 +10389,7 @@ window.__PLUGINS__ = {
         "memory",
         "agents"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-engine-switch"
     },
     {
@@ -10420,7 +10420,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 31,
+      "stars": 38,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -10456,7 +10456,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
@@ -10480,7 +10480,7 @@ window.__PLUGINS__ = {
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-cluster",
@@ -10510,13 +10510,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
+      "stars": 14,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "ui"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-models-config-plugin"
     },
     {
@@ -10769,7 +10769,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -10792,7 +10792,7 @@ window.__PLUGINS__ = {
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-output-styles"
     },
     {
@@ -10829,7 +10829,7 @@ window.__PLUGINS__ = {
         "memory",
         "safety"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-memento"
     },
     {
@@ -10879,13 +10879,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "interop"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-permission-rules"
     },
     {
@@ -10916,7 +10916,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -10970,7 +10970,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -11024,13 +11024,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-delete-session"
     },
     {
@@ -11087,7 +11087,7 @@ window.__PLUGINS__ = {
         "memory",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@feiyang666/deepseekharnessdesktop-vault"
     },
     {
@@ -11100,12 +11100,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
+      "stars": 20,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@feiyang666/deepseekharnessdesktop"
     },
     {
@@ -11178,7 +11178,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-fail-logger"
     },
     {
@@ -11196,7 +11196,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "@linxin666/dsh-balance"
     },
     {
@@ -11563,7 +11563,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -11581,7 +11581,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 456,
+      "stars": 459,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -11716,7 +11716,7 @@ window.__PLUGINS__ = {
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@tomowang/dsh-tui"
     },
     {
@@ -11729,7 +11729,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -12062,13 +12062,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "reasoning-slider"
     },
     {
@@ -12263,7 +12263,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
@@ -12410,12 +12410,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-opencode-go-quota"
     },
     {
@@ -12465,7 +12465,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
@@ -12502,7 +12502,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -12539,7 +12539,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -12703,13 +12703,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-sidebar-qa"
     },
     {
@@ -12834,7 +12834,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -12913,7 +12913,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-scnet"
     },
     {
@@ -12926,7 +12926,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -13298,7 +13298,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 20,
+      "stars": 21,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -13351,7 +13351,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -13428,7 +13428,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-deepseek-billing"
     },
     {
@@ -13496,7 +13496,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -13590,7 +13590,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@deeptrial/dsh-bash-rtk"
     },
     {
@@ -13944,7 +13944,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -14248,7 +14248,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -14487,7 +14487,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-plugin-grok2api-media-tool"
     },
     {
@@ -14554,7 +14554,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -15144,7 +15144,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -15180,7 +15180,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -15296,7 +15296,7 @@ window.__PLUGINS__ = {
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-forge"
     },
     {
@@ -15403,7 +15403,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -15457,7 +15457,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -15552,12 +15552,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-ffmpeg"
     },
     {
@@ -15606,7 +15606,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -15751,7 +15751,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -15806,7 +15806,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models"
@@ -15915,7 +15915,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -16061,7 +16061,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -16188,7 +16188,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 69,
+      "stars": 71,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
@@ -16212,7 +16212,7 @@ window.__PLUGINS__ = {
         "interop",
         "ui"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-github-login"
     },
     {
@@ -16268,7 +16268,7 @@ window.__PLUGINS__ = {
         "interop",
         "memory"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-plugin-session-import"
     },
     {
@@ -16299,7 +16299,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -16486,12 +16486,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-codex-port"
     },
     {
@@ -16522,7 +16522,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -16741,7 +16741,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -16836,7 +16836,7 @@ window.__PLUGINS__ = {
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@deepseek-ai/dsh-client-token-pricing"
     },
     {
@@ -16976,7 +16976,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1391,
+      "stars": 1486,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -17065,7 +17065,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -17121,7 +17121,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -17264,12 +17264,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-hyperframes"
     },
     {
@@ -17282,12 +17282,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-remotion"
     },
     {
@@ -17300,12 +17300,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-voice"
     },
     {
@@ -17336,7 +17336,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -17354,7 +17354,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -17377,7 +17377,7 @@ window.__PLUGINS__ = {
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-config-manager"
     },
     {
@@ -17657,7 +17657,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -17780,12 +17780,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-sql"
     },
     {
@@ -17839,7 +17839,7 @@ window.__PLUGINS__ = {
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "lx-music-for-dsh"
     },
     {
@@ -17893,7 +17893,7 @@ window.__PLUGINS__ = {
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-session-manager-semidia",
@@ -18009,7 +18009,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 24,
+      "stars": 28,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -18077,7 +18077,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 79,
+      "stars": 81,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -18094,7 +18094,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 16,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -18128,12 +18128,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mneme",
@@ -18146,7 +18146,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
@@ -18253,7 +18253,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7404,
+      "stars": 8400,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -18270,7 +18270,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1019,
+      "stars": 1023,
       "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
@@ -18288,7 +18288,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 596,
+      "stars": 598,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -18306,7 +18306,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 522,
+      "stars": 523,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -18324,7 +18324,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 417,
+      "stars": 421,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -18341,7 +18341,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 423,
+      "stars": 425,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -18359,13 +18359,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 393,
+      "stars": 461,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "engramory",
@@ -18411,7 +18411,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 103,
+      "stars": 112,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -18446,7 +18446,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 71,
+      "stars": 75,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -18463,7 +18463,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 112,
+      "stars": 121,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -18481,7 +18481,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 38,
+      "stars": 39,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -18498,7 +18498,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 44,
+      "stars": 45,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -18515,7 +18515,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 30,
+      "stars": 29,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -18533,7 +18533,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 45,
+      "stars": 48,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -18567,7 +18567,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 28,
+      "stars": 29,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -18603,7 +18603,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 25,
+      "stars": 26,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -18620,7 +18620,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 39,
+      "stars": 46,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -18638,7 +18638,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -18661,7 +18661,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "DSH-Transparent-UI-Plugin",
@@ -18673,7 +18673,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 72,
+      "stars": 134,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -18708,7 +18708,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 17,
+      "stars": 18,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -18731,7 +18731,7 @@ window.__PLUGINS__ = {
         "models",
         "interop"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "distill",
@@ -18760,12 +18760,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 35,
+      "stars": 49,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-milestone",
@@ -18812,7 +18812,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 20,
+      "stars": 25,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -18829,7 +18829,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 22,
+      "stars": 26,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -18915,7 +18915,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 25,
+      "stars": 26,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -18949,7 +18949,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -18984,7 +18984,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -19020,7 +19020,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -19038,7 +19038,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -19091,12 +19091,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 17,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "powercontext-dsh",
@@ -19184,7 +19184,7 @@ window.__PLUGINS__ = {
         "agents",
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-product-subagents",
@@ -19196,7 +19196,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
@@ -19214,7 +19214,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -19231,7 +19231,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -19249,7 +19249,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
@@ -19284,7 +19284,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 21,
+      "stars": 22,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -19475,7 +19475,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -19527,7 +19527,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
@@ -19545,7 +19545,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -19562,7 +19562,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
@@ -19580,7 +19580,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -19622,7 +19622,7 @@ window.__PLUGINS__ = {
         "agents",
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-luoross",
@@ -19774,7 +19774,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -19797,7 +19797,7 @@ window.__PLUGINS__ = {
         "devtools",
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-tui-boxeryao",
@@ -19809,7 +19809,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -19879,7 +19879,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -20004,7 +20004,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -20021,7 +20021,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -20074,12 +20074,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "DeepSeek-harness-qqbot",
@@ -20091,7 +20091,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
@@ -20115,7 +20115,7 @@ window.__PLUGINS__ = {
         "capabilities",
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-evolve",
@@ -20127,7 +20127,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -20235,7 +20235,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
@@ -20484,7 +20484,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -20696,7 +20696,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
@@ -20784,7 +20784,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -20820,7 +20820,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -20872,7 +20872,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -21045,7 +21045,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -21277,7 +21277,7 @@ window.__PLUGINS__ = {
         "memory",
         "observability"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-excel-chat",
@@ -21294,7 +21294,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "long-draft-input",
@@ -21375,7 +21375,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -21500,7 +21500,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -21656,13 +21656,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-multimodal",
@@ -21781,7 +21781,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -21805,7 +21805,7 @@ window.__PLUGINS__ = {
         "memory",
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-safe-delete",
@@ -21875,7 +21875,7 @@ window.__PLUGINS__ = {
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-tdai-memory",
@@ -21887,7 +21887,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -21927,7 +21927,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-starsqvq",
@@ -22024,7 +22024,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -22181,7 +22181,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -22232,7 +22232,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -22321,7 +22321,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -22391,13 +22391,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-negative-ledger",
@@ -22551,7 +22551,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -22939,7 +22939,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 14,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -23063,7 +23063,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -23117,7 +23117,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -23487,12 +23487,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-gateway-config",
@@ -23944,12 +23944,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-think-chinese",
@@ -24364,7 +24364,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -24487,7 +24487,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
@@ -24616,7 +24616,7 @@ window.__PLUGINS__ = {
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-lsp-actions",
@@ -24633,7 +24633,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-guide",
@@ -24651,7 +24651,7 @@ window.__PLUGINS__ = {
         "knowledge",
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-session-pin",
@@ -24844,7 +24844,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "pack-agent",
@@ -25102,7 +25102,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
@@ -25213,7 +25213,7 @@ window.__PLUGINS__ = {
         "channels",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-session-search",
@@ -25284,7 +25284,7 @@ window.__PLUGINS__ = {
         "memory",
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-capability-inspector",
@@ -25640,7 +25640,7 @@ window.__PLUGINS__ = {
         "knowledge",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-vision-bridge-xieweika",
@@ -25706,7 +25706,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -26128,7 +26128,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -26233,7 +26233,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -26514,7 +26514,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -26548,7 +26548,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -26777,7 +26777,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
@@ -26961,7 +26961,7 @@ window.__PLUGINS__ = {
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-custom-provider-enhancer",
@@ -27383,7 +27383,7 @@ window.__PLUGINS__ = {
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-thought-buddy",
@@ -27854,13 +27854,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "agents"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-eyes",
@@ -28037,7 +28037,7 @@ window.__PLUGINS__ = {
       "tags": [
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-diagram",
@@ -28054,7 +28054,7 @@ window.__PLUGINS__ = {
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mcp-manager-henc49",
@@ -28107,7 +28107,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-sonar",
@@ -28277,7 +28277,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
@@ -28577,7 +28577,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -28630,7 +28630,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
@@ -29300,7 +29300,7 @@ window.__PLUGINS__ = {
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-minomiao",
@@ -29318,7 +29318,7 @@ window.__PLUGINS__ = {
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-missher1",
@@ -29503,7 +29503,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -30007,7 +30007,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -30550,7 +30550,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -30795,7 +30795,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -30819,7 +30819,7 @@ window.__PLUGINS__ = {
         "agents",
         "marketplace"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-slice-agent-loop",
@@ -31028,7 +31028,7 @@ window.__PLUGINS__ = {
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-git-graph-whiteplu",
@@ -31146,12 +31146,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-writing-remote",
@@ -31169,7 +31169,7 @@ window.__PLUGINS__ = {
         "knowledge",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-deepseek-usage-xavier71",
@@ -31235,7 +31235,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
@@ -31653,7 +31653,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -31797,7 +31797,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-billing-balance",
@@ -31952,7 +31952,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -32057,7 +32057,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -32147,7 +32147,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -33229,7 +33229,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -33253,7 +33253,7 @@ window.__PLUGINS__ = {
         "agents",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-chatgpt-bridge-cloudymo",
@@ -33585,7 +33585,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -33627,7 +33627,7 @@ window.__PLUGINS__ = {
         "capabilities",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-agent-eval",
@@ -33852,7 +33852,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
@@ -33906,7 +33906,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
@@ -34137,7 +34137,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -34207,7 +34207,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 93,
+      "stars": 136,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -34312,7 +34312,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 10,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -34348,13 +34348,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-tool-gbt9704",
@@ -34830,7 +34830,7 @@ window.__PLUGINS__ = {
         "knowledge",
         "models"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-local-utilities",
@@ -34928,7 +34928,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -35035,12 +35035,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-spark-input",
@@ -35180,7 +35180,7 @@ window.__PLUGINS__ = {
         "vision",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-ibka-balance",
@@ -35391,7 +35391,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-file-manager",
@@ -35954,7 +35954,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -36288,7 +36288,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -36990,7 +36990,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-turn-marks",
@@ -37062,7 +37062,7 @@ window.__PLUGINS__ = {
         "vision",
         "channels"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dynamic-schulte-dsh",
@@ -37788,7 +37788,7 @@ window.__PLUGINS__ = {
         "agents",
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-omnibridge",
@@ -38177,7 +38177,7 @@ window.__PLUGINS__ = {
         "fun",
         "terminal"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-qiuchunh",
@@ -38371,7 +38371,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-shortcuts",
@@ -38611,7 +38611,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -38841,7 +38841,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -38900,7 +38900,7 @@ window.__PLUGINS__ = {
         "models",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-polish-prompts",
@@ -39243,7 +39243,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models"
@@ -39348,7 +39348,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 23,
+      "stars": 30,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
@@ -39871,7 +39871,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -39964,7 +39964,7 @@ window.__PLUGINS__ = {
         "memory",
         "ui"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-vision-ocr",
@@ -40156,7 +40156,7 @@ window.__PLUGINS__ = {
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-file-explorer-wolfsonl",
@@ -40243,7 +40243,7 @@ window.__PLUGINS__ = {
         "vision",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-qwen-multimodal",
@@ -40552,7 +40552,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -41228,7 +41228,7 @@ window.__PLUGINS__ = {
         "notifications",
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-sound-notifier",
@@ -41263,7 +41263,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-clipboard",
@@ -41280,7 +41280,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-cron-parse",
@@ -41298,7 +41298,7 @@ window.__PLUGINS__ = {
         "agents",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-dead-links",
@@ -41315,7 +41315,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-fetch-file",
@@ -41332,7 +41332,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-fmt",
@@ -41349,7 +41349,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-handoff-zhijiang",
@@ -41367,7 +41367,7 @@ window.__PLUGINS__ = {
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-http",
@@ -41384,7 +41384,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-jwt",
@@ -41401,7 +41401,7 @@ window.__PLUGINS__ = {
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-password",
@@ -41418,7 +41418,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-pkg-info",
@@ -41435,7 +41435,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-template-zhijiang",
@@ -41471,7 +41471,7 @@ window.__PLUGINS__ = {
         "safety",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-url-tools",
@@ -41488,7 +41488,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-when",
@@ -41505,7 +41505,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-visionary",
@@ -41603,12 +41603,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-github-release-radar",
@@ -41620,7 +41620,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -41655,7 +41655,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models",
@@ -41673,13 +41673,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skill-adapter",
@@ -41815,7 +41815,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13079,
+      "stars": 13193,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
@@ -41833,7 +41833,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3842,
+      "stars": 3848,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
@@ -41852,7 +41852,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3455,
+      "stars": 3464,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -41908,7 +41908,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 141,
+      "stars": 142,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -41926,13 +41926,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 114,
+      "stars": 115,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-app",
@@ -41945,7 +41945,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 207,
+      "stars": 211,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -41964,7 +41964,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 84,
+      "stars": 85,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -42001,7 +42001,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 57,
+      "stars": 85,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -42019,7 +42019,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 53,
+      "stars": 59,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -42038,7 +42038,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 45,
+      "stars": 49,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
@@ -42093,7 +42093,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 27,
+      "stars": 29,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -42112,7 +42112,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 33,
+      "stars": 32,
       "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
@@ -42130,7 +42130,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 17,
+      "stars": 19,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
@@ -42221,7 +42221,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
@@ -42276,7 +42276,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -42313,7 +42313,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 11,
+      "stars": 15,
       "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
@@ -42331,7 +42331,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
@@ -42387,7 +42387,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
+      "stars": 13,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
@@ -42424,13 +42424,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "Agent_Extensions",
@@ -42517,7 +42517,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
@@ -42592,7 +42592,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -42654,7 +42654,7 @@ window.__PLUGINS__ = {
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dib",
@@ -42766,7 +42766,7 @@ window.__PLUGINS__ = {
         "memory",
         "terminal"
       ],
-      "pushedAt": "2026-08-13"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-billing-plugin",
@@ -42948,7 +42948,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-snowcres",
@@ -43036,13 +43036,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-preset-minimal-windows",
@@ -43078,7 +43078,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-notify-plugins",
@@ -43264,7 +43264,7 @@ window.__PLUGINS__ = {
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-pub",
@@ -43431,7 +43431,7 @@ window.__PLUGINS__ = {
         "marketplace",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-plugins",
@@ -43468,7 +43468,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-launchpad",
@@ -43803,7 +43803,7 @@ window.__PLUGINS__ = {
         "terminal",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-enhance",
@@ -44025,7 +44025,7 @@ window.__PLUGINS__ = {
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-manager",
@@ -44203,7 +44203,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
@@ -44313,7 +44313,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -44630,7 +44630,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
@@ -45211,7 +45211,7 @@ window.__PLUGINS__ = {
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-browser-bridge-ycp424c",
@@ -45280,7 +45280,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
@@ -45412,7 +45412,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -45580,7 +45580,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "models"
@@ -45623,7 +45623,7 @@ window.__PLUGINS__ = {
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-arbitrary-host",
@@ -45785,7 +45785,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
@@ -45864,7 +45864,7 @@ window.__PLUGINS__ = {
         "models",
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "ds-football-agent",
@@ -46098,7 +46098,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
@@ -46290,7 +46290,7 @@ window.__PLUGINS__ = {
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-s3yf1337",
@@ -46713,7 +46713,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -46787,7 +46787,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -46865,7 +46865,7 @@ window.__PLUGINS__ = {
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-bailang1",
@@ -47218,7 +47218,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 50,
+      "stars": 55,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -47345,7 +47345,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
@@ -47613,13 +47613,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "vision"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-pet-vulcan62",
@@ -47703,7 +47703,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -47742,7 +47742,7 @@ window.__PLUGINS__ = {
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-colorscheme",
@@ -47794,7 +47794,7 @@ window.__PLUGINS__ = {
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-pets",
@@ -47806,7 +47806,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
@@ -47865,7 +47865,7 @@ window.__PLUGINS__ = {
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "DeepSeek-Harness-Pet",
@@ -48201,7 +48201,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 41,
+      "stars": 54,
       "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
@@ -48255,7 +48255,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
@@ -48366,7 +48366,7 @@ window.__PLUGINS__ = {
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-session-unarchive",
@@ -48396,7 +48396,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 93,
+      "stars": 136,
       "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
@@ -48669,7 +48669,7 @@ window.__PLUGINS__ = {
         "safety",
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-vision-workbench",
@@ -48753,7 +48753,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
@@ -48787,7 +48787,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
@@ -48877,7 +48877,7 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
