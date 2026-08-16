@@ -14,8 +14,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 114192,
-      "starsUpdated": "2026-08-15",
+      "stars": 117382,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -33,8 +33,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 114192,
-      "starsUpdated": "2026-08-15",
+      "stars": 117382,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -52,8 +52,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 114192,
-      "starsUpdated": "2026-08-15",
+      "stars": 117382,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -71,8 +71,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 114192,
-      "starsUpdated": "2026-08-15",
+      "stars": 117382,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -90,8 +90,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 114192,
-      "starsUpdated": "2026-08-15",
+      "stars": 117382,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -108,8 +108,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 1888,
-      "starsUpdated": "2026-08-15",
+      "stars": 1971,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -126,13 +126,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 2685,
-      "starsUpdated": "2026-08-15",
+      "stars": 2803,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
       "featured": true,
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "colleague-skill",
@@ -144,8 +144,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 22460,
-      "starsUpdated": "2026-08-15",
+      "stars": 22521,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -161,8 +161,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 33,
-      "starsUpdated": "2026-08-15",
+      "stars": 34,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -179,7 +179,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "stars": 56,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -196,8 +196,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 432,
-      "starsUpdated": "2026-08-15",
+      "stars": 442,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -214,13 +214,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 1252,
-      "starsUpdated": "2026-08-15",
+      "stars": 1303,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
       "featured": true,
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-tianshu-tui",
@@ -233,12 +233,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 170,
-      "starsUpdated": "2026-08-15",
+      "stars": 175,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "oh-dsh",
@@ -250,12 +250,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 193,
-      "starsUpdated": "2026-08-15",
+      "stars": 197,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-workflow",
@@ -267,8 +267,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 59,
-      "starsUpdated": "2026-08-15",
+      "stars": 60,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -285,8 +285,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 411,
-      "starsUpdated": "2026-08-15",
+      "stars": 417,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -302,8 +302,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 121,
-      "starsUpdated": "2026-08-15",
+      "stars": 126,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -319,8 +319,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 333,
-      "starsUpdated": "2026-08-15",
+      "stars": 344,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -336,8 +336,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 220,
-      "starsUpdated": "2026-08-15",
+      "stars": 227,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -354,8 +354,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 1248,
-      "starsUpdated": "2026-08-15",
+      "stars": 1316,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -373,7 +373,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "stars": 24,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -390,7 +390,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "stars": 49,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -407,7 +407,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "stars": 46,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -424,8 +424,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 81,
-      "starsUpdated": "2026-08-15",
+      "stars": 86,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -441,8 +441,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 169,
-      "starsUpdated": "2026-08-15",
+      "stars": 173,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -460,8 +460,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 900,
-      "starsUpdated": "2026-08-15",
+      "stars": 927,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -477,8 +477,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 97,
-      "starsUpdated": "2026-08-15",
+      "stars": 102,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -495,7 +495,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "stars": 322,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -511,12 +511,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 46,
-      "starsUpdated": "2026-08-15",
+      "stars": 45,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "ex-skill",
@@ -529,7 +529,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "stars": 1057,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -545,8 +545,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
-      "stars": 81,
-      "starsUpdated": "2026-08-15",
+      "stars": 83,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -562,13 +562,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 161,
-      "starsUpdated": "2026-08-15",
+      "stars": 168,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
       "featured": true,
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "modsearch",
@@ -582,7 +582,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@liustack/modsearch",
       "stars": 105,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -598,8 +598,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 108,
-      "starsUpdated": "2026-08-15",
+      "stars": 113,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -617,12 +617,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "create-dsh-plugin",
-      "stars": 28,
-      "starsUpdated": "2026-08-15",
+      "stars": 31,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-context",
@@ -636,11 +636,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 42,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-toy",
@@ -652,8 +652,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 46,
-      "starsUpdated": "2026-08-15",
+      "stars": 49,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -670,7 +670,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -687,7 +687,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -704,7 +704,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -721,7 +721,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -738,7 +738,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -755,7 +755,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -772,7 +772,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -789,7 +789,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 27,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -805,12 +805,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-essential",
@@ -823,7 +823,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -840,7 +840,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -857,7 +857,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -874,7 +874,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -890,12 +890,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-file-explorer",
@@ -908,7 +908,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -925,7 +925,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -942,7 +942,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -958,8 +958,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 21,
-      "starsUpdated": "2026-08-15",
+      "stars": 22,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -976,7 +976,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -993,11 +993,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-minigames",
@@ -1010,7 +1010,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -1026,8 +1026,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 28,
-      "starsUpdated": "2026-08-15",
+      "stars": 32,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -1045,7 +1045,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1062,7 +1062,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1079,7 +1079,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -1096,7 +1096,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -1113,7 +1113,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1130,7 +1130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -1147,7 +1147,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -1163,8 +1163,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1181,7 +1181,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -1198,7 +1198,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1215,7 +1215,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1232,7 +1232,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1249,7 +1249,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1266,7 +1266,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1283,7 +1283,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -1300,7 +1300,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1317,7 +1317,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1334,7 +1334,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1351,7 +1351,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -1367,12 +1367,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 141,
-      "starsUpdated": "2026-08-15",
+      "stars": 159,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-web-ui-notify",
@@ -1384,8 +1384,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "stars": 15,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -1402,7 +1402,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1418,8 +1418,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "stars": 16,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1436,7 +1436,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -1453,11 +1453,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-imagecraft",
@@ -1470,7 +1470,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -1487,7 +1487,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -1504,7 +1504,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1521,7 +1521,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -1537,8 +1537,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -1555,7 +1555,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1572,7 +1572,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -1589,7 +1589,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -1606,7 +1606,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1622,8 +1622,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1640,7 +1640,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1657,7 +1657,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -1674,7 +1674,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1691,7 +1691,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -1708,7 +1708,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -1725,7 +1725,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -1742,7 +1742,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -1759,7 +1759,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1775,8 +1775,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 14,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1793,7 +1793,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -1810,7 +1810,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -1827,7 +1827,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -1844,7 +1844,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -1861,7 +1861,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1878,7 +1878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -1895,7 +1895,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1912,7 +1912,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -1929,7 +1929,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -1946,7 +1946,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -1962,8 +1962,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 39,
-      "starsUpdated": "2026-08-15",
+      "stars": 48,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -1979,8 +1979,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 54,
-      "starsUpdated": "2026-08-15",
+      "stars": 57,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -1997,7 +1997,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2014,7 +2014,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -2030,8 +2030,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "stars": 21,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -2048,7 +2048,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -2065,7 +2065,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2082,7 +2082,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2099,7 +2099,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2116,7 +2116,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2133,7 +2133,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -2150,7 +2150,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -2167,7 +2167,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -2184,7 +2184,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -2201,7 +2201,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2218,7 +2218,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2235,7 +2235,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2252,7 +2252,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2269,7 +2269,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2286,7 +2286,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -2303,7 +2303,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -2320,7 +2320,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -2337,7 +2337,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -2354,7 +2354,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2371,7 +2371,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -2388,7 +2388,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -2405,7 +2405,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -2421,8 +2421,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 37,
-      "starsUpdated": "2026-08-15",
+      "stars": 38,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -2439,7 +2439,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -2456,11 +2456,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 35,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "gal-view",
@@ -2472,12 +2472,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 51,
-      "starsUpdated": "2026-08-15",
+      "stars": 54,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-token-panel",
@@ -2490,7 +2490,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -2507,7 +2507,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2524,11 +2524,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-side-chat",
@@ -2541,7 +2541,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -2558,7 +2558,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -2592,7 +2592,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2609,7 +2609,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -2626,7 +2626,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -2642,8 +2642,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -2660,7 +2660,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -2677,7 +2677,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -2694,7 +2694,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -2711,7 +2711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -2728,7 +2728,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -2745,7 +2745,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -2762,7 +2762,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -2779,7 +2779,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -2796,7 +2796,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -2813,7 +2813,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 19,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -2830,7 +2830,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2847,7 +2847,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2864,7 +2864,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -2881,7 +2881,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -2898,7 +2898,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -2915,7 +2915,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -2932,7 +2932,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2949,7 +2949,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2966,7 +2966,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -2983,7 +2983,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -3000,7 +3000,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -3017,7 +3017,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -3034,7 +3034,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3051,7 +3051,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -3068,7 +3068,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -3085,7 +3085,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -3101,8 +3101,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "stars": 9,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -3119,7 +3119,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -3136,11 +3136,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-session-export",
@@ -3153,7 +3153,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -3170,7 +3170,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -3187,7 +3187,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -3204,11 +3204,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-article-publish",
@@ -3221,7 +3221,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -3238,7 +3238,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -3255,7 +3255,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -3272,7 +3272,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3289,7 +3289,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -3306,7 +3306,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -3322,8 +3322,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -3340,7 +3340,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -3357,7 +3357,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -3374,7 +3374,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -3390,12 +3390,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 14,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-usage-stats",
@@ -3407,8 +3407,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -3426,7 +3426,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -3443,7 +3443,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -3460,7 +3460,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 17,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -3477,7 +3477,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -3494,7 +3494,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3511,7 +3511,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -3528,7 +3528,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3545,7 +3545,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3562,7 +3562,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3579,7 +3579,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -3596,7 +3596,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3613,7 +3613,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3630,7 +3630,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3647,7 +3647,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3664,7 +3664,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3681,7 +3681,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3698,7 +3698,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -3715,7 +3715,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3732,7 +3732,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3749,7 +3749,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3766,7 +3766,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -3783,7 +3783,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -3800,7 +3800,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -3817,7 +3817,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -3834,7 +3834,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -3851,7 +3851,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -3867,12 +3867,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "stars": 13,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-drag-and-drop",
@@ -3885,7 +3885,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -3902,7 +3902,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -3919,7 +3919,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -3936,7 +3936,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -3969,8 +3969,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 23,
-      "starsUpdated": "2026-08-15",
+      "stars": 25,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -3987,7 +3987,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -4004,7 +4004,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4021,7 +4021,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4038,7 +4038,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4055,7 +4055,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -4072,7 +4072,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4089,7 +4089,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -4106,7 +4106,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 21,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4123,7 +4123,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -4140,7 +4140,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4157,7 +4157,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -4173,12 +4173,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "stars": 14,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-yet-another-subagent",
@@ -4191,7 +4191,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4207,8 +4207,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 24,
-      "starsUpdated": "2026-08-15",
+      "stars": 25,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4225,7 +4225,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4242,7 +4242,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4259,7 +4259,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4276,7 +4276,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -4293,7 +4293,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4310,7 +4310,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4327,7 +4327,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -4344,7 +4344,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -4361,7 +4361,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -4378,7 +4378,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4395,7 +4395,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4412,7 +4412,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -4429,7 +4429,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4446,11 +4446,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-agy",
@@ -4462,12 +4462,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-market",
@@ -4480,11 +4480,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-store-yunhuantian",
@@ -4497,11 +4497,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-deepseek-billing",
@@ -4514,7 +4514,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -4531,7 +4531,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -4547,8 +4547,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -4565,7 +4565,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -4582,7 +4582,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -4599,7 +4599,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4616,7 +4616,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4633,7 +4633,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -4650,11 +4650,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "qiushi-dsh-evidence-audit",
@@ -4667,7 +4667,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -4684,7 +4684,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -4701,7 +4701,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -4718,7 +4718,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -4734,8 +4734,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 7,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4752,7 +4752,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4769,7 +4769,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -4786,7 +4786,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -4803,7 +4803,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4820,7 +4820,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -4837,7 +4837,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -4854,7 +4854,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -4871,7 +4871,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4888,7 +4888,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4905,7 +4905,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -4922,7 +4922,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -4939,7 +4939,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -4956,7 +4956,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -4973,7 +4973,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -4989,8 +4989,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 15,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -5007,7 +5007,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -5024,7 +5024,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5041,7 +5041,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -5058,7 +5058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5075,7 +5075,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5091,12 +5091,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-llm-wechat",
@@ -5109,7 +5109,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -5126,7 +5126,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -5143,7 +5143,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5160,7 +5160,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -5177,7 +5177,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -5194,7 +5194,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -5211,11 +5211,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-window-stats",
@@ -5228,7 +5228,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -5245,7 +5245,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -5262,7 +5262,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -5279,7 +5279,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -5296,7 +5296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -5313,7 +5313,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5330,7 +5330,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -5346,12 +5346,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 283,
-      "starsUpdated": "2026-08-15",
+      "stars": 314,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-web-plugin-manager",
@@ -5363,8 +5363,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 39,
-      "starsUpdated": "2026-08-15",
+      "stars": 42,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -5381,7 +5381,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -5398,7 +5398,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -5415,7 +5415,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5432,7 +5432,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5449,7 +5449,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5466,7 +5466,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5483,7 +5483,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -5500,7 +5500,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -5517,7 +5517,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -5534,11 +5534,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugins-market",
@@ -5551,7 +5551,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -5568,7 +5568,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -5584,8 +5584,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 7,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -5602,7 +5602,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5619,7 +5619,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -5636,7 +5636,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -5653,7 +5653,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -5670,7 +5670,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5687,7 +5687,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5704,7 +5704,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -5721,7 +5721,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -5738,7 +5738,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5755,7 +5755,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5772,11 +5772,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-undo-plugin",
@@ -5788,8 +5788,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "stars": 22,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -5806,7 +5806,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5823,7 +5823,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5840,7 +5840,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5857,7 +5857,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5875,7 +5875,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@picgo/dsh-plugin",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5893,7 +5893,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@tensorlake/dsh-sandbox",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5910,7 +5910,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -5926,8 +5926,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "stars": 16,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -5944,11 +5944,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-weather",
@@ -5961,7 +5961,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5977,8 +5977,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -5995,7 +5995,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -6012,7 +6012,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -6028,8 +6028,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 31,
-      "starsUpdated": "2026-08-15",
+      "stars": 35,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -6046,7 +6046,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6063,7 +6063,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6080,7 +6080,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6097,7 +6097,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -6114,7 +6114,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -6130,8 +6130,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "stars": 10,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -6148,8 +6148,8 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@oil-oil/dsh-vision",
-      "stars": 39,
-      "starsUpdated": "2026-08-15",
+      "stars": 41,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -6166,7 +6166,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 23,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -6183,7 +6183,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -6200,7 +6200,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6217,7 +6217,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -6234,7 +6234,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -6252,11 +6252,11 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@dsh-external/dsh-plugin-workshop",
       "stars": 23,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-orchestrator",
@@ -6269,7 +6269,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -6286,7 +6286,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6303,7 +6303,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6320,7 +6320,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -6337,11 +6337,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mcp-lens",
@@ -6354,11 +6354,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-pet",
@@ -6371,7 +6371,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -6388,7 +6388,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6405,7 +6405,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -6422,7 +6422,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -6439,7 +6439,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -6456,7 +6456,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -6473,7 +6473,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -6490,7 +6490,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -6508,7 +6508,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@kelearns/dsh-token-usage",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6525,7 +6525,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6542,7 +6542,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -6560,7 +6560,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@dsh-external/dsh-motion",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6577,7 +6577,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6594,7 +6594,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -6612,7 +6612,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@cxzrdxy/dsh-file-explorer",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6629,7 +6629,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -6645,8 +6645,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6663,7 +6663,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -6680,7 +6680,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -6697,7 +6697,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6715,7 +6715,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@linenxi-ctrl/dsh-vision",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -6732,7 +6732,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -6749,7 +6749,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6767,7 +6767,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@yun520-1/deepseek-heartflow",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -6785,7 +6785,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@zerro223/dsh-token-usage",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6802,7 +6802,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -6820,7 +6820,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@guyunli/dsh-provider-quota",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -6837,7 +6837,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6854,7 +6854,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -6871,7 +6871,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -6888,7 +6888,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -6905,11 +6905,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-office",
@@ -6922,8 +6922,8 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@huiliyi37/dsh-office",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 7,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -6940,8 +6940,8 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@zseven-w/dsh-noema",
-      "stars": 44,
-      "starsUpdated": "2026-08-15",
+      "stars": 60,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -6958,8 +6958,8 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "dsh-web-lan-access",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6977,7 +6977,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-web-mobile-fix",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -6995,7 +6995,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-bilibili",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7013,7 +7013,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-browser-playwright",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7031,7 +7031,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-promptwall",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -7049,7 +7049,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-attachments",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7067,7 +7067,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-inspector",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -7085,7 +7085,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-skills",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7103,7 +7103,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-prompt-polish",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -7121,7 +7121,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@lanxing/dsh-skill-manager",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7138,7 +7138,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -7156,11 +7156,11 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-persona-memory",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-webui-market-plugin",
@@ -7173,8 +7173,8 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@sanqi-normal/dsh-webui-market-plugin",
-      "stars": 52,
-      "starsUpdated": "2026-08-15",
+      "stars": 54,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7192,7 +7192,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "mindspace-dsh-local-rag",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -7209,7 +7209,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -7227,7 +7227,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-blackjack",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -7245,7 +7245,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-skill-manager-ytxue",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7263,7 +7263,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-mobile-access",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -7281,7 +7281,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-plugin-catalog",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7298,7 +7298,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -7316,7 +7316,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "deepseek-harness-external-migration",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -7334,7 +7334,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-project-organizer",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -7352,7 +7352,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-web-search-brave",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7370,7 +7370,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-web-search-tavily",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7388,7 +7388,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-plugin-md-outline",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7406,11 +7406,11 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@reverse-skill/dsh-reverse-skill",
       "stars": 16,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mcp-center",
@@ -7424,7 +7424,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-mcp-center",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7442,7 +7442,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-moyan",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -7460,7 +7460,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-remote-ide",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7478,11 +7478,11 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "@hiro-nikaitou/dsh-ocg-billing",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-token-stats",
@@ -7496,7 +7496,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-token-stats",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -7514,7 +7514,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-plugin-notify",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -7532,7 +7532,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "muretai-dsh-skill",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -7550,7 +7550,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-gauge",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -7568,7 +7568,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-bookmarks",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -7586,7 +7586,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-science-workbench",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -7604,7 +7604,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-plugin-terminal",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -7621,8 +7621,8 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "npm": "@tencent-connect/dsh-qqbot",
-      "stars": 39,
-      "starsUpdated": "2026-08-15",
+      "stars": 40,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -7640,7 +7640,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-weixin",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -7658,7 +7658,7 @@ window.__PLUGINS__ = {
       "status": "verified",
       "npm": "dsh-skills-manager",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -7675,7 +7675,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -7693,7 +7693,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -7711,7 +7711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7728,7 +7728,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -7746,7 +7746,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7764,7 +7764,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -7782,7 +7782,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -7800,7 +7800,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -7817,12 +7817,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 70,
-      "starsUpdated": "2026-08-15",
+      "stars": 69,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-plugin-marketplace"
     },
     {
@@ -7836,7 +7836,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -7854,7 +7854,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -7872,7 +7872,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -7890,7 +7890,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -7908,7 +7908,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -7926,7 +7926,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -7944,7 +7944,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -7962,7 +7962,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -7980,7 +7980,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -7998,7 +7998,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8016,7 +8016,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -8034,7 +8034,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -8052,7 +8052,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8070,7 +8070,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -8088,7 +8088,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -8106,7 +8106,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8124,7 +8124,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8141,7 +8141,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8159,7 +8159,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8177,7 +8177,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8195,7 +8195,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -8213,7 +8213,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -8231,7 +8231,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8249,7 +8249,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8268,7 +8268,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8286,8 +8286,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 27,
-      "starsUpdated": "2026-08-15",
+      "stars": 28,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -8304,8 +8304,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 15,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8323,7 +8323,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -8341,7 +8341,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8358,12 +8358,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 39,
-      "starsUpdated": "2026-08-15",
+      "stars": 41,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "zat-dsh-engine"
     },
     {
@@ -8376,8 +8376,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -8395,7 +8395,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8413,7 +8413,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8430,8 +8430,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 34,
-      "starsUpdated": "2026-08-15",
+      "stars": 35,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8448,7 +8448,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8464,12 +8464,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-manager",
@@ -8482,7 +8482,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -8499,7 +8499,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8517,7 +8517,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8535,7 +8535,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
@@ -8554,7 +8554,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -8572,7 +8572,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8590,7 +8590,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8608,7 +8608,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -8626,7 +8626,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8644,7 +8644,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8662,7 +8662,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8679,8 +8679,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8698,7 +8698,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8716,7 +8716,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -8734,7 +8734,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -8752,11 +8752,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-teacher"
     },
     {
@@ -8770,7 +8770,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8788,7 +8788,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8824,7 +8824,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -8842,11 +8842,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-knowledge-graph"
     },
     {
@@ -8860,7 +8860,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -8878,7 +8878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -8896,7 +8896,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -8914,7 +8914,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -8931,8 +8931,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 128,
-      "starsUpdated": "2026-08-15",
+      "stars": 130,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "fun"
@@ -8951,7 +8951,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -8969,7 +8969,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -8987,7 +8987,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -9005,7 +9005,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9023,7 +9023,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9041,7 +9041,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -9058,7 +9058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -9076,7 +9076,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -9094,7 +9094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -9112,7 +9112,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -9130,7 +9130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -9146,8 +9146,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -9165,7 +9165,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -9183,7 +9183,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -9201,7 +9201,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -9218,8 +9218,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -9237,7 +9237,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -9255,7 +9255,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -9273,7 +9273,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -9290,7 +9290,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9308,7 +9308,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -9326,7 +9326,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9344,7 +9344,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 28,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -9362,7 +9362,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -9381,7 +9381,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -9400,7 +9400,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -9419,7 +9419,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -9438,7 +9438,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -9456,7 +9456,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -9474,7 +9474,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9492,7 +9492,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9510,7 +9510,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9528,7 +9528,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9546,7 +9546,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9564,7 +9564,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9582,7 +9582,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9600,7 +9600,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9618,7 +9618,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9636,7 +9636,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -9654,7 +9654,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -9672,7 +9672,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9690,7 +9690,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9708,7 +9708,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9726,7 +9726,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "ui"
@@ -9745,7 +9745,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -9762,7 +9762,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -9781,7 +9781,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -9798,7 +9798,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -9819,7 +9819,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "pushedAt": "2026-08-15",
       "npm": "@dshworks/dsh-watch"
     },
@@ -9837,7 +9837,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "pushedAt": "2026-08-13"
     },
     {
@@ -9854,7 +9854,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "pushedAt": "2026-08-13"
     },
     {
@@ -9868,7 +9868,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -9886,7 +9886,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -9904,7 +9904,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -9923,7 +9923,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -9941,7 +9941,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -9959,8 +9959,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -9978,7 +9978,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -9996,7 +9996,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -10014,7 +10014,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -10032,7 +10032,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -10051,7 +10051,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -10069,7 +10069,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -10088,7 +10088,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10106,7 +10106,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -10125,7 +10125,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "memory"
@@ -10144,7 +10144,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -10163,7 +10163,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -10182,7 +10182,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10200,7 +10200,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "agents"
@@ -10219,7 +10219,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -10237,7 +10237,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -10255,7 +10255,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -10273,8 +10273,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -10293,7 +10293,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -10311,7 +10311,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -10330,7 +10330,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -10348,7 +10348,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -10366,7 +10366,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -10384,7 +10384,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -10403,7 +10403,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -10420,8 +10420,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 22,
-      "starsUpdated": "2026-08-15",
+      "stars": 25,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -10439,7 +10439,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -10457,7 +10457,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -10475,7 +10475,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -10493,7 +10493,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -10511,7 +10511,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "ui"
@@ -10530,7 +10530,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -10548,7 +10548,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10566,7 +10566,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -10585,7 +10585,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -10603,7 +10603,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10621,7 +10621,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "agents"
@@ -10640,7 +10640,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -10659,7 +10659,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -10677,7 +10677,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -10696,7 +10696,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -10715,7 +10715,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "observability"
@@ -10734,7 +10734,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -10752,7 +10752,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10769,12 +10769,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-15",
       "npm": "@furongjun1999/dsh-memory"
     },
     {
@@ -10788,7 +10788,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -10806,7 +10806,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -10824,7 +10824,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "safety"
@@ -10843,7 +10843,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -10862,7 +10862,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -10880,7 +10880,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "interop"
@@ -10899,7 +10899,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -10916,8 +10916,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10935,7 +10935,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -10953,7 +10953,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -10971,7 +10971,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -10989,7 +10989,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -11007,7 +11007,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -11025,7 +11025,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -11044,7 +11044,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -11063,7 +11063,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -11082,7 +11082,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -11101,7 +11101,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -11118,8 +11118,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -11137,7 +11137,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -11154,8 +11154,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -11174,7 +11174,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -11192,7 +11192,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -11210,7 +11210,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -11229,7 +11229,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -11248,7 +11248,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -11267,7 +11267,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -11285,7 +11285,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -11303,11 +11303,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "upstream-radar"
     },
     {
@@ -11321,7 +11321,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -11340,7 +11340,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "memory"
@@ -11359,7 +11359,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -11378,7 +11378,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -11397,7 +11397,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -11416,7 +11416,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "fun"
@@ -11435,7 +11435,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -11454,7 +11454,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -11473,7 +11473,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -11491,7 +11491,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -11509,7 +11509,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -11527,7 +11527,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "devtools"
@@ -11546,11 +11546,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-landscape"
     },
     {
@@ -11564,7 +11564,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -11581,8 +11581,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 453,
-      "starsUpdated": "2026-08-15",
+      "stars": 455,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -11600,7 +11600,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -11619,7 +11619,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -11638,7 +11638,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -11656,7 +11656,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -11675,7 +11675,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -11693,7 +11693,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "observability"
@@ -11711,8 +11711,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -11730,7 +11730,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -11749,11 +11749,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "iterate-plugin"
     },
     {
@@ -11767,7 +11767,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -11785,7 +11785,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -11804,7 +11804,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -11822,7 +11822,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -11841,7 +11841,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -11859,12 +11859,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-vision-plugin"
     },
     {
@@ -11878,7 +11878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -11897,7 +11897,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -11915,7 +11915,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -11933,7 +11933,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -11952,7 +11952,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -11970,7 +11970,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -11989,7 +11989,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -12008,11 +12008,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "@local/dsh-image-describe"
     },
     {
@@ -12025,8 +12025,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "ui"
@@ -12045,7 +12045,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12063,7 +12063,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -12082,7 +12082,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "agents"
@@ -12101,7 +12101,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12118,7 +12118,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -12137,7 +12137,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "agents"
@@ -12156,7 +12156,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -12174,7 +12174,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -12192,7 +12192,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12210,7 +12210,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -12228,7 +12228,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -12246,7 +12246,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12264,7 +12264,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "agents"
@@ -12283,7 +12283,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
@@ -12302,7 +12302,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -12321,7 +12321,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -12339,7 +12339,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -12356,7 +12356,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12374,7 +12374,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -12392,7 +12392,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -12411,7 +12411,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -12429,7 +12429,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -12447,7 +12447,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "devtools"
@@ -12466,7 +12466,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -12484,12 +12484,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "ui"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@dsh-do/fabric"
     },
     {
@@ -12503,7 +12503,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -12521,7 +12521,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
@@ -12539,8 +12539,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "knowledge"
@@ -12558,7 +12558,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -12575,7 +12575,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -12594,7 +12594,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -12612,7 +12612,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -12630,7 +12630,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -12648,7 +12648,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -12667,7 +12667,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12685,7 +12685,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -12704,7 +12704,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -12723,7 +12723,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -12742,7 +12742,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -12760,12 +12760,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-agent-relay"
     },
     {
@@ -12779,7 +12779,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -12798,7 +12798,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "ui"
@@ -12817,7 +12817,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -12834,8 +12834,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -12853,7 +12853,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "agents"
@@ -12872,7 +12872,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -12890,7 +12890,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "ui"
@@ -12909,7 +12909,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -12926,8 +12926,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -12945,7 +12945,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -12962,7 +12962,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -12981,7 +12981,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -13000,7 +13000,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -13019,7 +13019,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "agents"
@@ -13038,7 +13038,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13056,7 +13056,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -13075,7 +13075,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
@@ -13094,12 +13094,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@dsh-do/fabric-theme-studio"
     },
     {
@@ -13113,7 +13113,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -13131,7 +13131,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -13149,7 +13149,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "safety"
@@ -13168,7 +13168,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -13187,12 +13187,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "ui"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-change-center"
     },
     {
@@ -13206,7 +13206,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "agents"
@@ -13225,7 +13225,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -13243,7 +13243,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -13262,7 +13262,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "devtools"
@@ -13280,7 +13280,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "knowledge"
@@ -13299,7 +13299,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 19,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -13316,7 +13316,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -13334,7 +13334,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -13351,12 +13351,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "seektty"
     },
     {
@@ -13370,7 +13370,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13388,7 +13388,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13406,7 +13406,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -13424,7 +13424,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -13442,7 +13442,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
@@ -13461,11 +13461,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-agent-team-room"
     },
     {
@@ -13479,7 +13479,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -13497,7 +13497,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -13515,7 +13515,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -13533,7 +13533,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -13551,7 +13551,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -13569,7 +13569,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -13586,7 +13586,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -13604,7 +13604,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13622,11 +13622,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-doctor"
     },
     {
@@ -13640,7 +13640,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -13658,7 +13658,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -13676,7 +13676,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -13694,7 +13694,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13712,7 +13712,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -13729,7 +13729,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -13747,7 +13747,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -13765,7 +13765,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -13783,7 +13783,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -13801,7 +13801,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -13819,11 +13819,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-15",
       "npm": "dsh-zh-hant-hk"
     },
     {
@@ -13837,7 +13837,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13855,7 +13855,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -13873,7 +13873,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -13891,7 +13891,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -13909,7 +13909,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -13927,7 +13927,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -13944,8 +13944,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -13963,7 +13963,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -13981,7 +13981,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -13999,7 +13999,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -14017,7 +14017,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14035,7 +14035,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14053,7 +14053,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -14071,7 +14071,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -14088,7 +14088,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -14106,7 +14106,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -14124,7 +14124,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -14142,11 +14142,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-awiki"
     },
     {
@@ -14160,7 +14160,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14178,7 +14178,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -14195,7 +14195,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -14213,7 +14213,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14231,7 +14231,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14248,8 +14248,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14267,7 +14267,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -14285,7 +14285,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -14303,7 +14303,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -14321,7 +14321,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -14339,7 +14339,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14357,7 +14357,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -14375,7 +14375,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14393,11 +14393,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-sfversion"
     },
     {
@@ -14411,11 +14411,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-omp-tui"
     },
     {
@@ -14429,7 +14429,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14447,7 +14447,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14465,7 +14465,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -14483,7 +14483,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14501,7 +14501,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -14519,7 +14519,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14537,7 +14537,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14555,7 +14555,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -14573,7 +14573,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -14591,7 +14591,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -14609,7 +14609,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14627,7 +14627,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -14645,7 +14645,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -14662,7 +14662,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -14680,7 +14680,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -14698,7 +14698,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -14716,7 +14716,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14734,7 +14734,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -14752,7 +14752,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -14770,7 +14770,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -14788,7 +14788,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -14806,7 +14806,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -14824,7 +14824,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -14842,7 +14842,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -14860,7 +14860,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14878,7 +14878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14896,7 +14896,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -14914,7 +14914,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -14932,7 +14932,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14950,7 +14950,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -14968,7 +14968,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -14986,7 +14986,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -15004,7 +15004,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15022,7 +15022,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -15040,7 +15040,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15058,7 +15058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15076,7 +15076,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -15094,7 +15094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -15111,7 +15111,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -15128,7 +15128,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -15145,7 +15145,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -15161,8 +15161,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "interop"
@@ -15181,11 +15181,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 16,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-lark-bot"
     },
     {
@@ -15199,7 +15199,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -15218,7 +15218,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -15237,7 +15237,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -15255,7 +15255,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -15274,11 +15274,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "deepseek-harness-remote"
     },
     {
@@ -15292,7 +15292,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -15310,12 +15310,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "agents"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "path": "packages/evoresearch-plugin",
       "npm": "@evoresearch/dsh-plugin"
     },
@@ -15330,7 +15330,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -15349,7 +15349,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15368,7 +15368,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15385,8 +15385,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "stars": 15,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -15404,7 +15404,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -15421,8 +15421,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -15439,7 +15439,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -15458,7 +15458,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15476,7 +15476,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15495,7 +15495,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -15515,7 +15515,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "agents"
@@ -15535,7 +15535,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -15553,7 +15553,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15571,7 +15571,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -15588,8 +15588,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -15607,7 +15607,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -15626,7 +15626,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -15644,7 +15644,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15662,7 +15662,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -15680,7 +15680,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -15698,7 +15698,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -15716,7 +15716,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -15734,7 +15734,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -15751,8 +15751,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15770,7 +15770,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15788,12 +15788,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-sideband"
     },
     {
@@ -15807,7 +15807,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -15826,7 +15826,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -15845,7 +15845,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -15863,7 +15863,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -15881,7 +15881,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15899,7 +15899,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15916,7 +15916,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -15935,7 +15935,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15952,8 +15952,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "ui"
@@ -15972,7 +15972,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -15990,7 +15990,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -16008,7 +16008,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -16026,7 +16026,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -16044,7 +16044,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -16062,7 +16062,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -16079,7 +16079,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "devtools"
@@ -16098,7 +16098,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -16134,7 +16134,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -16152,7 +16152,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -16170,12 +16170,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-plugin-llm-balance"
     },
     {
@@ -16188,8 +16188,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 54,
-      "starsUpdated": "2026-08-15",
+      "stars": 59,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -16206,8 +16206,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "ui"
@@ -16226,7 +16226,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -16244,7 +16244,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -16263,7 +16263,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -16282,7 +16282,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -16300,7 +16300,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
@@ -16319,7 +16319,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -16337,7 +16337,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -16355,7 +16355,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "agents"
@@ -16374,7 +16374,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -16394,7 +16394,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
@@ -16413,7 +16413,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -16431,11 +16431,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-15",
       "npm": "dsh-thinking-level-override"
     },
     {
@@ -16449,12 +16449,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "devtools"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-extension-hub"
     },
     {
@@ -16468,7 +16468,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -16487,7 +16487,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -16505,7 +16505,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -16523,7 +16523,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -16541,7 +16541,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -16560,7 +16560,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -16578,7 +16578,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -16596,7 +16596,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -16614,7 +16614,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -16632,7 +16632,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -16650,7 +16650,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -16668,7 +16668,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -16685,8 +16685,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
@@ -16705,7 +16705,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
@@ -16724,7 +16724,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -16742,7 +16742,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -16760,7 +16760,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -16778,7 +16778,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -16796,7 +16796,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -16814,7 +16814,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -16832,7 +16832,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -16850,7 +16850,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -16868,7 +16868,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -16886,7 +16886,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -16904,7 +16904,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -16922,7 +16922,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -16940,7 +16940,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -16959,7 +16959,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -16976,12 +16976,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1252,
-      "starsUpdated": "2026-08-15",
+      "stars": 1303,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15",
+      "pushedAt": "2026-08-16",
       "npm": "@deepseek-harness-tui/dsh-tui"
     },
     {
@@ -16995,7 +16995,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -17013,7 +17013,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -17031,7 +17031,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -17048,12 +17048,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 17,
-      "starsUpdated": "2026-08-15",
+      "stars": 18,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-bash-win",
@@ -17066,7 +17066,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
@@ -17085,7 +17085,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -17104,7 +17104,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17122,7 +17122,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17140,7 +17140,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -17158,11 +17158,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-balance-monitor",
@@ -17175,7 +17175,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -17193,7 +17193,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -17211,7 +17211,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -17229,7 +17229,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17247,7 +17247,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -17265,7 +17265,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17283,7 +17283,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17301,7 +17301,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17319,7 +17319,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -17337,7 +17337,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -17355,7 +17355,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17373,7 +17373,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -17391,7 +17391,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17409,7 +17409,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -17427,7 +17427,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -17444,7 +17444,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -17462,7 +17462,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -17479,7 +17479,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -17497,7 +17497,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -17515,7 +17515,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -17532,7 +17532,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -17550,7 +17550,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -17568,7 +17568,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17586,7 +17586,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -17604,11 +17604,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14",
+      "pushedAt": "2026-08-16",
       "npm": "dsh-units"
     },
     {
@@ -17622,7 +17622,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "knowledge"
@@ -17641,7 +17641,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -17658,7 +17658,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17676,7 +17676,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17694,7 +17694,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -17711,7 +17711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -17728,7 +17728,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -17745,7 +17745,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17763,7 +17763,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -17781,7 +17781,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17799,7 +17799,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -17817,7 +17817,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17835,7 +17835,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -17853,7 +17853,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17871,7 +17871,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17889,7 +17889,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -17906,7 +17906,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -17924,7 +17924,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -17941,7 +17941,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17959,7 +17959,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -17975,12 +17975,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "adhdgofly-dsh-ext",
@@ -17993,7 +17993,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -18009,8 +18009,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
-      "starsUpdated": "2026-08-15",
+      "stars": 21,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -18027,7 +18027,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -18044,7 +18044,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -18061,7 +18061,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -18077,8 +18077,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 71,
-      "starsUpdated": "2026-08-15",
+      "stars": 75,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -18094,8 +18094,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -18112,7 +18112,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -18129,7 +18129,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -18147,11 +18147,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "octie-dsh-plugin",
@@ -18165,7 +18165,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -18183,11 +18183,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-roundtable",
@@ -18201,7 +18201,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -18219,7 +18219,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -18240,7 +18240,7 @@ window.__PLUGINS__ = {
         "capabilities"
       ],
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "pushedAt": "2026-08-15"
     },
     {
@@ -18253,8 +18253,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5718,
-      "starsUpdated": "2026-08-15",
+      "stars": 6343,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -18270,8 +18270,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1024,
-      "starsUpdated": "2026-08-15",
+      "stars": 1008,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "observability"
@@ -18288,8 +18288,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 590,
-      "starsUpdated": "2026-08-15",
+      "stars": 593,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -18306,8 +18306,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 516,
-      "starsUpdated": "2026-08-15",
+      "stars": 518,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -18324,8 +18324,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 415,
-      "starsUpdated": "2026-08-15",
+      "stars": 416,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -18341,8 +18341,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 417,
-      "starsUpdated": "2026-08-15",
+      "stars": 419,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "agents"
@@ -18359,8 +18359,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 250,
-      "starsUpdated": "2026-08-15",
+      "stars": 316,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -18377,12 +18377,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 153,
-      "starsUpdated": "2026-08-15",
+      "stars": 154,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "sealos-skills",
@@ -18395,7 +18395,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 70,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18412,7 +18412,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 93,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -18430,7 +18430,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 66,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18446,8 +18446,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 61,
-      "starsUpdated": "2026-08-15",
+      "stars": 64,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18463,8 +18463,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 99,
-      "starsUpdated": "2026-08-15",
+      "stars": 105,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -18482,7 +18482,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 37,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -18498,8 +18498,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 41,
-      "starsUpdated": "2026-08-15",
+      "stars": 42,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -18516,7 +18516,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 30,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -18533,12 +18533,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 41,
-      "starsUpdated": "2026-08-15",
+      "stars": 42,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-interconnect",
@@ -18550,8 +18550,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 27,
-      "starsUpdated": "2026-08-15",
+      "stars": 28,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18567,8 +18567,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 25,
-      "starsUpdated": "2026-08-15",
+      "stars": 26,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -18585,8 +18585,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 21,
-      "starsUpdated": "2026-08-15",
+      "stars": 20,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -18604,7 +18604,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 24,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18620,13 +18620,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 31,
-      "starsUpdated": "2026-08-15",
+      "stars": 33,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-minigames-lhh010",
@@ -18639,7 +18639,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -18657,7 +18657,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 22,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18673,8 +18673,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 36,
-      "starsUpdated": "2026-08-15",
+      "stars": 49,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -18692,7 +18692,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 17,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18709,7 +18709,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 17,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18726,7 +18726,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 16,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -18744,7 +18744,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 19,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -18761,7 +18761,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 29,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -18778,7 +18778,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -18795,7 +18795,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "models"
@@ -18812,8 +18812,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 18,
-      "starsUpdated": "2026-08-15",
+      "stars": 20,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -18830,7 +18830,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 20,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -18847,7 +18847,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -18865,7 +18865,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 17,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -18882,7 +18882,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -18899,7 +18899,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -18915,8 +18915,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 20,
-      "starsUpdated": "2026-08-15",
+      "stars": 21,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -18933,7 +18933,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -18949,12 +18949,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 14,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-hud",
@@ -18967,7 +18967,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -18985,7 +18985,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
@@ -19003,7 +19003,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -19020,8 +19020,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -19039,7 +19039,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19056,7 +19056,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -19074,7 +19074,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "terminal"
@@ -19091,8 +19091,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 14,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -19109,11 +19109,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-paste-input-lhh010",
@@ -19126,7 +19126,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -19144,7 +19144,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -19162,7 +19162,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -19179,7 +19179,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -19197,7 +19197,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -19215,7 +19215,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -19232,7 +19232,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -19249,13 +19249,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12,
-      "starsUpdated": "2026-08-15",
+      "stars": 13,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "skills-creghtde",
@@ -19268,7 +19268,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19285,7 +19285,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 20,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "marketplace"
@@ -19303,7 +19303,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -19320,7 +19320,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -19337,7 +19337,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
@@ -19354,8 +19354,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -19373,7 +19373,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19390,7 +19390,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -19407,7 +19407,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19424,7 +19424,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19441,7 +19441,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -19458,7 +19458,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -19476,7 +19476,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19493,7 +19493,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "usage"
@@ -19511,7 +19511,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -19527,8 +19527,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "stars": 9,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -19546,7 +19546,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19562,8 +19562,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "stars": 9,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -19581,7 +19581,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "marketplace"
@@ -19599,7 +19599,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -19617,7 +19617,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "devtools"
@@ -19635,7 +19635,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -19652,7 +19652,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -19669,8 +19669,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 9,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -19687,7 +19687,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -19705,7 +19705,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -19722,8 +19722,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -19740,7 +19740,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -19758,7 +19758,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -19775,7 +19775,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -19792,7 +19792,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "terminal"
@@ -19809,8 +19809,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -19827,7 +19827,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -19844,7 +19844,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "models"
@@ -19862,7 +19862,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -19880,7 +19880,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "safety"
@@ -19898,7 +19898,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -19915,7 +19915,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -19933,7 +19933,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -19951,7 +19951,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -19969,7 +19969,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "ui"
@@ -19987,12 +19987,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
       ],
-      "pushedAt": "2026-08-13"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-hanako",
@@ -20004,8 +20004,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20021,8 +20021,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -20039,7 +20039,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -20057,7 +20057,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "memory"
@@ -20075,7 +20075,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20091,8 +20091,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
@@ -20110,7 +20110,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "memory"
@@ -20127,8 +20127,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -20146,7 +20146,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -20164,7 +20164,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -20182,7 +20182,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -20200,7 +20200,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -20218,7 +20218,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -20235,8 +20235,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -20253,7 +20253,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -20271,7 +20271,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "memory"
@@ -20289,7 +20289,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "capabilities"
@@ -20307,7 +20307,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "ui"
@@ -20325,7 +20325,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -20343,7 +20343,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -20361,7 +20361,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -20379,7 +20379,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -20397,7 +20397,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -20415,7 +20415,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -20432,7 +20432,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -20450,7 +20450,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -20467,7 +20467,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -20485,7 +20485,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -20503,7 +20503,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -20521,7 +20521,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -20539,7 +20539,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20556,7 +20556,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20573,7 +20573,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "agents"
@@ -20591,7 +20591,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -20608,7 +20608,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -20626,7 +20626,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -20644,7 +20644,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20661,7 +20661,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "observability"
@@ -20679,7 +20679,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "channels"
@@ -20697,7 +20697,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -20715,7 +20715,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -20733,7 +20733,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -20751,7 +20751,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -20768,7 +20768,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -20785,7 +20785,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -20803,7 +20803,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "channels"
@@ -20821,7 +20821,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20838,7 +20838,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -20856,7 +20856,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -20873,7 +20873,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -20890,7 +20890,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -20907,11 +20907,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-webbridge-bill9109",
@@ -20924,7 +20924,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -20942,7 +20942,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -20959,7 +20959,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -20976,7 +20976,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -20993,7 +20993,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "agents"
@@ -21011,7 +21011,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21028,7 +21028,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -21046,7 +21046,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -21063,7 +21063,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -21080,7 +21080,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21097,7 +21097,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -21115,7 +21115,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -21132,7 +21132,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -21149,7 +21149,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -21167,7 +21167,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -21184,7 +21184,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -21201,7 +21201,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -21219,7 +21219,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -21237,7 +21237,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -21254,12 +21254,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "gitlearnos",
@@ -21272,7 +21272,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -21290,7 +21290,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21307,7 +21307,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21324,12 +21324,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "observability"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-tool-underseal",
@@ -21342,7 +21342,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21359,11 +21359,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "ds-balance-card",
@@ -21376,7 +21376,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -21394,7 +21394,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -21412,7 +21412,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -21430,7 +21430,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21447,7 +21447,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -21465,7 +21465,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -21483,7 +21483,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -21501,7 +21501,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -21517,8 +21517,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -21535,7 +21535,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -21552,7 +21552,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -21569,7 +21569,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -21586,7 +21586,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -21603,7 +21603,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -21621,7 +21621,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -21639,7 +21639,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -21657,7 +21657,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
@@ -21674,8 +21674,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -21693,7 +21693,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -21711,7 +21711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -21729,7 +21729,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21745,8 +21745,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -21764,7 +21764,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -21782,7 +21782,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -21800,7 +21800,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -21818,7 +21818,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -21835,7 +21835,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -21853,11 +21853,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-15"
     },
     {
       "name": "dsh-vision-reimucre",
@@ -21870,7 +21870,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -21888,7 +21888,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -21906,7 +21906,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -21922,8 +21922,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -21940,7 +21940,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -21957,7 +21957,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -21974,7 +21974,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -21991,11 +21991,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-ucaslium",
@@ -22008,7 +22008,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -22025,7 +22025,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -22043,7 +22043,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -22060,7 +22060,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -22078,7 +22078,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -22095,7 +22095,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -22113,7 +22113,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -22130,7 +22130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "channels"
@@ -22148,7 +22148,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -22165,7 +22165,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -22181,8 +22181,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -22199,7 +22199,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -22216,7 +22216,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -22233,7 +22233,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -22250,7 +22250,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -22268,7 +22268,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -22286,7 +22286,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -22304,7 +22304,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -22321,8 +22321,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -22340,7 +22340,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -22357,7 +22357,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -22374,7 +22374,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -22392,7 +22392,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -22410,7 +22410,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -22428,7 +22428,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -22445,8 +22445,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -22464,7 +22464,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -22482,7 +22482,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -22499,7 +22499,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "devtools"
@@ -22517,7 +22517,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -22535,7 +22535,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -22552,7 +22552,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -22570,7 +22570,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -22587,7 +22587,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -22605,7 +22605,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -22622,7 +22622,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -22640,7 +22640,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -22658,7 +22658,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "devtools"
@@ -22676,7 +22676,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -22692,8 +22692,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -22711,7 +22711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -22728,7 +22728,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -22746,7 +22746,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
@@ -22764,7 +22764,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "ui"
@@ -22782,7 +22782,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -22800,7 +22800,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -22818,7 +22818,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -22835,7 +22835,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -22852,7 +22852,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -22869,7 +22869,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -22887,7 +22887,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -22904,7 +22904,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "memory"
@@ -22922,7 +22922,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -22939,8 +22939,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "memory"
@@ -22958,7 +22958,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -22976,7 +22976,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -22994,7 +22994,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -23012,7 +23012,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -23029,7 +23029,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -23047,7 +23047,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23064,7 +23064,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -23082,7 +23082,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -23100,7 +23100,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -23118,7 +23118,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23135,7 +23135,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -23152,7 +23152,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -23170,7 +23170,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -23188,7 +23188,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -23206,7 +23206,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -23224,7 +23224,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "models"
@@ -23242,7 +23242,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -23259,7 +23259,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23276,7 +23276,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -23293,7 +23293,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -23311,7 +23311,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "notifications"
@@ -23329,7 +23329,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -23347,7 +23347,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -23364,7 +23364,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23380,8 +23380,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -23399,7 +23399,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -23417,7 +23417,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -23434,7 +23434,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -23452,7 +23452,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "notifications"
@@ -23470,7 +23470,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -23488,7 +23488,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23505,7 +23505,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -23522,7 +23522,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23539,7 +23539,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "agents"
@@ -23557,7 +23557,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23574,7 +23574,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23591,7 +23591,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -23609,7 +23609,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -23627,7 +23627,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -23645,7 +23645,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -23662,7 +23662,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -23680,7 +23680,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -23697,7 +23697,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -23714,7 +23714,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -23732,7 +23732,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "memory"
@@ -23750,7 +23750,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "safety"
@@ -23768,7 +23768,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "devtools"
@@ -23786,7 +23786,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -23804,7 +23804,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "devtools"
@@ -23822,7 +23822,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -23840,7 +23840,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -23857,7 +23857,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "notifications"
@@ -23875,7 +23875,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -23893,7 +23893,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -23911,7 +23911,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23928,7 +23928,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23945,7 +23945,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -23962,7 +23962,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -23979,7 +23979,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -23997,7 +23997,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -24015,12 +24015,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
       ],
-      "pushedAt": "2026-08-13"
+      "pushedAt": "2026-08-15"
     },
     {
       "name": "dsh-gitflow",
@@ -24033,7 +24033,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -24050,7 +24050,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -24068,7 +24068,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -24086,7 +24086,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -24120,7 +24120,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -24138,7 +24138,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -24156,7 +24156,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -24174,7 +24174,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -24191,7 +24191,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -24209,7 +24209,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -24227,7 +24227,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -24244,7 +24244,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -24262,7 +24262,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -24279,7 +24279,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24296,7 +24296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -24313,7 +24313,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -24330,7 +24330,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24347,7 +24347,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "interop"
@@ -24365,7 +24365,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24382,7 +24382,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "knowledge"
@@ -24400,7 +24400,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -24418,7 +24418,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24435,7 +24435,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -24452,7 +24452,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -24470,7 +24470,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -24488,7 +24488,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -24505,7 +24505,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "marketplace"
@@ -24523,7 +24523,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "memory"
@@ -24541,7 +24541,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "interop"
@@ -24559,7 +24559,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "usage"
@@ -24577,7 +24577,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -24595,7 +24595,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24612,7 +24612,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -24628,8 +24628,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24645,8 +24645,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "agents"
@@ -24664,7 +24664,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -24681,12 +24681,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-audio-dub",
@@ -24699,7 +24699,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -24717,7 +24717,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -24735,12 +24735,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "token_usage_heatmap",
@@ -24753,7 +24753,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -24770,7 +24770,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -24787,7 +24787,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -24805,7 +24805,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24822,7 +24822,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -24840,7 +24840,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24857,7 +24857,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "agents"
@@ -24875,7 +24875,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24892,12 +24892,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-soul-md",
@@ -24910,7 +24910,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -24928,7 +24928,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -24946,7 +24946,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -24963,7 +24963,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -24981,7 +24981,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -24998,7 +24998,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25015,7 +25015,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -25032,7 +25032,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25049,7 +25049,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -25067,7 +25067,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -25085,7 +25085,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "memory"
@@ -25103,7 +25103,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -25121,7 +25121,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25138,7 +25138,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -25156,7 +25156,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
@@ -25174,7 +25174,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25191,7 +25191,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -25208,7 +25208,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
@@ -25226,7 +25226,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -25244,7 +25244,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -25262,7 +25262,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -25279,7 +25279,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -25297,7 +25297,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25314,7 +25314,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25331,7 +25331,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -25349,7 +25349,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "memory"
@@ -25367,7 +25367,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -25385,7 +25385,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "knowledge"
@@ -25403,7 +25403,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "capabilities"
@@ -25421,7 +25421,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "knowledge"
@@ -25439,7 +25439,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -25456,7 +25456,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -25474,7 +25474,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -25492,7 +25492,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -25510,7 +25510,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -25527,7 +25527,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "devtools"
@@ -25545,7 +25545,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -25563,7 +25563,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -25581,7 +25581,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -25599,7 +25599,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -25617,7 +25617,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -25634,8 +25634,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -25653,7 +25653,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -25671,12 +25671,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-usage-widget",
@@ -25689,7 +25689,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -25706,8 +25706,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -25724,7 +25724,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "agents"
@@ -25742,7 +25742,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25759,7 +25759,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -25776,7 +25776,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -25794,7 +25794,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -25812,7 +25812,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -25830,7 +25830,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -25848,7 +25848,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -25866,7 +25866,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -25883,7 +25883,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -25901,7 +25901,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -25919,7 +25919,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -25936,7 +25936,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "ui"
@@ -25954,7 +25954,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -25971,7 +25971,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -25989,7 +25989,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -26007,7 +26007,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -26024,7 +26024,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -26042,12 +26042,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
       ],
-      "pushedAt": "2026-08-13"
+      "pushedAt": "2026-08-15"
     },
     {
       "name": "dsh-memory-system",
@@ -26060,7 +26060,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -26077,7 +26077,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26094,7 +26094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -26112,7 +26112,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26129,12 +26129,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mcp-manager-1a125",
@@ -26147,7 +26147,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -26165,7 +26165,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -26182,7 +26182,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26199,7 +26199,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -26216,7 +26216,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -26234,7 +26234,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -26252,7 +26252,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26269,7 +26269,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -26287,7 +26287,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -26305,7 +26305,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -26323,7 +26323,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "ui"
@@ -26341,7 +26341,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -26358,7 +26358,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "ui"
@@ -26376,7 +26376,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -26393,7 +26393,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "interop"
@@ -26411,7 +26411,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26428,7 +26428,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26445,7 +26445,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -26462,7 +26462,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26479,7 +26479,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -26497,7 +26497,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -26515,7 +26515,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -26532,7 +26532,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -26549,7 +26549,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26566,7 +26566,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "agents"
@@ -26584,7 +26584,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -26602,7 +26602,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26619,7 +26619,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -26637,7 +26637,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -26655,7 +26655,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -26673,7 +26673,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -26690,7 +26690,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -26708,7 +26708,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "ui"
@@ -26726,7 +26726,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -26743,7 +26743,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "fun"
@@ -26761,7 +26761,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -26778,7 +26778,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -26796,7 +26796,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -26814,7 +26814,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "vision"
@@ -26832,7 +26832,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -26849,7 +26849,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "agents"
@@ -26867,7 +26867,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -26885,12 +26885,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mcpguard",
@@ -26903,7 +26903,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "safety"
@@ -26921,7 +26921,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -26939,7 +26939,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -26957,7 +26957,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -26974,7 +26974,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -26992,7 +26992,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -27009,7 +27009,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "memory"
@@ -27027,7 +27027,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -27045,7 +27045,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -27062,8 +27062,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -27081,7 +27081,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -27099,7 +27099,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -27116,7 +27116,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -27134,7 +27134,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -27152,7 +27152,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27168,8 +27168,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -27187,7 +27187,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -27204,7 +27204,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -27221,7 +27221,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "models"
@@ -27239,7 +27239,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -27256,7 +27256,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27273,7 +27273,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27290,7 +27290,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -27307,7 +27307,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -27325,7 +27325,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -27342,7 +27342,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -27360,7 +27360,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -27378,7 +27378,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -27396,7 +27396,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -27413,7 +27413,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -27431,7 +27431,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "interop"
@@ -27449,7 +27449,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -27467,7 +27467,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -27485,7 +27485,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -27502,7 +27502,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -27520,7 +27520,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -27538,7 +27538,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -27556,7 +27556,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "knowledge"
@@ -27574,7 +27574,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27591,7 +27591,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27608,7 +27608,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
@@ -27626,7 +27626,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -27643,7 +27643,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -27660,7 +27660,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "safety"
@@ -27678,7 +27678,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "knowledge"
@@ -27696,7 +27696,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "usage"
@@ -27714,7 +27714,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -27732,7 +27732,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "memory"
@@ -27750,7 +27750,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -27768,7 +27768,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27785,7 +27785,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27802,7 +27802,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -27820,7 +27820,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -27838,7 +27838,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -27855,7 +27855,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "agents"
@@ -27873,7 +27873,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -27891,7 +27891,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -27909,12 +27909,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-context-lens",
@@ -27927,7 +27927,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27944,7 +27944,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -27962,7 +27962,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -27980,7 +27980,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -27997,7 +27997,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -28015,7 +28015,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -28033,7 +28033,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -28050,7 +28050,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -28067,7 +28067,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "agents"
@@ -28085,7 +28085,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -28103,7 +28103,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -28120,7 +28120,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -28137,7 +28137,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -28154,12 +28154,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-incognito",
@@ -28172,7 +28172,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -28190,7 +28190,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -28207,7 +28207,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -28225,7 +28225,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -28243,7 +28243,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -28261,7 +28261,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -28277,8 +28277,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "observability"
@@ -28296,7 +28296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -28313,7 +28313,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -28330,7 +28330,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -28348,7 +28348,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "devtools"
@@ -28366,7 +28366,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -28384,7 +28384,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -28402,7 +28402,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -28419,7 +28419,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -28437,7 +28437,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -28455,7 +28455,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -28473,7 +28473,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -28491,7 +28491,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -28509,7 +28509,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -28526,7 +28526,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -28543,7 +28543,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -28560,7 +28560,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -28577,8 +28577,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -28596,7 +28596,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -28613,7 +28613,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "memory"
@@ -28631,12 +28631,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-code-diff-viewer",
@@ -28649,7 +28649,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -28666,12 +28666,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-update-checker-kelearns",
@@ -28684,7 +28684,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -28701,7 +28701,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -28718,7 +28718,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -28736,7 +28736,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "memory"
@@ -28754,7 +28754,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -28772,7 +28772,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -28790,7 +28790,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -28807,7 +28807,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "memory"
@@ -28825,7 +28825,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
@@ -28843,7 +28843,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -28861,7 +28861,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -28878,7 +28878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -28896,7 +28896,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -28914,7 +28914,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -28932,7 +28932,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -28949,8 +28949,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -28967,7 +28967,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -28984,7 +28984,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29001,7 +29001,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -29019,7 +29019,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -29036,7 +29036,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29052,13 +29052,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-doc-guard",
@@ -29071,7 +29071,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "safety"
@@ -29089,7 +29089,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29106,7 +29106,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -29123,7 +29123,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -29140,7 +29140,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -29158,7 +29158,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -29175,7 +29175,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29192,7 +29192,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -29209,7 +29209,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29226,7 +29226,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -29243,7 +29243,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -29261,7 +29261,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -29279,7 +29279,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29296,7 +29296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -29313,7 +29313,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -29331,7 +29331,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -29348,7 +29348,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29365,7 +29365,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29381,12 +29381,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-local-filetree",
@@ -29399,7 +29399,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -29417,11 +29417,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-msg-edit",
@@ -29434,7 +29434,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29451,7 +29451,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29468,12 +29468,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "DeepSeek-Harness-Core",
@@ -29486,7 +29486,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "fun"
@@ -29504,7 +29504,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -29522,7 +29522,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -29539,7 +29539,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29555,8 +29555,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -29574,7 +29574,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29591,7 +29591,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -29609,7 +29609,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29626,7 +29626,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -29643,7 +29643,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -29660,7 +29660,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29677,7 +29677,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -29694,7 +29694,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -29712,7 +29712,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -29730,7 +29730,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29747,7 +29747,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -29764,7 +29764,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29781,7 +29781,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -29798,7 +29798,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -29815,7 +29815,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -29832,7 +29832,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -29850,7 +29850,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "channels"
@@ -29868,7 +29868,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "fun"
@@ -29886,7 +29886,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -29903,7 +29903,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -29920,7 +29920,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -29938,7 +29938,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -29955,8 +29955,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -29974,7 +29974,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -29991,7 +29991,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30008,7 +30008,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -30026,7 +30026,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -30043,7 +30043,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -30061,7 +30061,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "interop"
@@ -30079,7 +30079,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -30097,7 +30097,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -30115,7 +30115,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "vision"
@@ -30133,7 +30133,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -30151,7 +30151,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -30168,7 +30168,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30185,7 +30185,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "knowledge"
@@ -30203,7 +30203,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30220,7 +30220,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -30238,7 +30238,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "interop"
@@ -30256,7 +30256,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -30274,7 +30274,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30291,7 +30291,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -30309,7 +30309,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -30326,7 +30326,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30343,7 +30343,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -30361,7 +30361,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -30379,7 +30379,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -30396,7 +30396,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30413,7 +30413,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -30430,7 +30430,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30447,7 +30447,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30464,7 +30464,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
@@ -30482,7 +30482,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30499,7 +30499,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -30517,7 +30517,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30534,7 +30534,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -30551,7 +30551,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "agents"
@@ -30569,7 +30569,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -30586,7 +30586,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -30603,7 +30603,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -30621,7 +30621,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -30638,7 +30638,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -30656,7 +30656,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "observability"
@@ -30674,7 +30674,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30691,7 +30691,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30708,7 +30708,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30725,12 +30725,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-15"
     },
     {
       "name": "dsh-rules-paths",
@@ -30743,7 +30743,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -30761,7 +30761,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -30779,7 +30779,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30796,7 +30796,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -30814,7 +30814,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -30832,7 +30832,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -30850,7 +30850,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -30867,7 +30867,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30884,7 +30884,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "agents"
@@ -30902,7 +30902,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -30919,7 +30919,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -30936,7 +30936,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -30954,7 +30954,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -30971,7 +30971,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "observability"
@@ -30989,11 +30989,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-sessions",
@@ -31006,7 +31006,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -31024,7 +31024,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -31041,7 +31041,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31058,7 +31058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -31076,7 +31076,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -31094,7 +31094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -31112,12 +31112,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh2wechat",
@@ -31130,7 +31130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -31146,8 +31146,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31164,7 +31164,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -31182,7 +31182,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -31200,7 +31200,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -31218,7 +31218,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -31236,7 +31236,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "interop"
@@ -31254,7 +31254,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -31271,7 +31271,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -31288,7 +31288,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -31304,8 +31304,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -31322,7 +31322,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -31339,7 +31339,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31356,7 +31356,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -31373,7 +31373,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -31391,7 +31391,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31408,7 +31408,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -31426,7 +31426,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -31443,7 +31443,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -31461,7 +31461,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -31479,7 +31479,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31496,7 +31496,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -31514,7 +31514,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -31532,7 +31532,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -31549,7 +31549,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
@@ -31567,7 +31567,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31584,7 +31584,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -31602,7 +31602,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -31619,7 +31619,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -31636,7 +31636,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -31654,7 +31654,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -31672,7 +31672,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31689,7 +31689,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -31707,7 +31707,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -31725,7 +31725,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -31742,7 +31742,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31759,7 +31759,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -31776,7 +31776,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -31793,7 +31793,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -31810,7 +31810,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "agents"
@@ -31828,7 +31828,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -31846,7 +31846,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -31864,7 +31864,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -31882,7 +31882,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -31899,7 +31899,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "memory"
@@ -31917,7 +31917,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -31935,7 +31935,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -31953,7 +31953,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -31971,7 +31971,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -31988,7 +31988,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32005,7 +32005,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -32022,7 +32022,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -32040,7 +32040,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -32058,7 +32058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -32076,7 +32076,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "memory"
@@ -32094,7 +32094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -32112,7 +32112,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -32130,7 +32130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -32148,11 +32148,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-chat-toc",
@@ -32165,7 +32165,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -32182,7 +32182,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -32200,7 +32200,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -32217,7 +32217,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32234,7 +32234,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32251,7 +32251,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32268,7 +32268,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -32286,7 +32286,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32320,12 +32320,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-auto-continue-aki2519",
@@ -32338,7 +32338,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -32356,7 +32356,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32373,7 +32373,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "usage"
@@ -32391,7 +32391,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32408,7 +32408,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -32426,7 +32426,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -32444,7 +32444,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32461,7 +32461,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -32478,7 +32478,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "memory"
@@ -32496,7 +32496,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -32514,7 +32514,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -32532,7 +32532,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32549,7 +32549,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -32567,7 +32567,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "memory"
@@ -32585,7 +32585,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32602,7 +32602,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -32620,7 +32620,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -32638,7 +32638,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "ui"
@@ -32656,7 +32656,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -32674,7 +32674,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -32691,7 +32691,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -32709,7 +32709,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -32726,7 +32726,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -32743,7 +32743,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -32760,7 +32760,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -32778,7 +32778,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -32795,7 +32795,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -32813,7 +32813,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "marketplace"
@@ -32831,7 +32831,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -32848,7 +32848,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -32866,7 +32866,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -32884,7 +32884,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -32902,7 +32902,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32919,7 +32919,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -32936,7 +32936,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -32954,7 +32954,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -32972,7 +32972,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -32989,11 +32989,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-wsl-bridge",
@@ -33006,7 +33006,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -33023,11 +33023,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugins-plan-usage",
@@ -33040,7 +33040,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -33058,7 +33058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33075,7 +33075,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33092,7 +33092,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33109,7 +33109,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -33126,7 +33126,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -33144,7 +33144,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "devtools"
@@ -33162,7 +33162,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33179,7 +33179,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -33196,7 +33196,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33213,7 +33213,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -33229,8 +33229,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -33248,7 +33248,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -33266,7 +33266,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -33284,7 +33284,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -33302,7 +33302,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -33320,7 +33320,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -33338,7 +33338,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -33356,7 +33356,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -33374,7 +33374,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33391,7 +33391,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -33409,7 +33409,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -33426,8 +33426,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -33445,7 +33445,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -33463,7 +33463,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -33499,7 +33499,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -33517,7 +33517,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33534,7 +33534,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33551,7 +33551,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -33569,7 +33569,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -33585,8 +33585,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "agents"
@@ -33604,7 +33604,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -33622,7 +33622,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -33640,7 +33640,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -33657,7 +33657,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -33675,7 +33675,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -33693,7 +33693,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -33711,7 +33711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -33728,7 +33728,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
@@ -33746,7 +33746,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "capabilities"
@@ -33764,7 +33764,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -33782,7 +33782,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -33799,8 +33799,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -33817,7 +33817,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -33835,7 +33835,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -33853,7 +33853,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "observability"
@@ -33871,7 +33871,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -33889,7 +33889,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -33907,7 +33907,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -33925,7 +33925,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -33943,7 +33943,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -33961,7 +33961,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -33979,7 +33979,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -33996,7 +33996,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -34014,7 +34014,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -34031,7 +34031,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "observability"
@@ -34049,7 +34049,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -34067,7 +34067,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -34084,7 +34084,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "memory"
@@ -34102,7 +34102,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "notifications"
@@ -34120,7 +34120,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -34138,7 +34138,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -34155,7 +34155,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -34173,7 +34173,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34190,7 +34190,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "ui"
@@ -34207,13 +34207,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 36,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-shortcut",
@@ -34226,11 +34226,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-api-quota",
@@ -34243,7 +34243,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "usage"
@@ -34261,7 +34261,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -34278,7 +34278,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34295,7 +34295,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -34313,7 +34313,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -34331,7 +34331,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -34349,7 +34349,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -34367,7 +34367,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -34385,7 +34385,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -34403,7 +34403,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "usage"
@@ -34421,7 +34421,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -34438,7 +34438,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -34455,7 +34455,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -34473,7 +34473,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34490,7 +34490,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34507,7 +34507,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34524,7 +34524,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -34541,7 +34541,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34558,7 +34558,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -34576,7 +34576,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "capabilities"
@@ -34594,7 +34594,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "devtools"
@@ -34612,7 +34612,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -34630,7 +34630,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -34647,7 +34647,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "notifications"
@@ -34665,7 +34665,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -34682,7 +34682,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "ui"
@@ -34700,7 +34700,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -34718,7 +34718,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -34736,7 +34736,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -34754,7 +34754,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -34771,7 +34771,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -34789,12 +34789,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-image-to-text",
@@ -34807,7 +34807,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -34825,7 +34825,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -34843,7 +34843,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34860,7 +34860,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -34878,7 +34878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34895,7 +34895,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -34912,7 +34912,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -34929,7 +34929,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -34947,7 +34947,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -34965,7 +34965,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -34983,7 +34983,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "observability"
@@ -35001,7 +35001,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -35018,7 +35018,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -35036,7 +35036,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35053,7 +35053,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35070,7 +35070,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -35088,7 +35088,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -35105,7 +35105,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "terminal"
@@ -35123,7 +35123,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35140,7 +35140,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35156,8 +35156,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -35175,7 +35175,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -35193,7 +35193,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "notifications"
@@ -35211,7 +35211,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -35229,7 +35229,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "agents"
@@ -35247,7 +35247,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -35264,7 +35264,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35281,7 +35281,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "channels"
@@ -35299,11 +35299,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-git-plugin-itcodery",
@@ -35316,7 +35316,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -35333,7 +35333,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
@@ -35351,7 +35351,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -35369,7 +35369,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -35387,7 +35387,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35404,7 +35404,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -35422,7 +35422,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -35440,7 +35440,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "usage"
@@ -35458,7 +35458,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -35476,7 +35476,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -35494,7 +35494,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35511,7 +35511,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "interop"
@@ -35529,7 +35529,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35546,7 +35546,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -35564,7 +35564,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "ui"
@@ -35582,7 +35582,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -35599,7 +35599,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -35617,7 +35617,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -35635,7 +35635,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -35653,7 +35653,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -35670,7 +35670,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "interop"
@@ -35688,7 +35688,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "safety"
@@ -35706,7 +35706,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -35724,7 +35724,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -35742,7 +35742,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -35760,7 +35760,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -35778,11 +35778,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "prompt-polish",
@@ -35795,7 +35795,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -35812,7 +35812,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -35830,7 +35830,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -35848,7 +35848,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -35865,8 +35865,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -35884,12 +35884,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-chat-link",
@@ -35902,7 +35902,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -35919,7 +35919,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "observability"
@@ -35937,7 +35937,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -35955,7 +35955,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -35972,7 +35972,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -35990,11 +35990,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-ux-simple",
@@ -36007,7 +36007,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -36025,7 +36025,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -36042,7 +36042,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -36060,7 +36060,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -36078,7 +36078,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -36096,7 +36096,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -36113,7 +36113,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -36130,7 +36130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -36148,7 +36148,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -36166,7 +36166,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -36183,7 +36183,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -36201,7 +36201,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "ui"
@@ -36219,7 +36219,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -36237,7 +36237,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36254,7 +36254,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36271,7 +36271,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -36289,11 +36289,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-approval-flow-poc",
@@ -36306,7 +36306,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -36323,7 +36323,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -36341,7 +36341,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36358,7 +36358,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36375,7 +36375,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -36393,7 +36393,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -36410,7 +36410,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -36428,7 +36428,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "ui"
@@ -36446,7 +36446,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36463,12 +36463,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-ctl",
@@ -36481,7 +36481,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36498,7 +36498,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36515,7 +36515,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -36532,7 +36532,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -36549,7 +36549,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -36567,7 +36567,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36584,7 +36584,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -36602,7 +36602,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36619,7 +36619,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36636,7 +36636,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -36653,7 +36653,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -36671,7 +36671,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -36688,7 +36688,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "memory"
@@ -36706,7 +36706,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -36724,7 +36724,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36741,7 +36741,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -36758,7 +36758,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -36775,7 +36775,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -36793,7 +36793,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36810,7 +36810,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -36828,7 +36828,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -36845,7 +36845,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "capabilities"
@@ -36863,7 +36863,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -36880,8 +36880,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "memory"
@@ -36899,7 +36899,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36915,8 +36915,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "ui"
@@ -36934,7 +36934,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -36952,7 +36952,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -36969,7 +36969,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -36986,7 +36986,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -37003,7 +37003,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -37021,7 +37021,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "knowledge"
@@ -37039,7 +37039,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "devtools"
@@ -37057,7 +37057,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "channels"
@@ -37075,7 +37075,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "capabilities"
@@ -37093,7 +37093,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -37110,7 +37110,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -37128,7 +37128,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -37145,7 +37145,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "terminal"
@@ -37163,7 +37163,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -37181,11 +37181,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-sidechat",
@@ -37198,7 +37198,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -37215,7 +37215,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -37233,7 +37233,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -37250,7 +37250,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "vision"
@@ -37268,7 +37268,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "marketplace"
@@ -37286,7 +37286,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -37304,7 +37304,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "devtools"
@@ -37322,7 +37322,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -37340,7 +37340,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -37358,7 +37358,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "models"
@@ -37376,12 +37376,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-HARNESS-GUI",
@@ -37394,7 +37394,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -37412,7 +37412,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "safety"
@@ -37430,7 +37430,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -37448,7 +37448,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
@@ -37466,7 +37466,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -37483,7 +37483,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -37501,7 +37501,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -37518,7 +37518,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -37535,7 +37535,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -37553,7 +37553,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -37570,7 +37570,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -37587,7 +37587,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -37605,7 +37605,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -37623,7 +37623,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "notifications"
@@ -37641,7 +37641,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -37658,7 +37658,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "vision"
@@ -37675,8 +37675,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "ui"
@@ -37694,7 +37694,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -37712,7 +37712,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "usage"
@@ -37730,7 +37730,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -37747,7 +37747,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -37765,7 +37765,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -37783,7 +37783,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
@@ -37801,7 +37801,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -37818,7 +37818,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -37835,7 +37835,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -37852,7 +37852,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -37870,7 +37870,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -37888,7 +37888,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -37906,7 +37906,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -37924,7 +37924,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
@@ -37942,7 +37942,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -37960,7 +37960,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -37978,7 +37978,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "marketplace"
@@ -37996,7 +37996,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "safety"
@@ -38014,7 +38014,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -38032,7 +38032,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -38050,7 +38050,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -38068,7 +38068,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -38086,7 +38086,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38103,7 +38103,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "notifications"
@@ -38138,7 +38138,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38155,7 +38155,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -38172,7 +38172,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -38190,7 +38190,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -38208,7 +38208,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -38226,7 +38226,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -38244,7 +38244,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -38262,7 +38262,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -38280,7 +38280,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -38298,7 +38298,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -38315,7 +38315,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38332,7 +38332,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -38349,7 +38349,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -38367,7 +38367,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -38384,12 +38384,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-tool-notify",
@@ -38402,7 +38402,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "notifications"
@@ -38420,7 +38420,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -38437,7 +38437,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -38454,7 +38454,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "ui"
@@ -38472,7 +38472,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38489,7 +38489,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -38506,7 +38506,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -38524,7 +38524,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38541,7 +38541,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38558,7 +38558,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "ui"
@@ -38576,7 +38576,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -38594,7 +38594,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "agents"
@@ -38612,7 +38612,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "vision"
@@ -38630,7 +38630,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -38648,7 +38648,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -38666,7 +38666,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "safety"
@@ -38684,7 +38684,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "agents"
@@ -38702,7 +38702,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -38719,7 +38719,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38736,7 +38736,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -38753,7 +38753,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -38771,7 +38771,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -38789,7 +38789,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38806,7 +38806,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -38824,7 +38824,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -38842,7 +38842,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -38860,7 +38860,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38877,7 +38877,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "capabilities"
@@ -38894,8 +38894,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -38930,7 +38930,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -38948,7 +38948,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -38965,7 +38965,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -38983,7 +38983,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -39001,7 +39001,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39018,7 +39018,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -39036,7 +39036,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -39053,7 +39053,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -39071,7 +39071,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39088,7 +39088,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -39104,8 +39104,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -39123,7 +39123,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39140,7 +39140,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -39158,7 +39158,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39175,7 +39175,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -39193,7 +39193,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -39210,7 +39210,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39227,7 +39227,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39244,11 +39244,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-session-delete",
@@ -39261,7 +39261,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -39278,7 +39278,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -39296,7 +39296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -39314,7 +39314,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -39331,7 +39331,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "ui"
@@ -39348,13 +39348,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "stars": 13,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skill-manager-thomaske",
@@ -39367,7 +39367,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -39385,7 +39385,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39402,7 +39402,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -39419,7 +39419,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -39436,7 +39436,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -39454,7 +39454,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -39471,7 +39471,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39488,7 +39488,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -39505,7 +39505,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -39522,7 +39522,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -39540,7 +39540,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "models"
@@ -39558,7 +39558,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -39576,7 +39576,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "observability"
@@ -39593,12 +39593,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-dcp",
@@ -39611,7 +39611,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "knowledge"
@@ -39629,11 +39629,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-15"
     },
     {
       "name": "dsh-skillzip",
@@ -39646,7 +39646,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -39663,7 +39663,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39679,12 +39679,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skill-lord-serf",
@@ -39697,7 +39697,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -39715,7 +39715,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -39732,7 +39732,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39749,7 +39749,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "knowledge"
@@ -39767,7 +39767,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -39784,7 +39784,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -39802,7 +39802,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "capabilities"
@@ -39820,7 +39820,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39837,7 +39837,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
@@ -39854,7 +39854,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -39871,8 +39871,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -39889,7 +39889,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -39906,7 +39906,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -39923,7 +39923,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -39941,7 +39941,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -39959,7 +39959,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -39977,7 +39977,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -39995,7 +39995,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -40013,7 +40013,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -40031,7 +40031,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "devtools"
@@ -40049,7 +40049,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -40066,7 +40066,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40083,7 +40083,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40100,7 +40100,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -40118,7 +40118,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -40135,7 +40135,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -40152,7 +40152,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -40169,7 +40169,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -40187,7 +40187,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40204,7 +40204,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40221,7 +40221,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40238,7 +40238,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -40256,7 +40256,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -40274,7 +40274,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -40291,7 +40291,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -40309,7 +40309,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -40326,7 +40326,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40343,7 +40343,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -40360,12 +40360,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "devtools"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-15"
     },
     {
       "name": "dsh-plugin-marketplace-xhvdhczd",
@@ -40378,7 +40378,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "observability"
@@ -40396,7 +40396,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40413,7 +40413,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "interop"
@@ -40431,7 +40431,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
@@ -40449,7 +40449,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -40466,7 +40466,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -40484,7 +40484,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -40502,7 +40502,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -40519,7 +40519,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40536,7 +40536,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40552,13 +40552,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-asmemory",
@@ -40571,7 +40571,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -40588,7 +40588,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "knowledge"
@@ -40606,7 +40606,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40623,7 +40623,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40639,8 +40639,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -40658,7 +40658,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40675,7 +40675,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "models"
@@ -40693,7 +40693,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "interop"
@@ -40711,7 +40711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "memory"
@@ -40729,7 +40729,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40746,7 +40746,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -40763,7 +40763,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -40780,7 +40780,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -40798,7 +40798,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "capabilities"
@@ -40816,7 +40816,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40833,7 +40833,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -40851,7 +40851,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -40869,7 +40869,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "terminal"
@@ -40887,7 +40887,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge"
       ],
@@ -40904,7 +40904,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "devtools"
@@ -40922,7 +40922,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -40939,7 +40939,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -40957,7 +40957,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -40974,7 +40974,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -40992,7 +40992,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -41010,7 +41010,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -41028,7 +41028,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -41046,7 +41046,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "knowledge"
@@ -41064,7 +41064,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -41082,7 +41082,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -41100,7 +41100,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -41117,7 +41117,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -41134,7 +41134,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -41151,7 +41151,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "channels"
@@ -41169,7 +41169,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "knowledge"
@@ -41187,7 +41187,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -41205,7 +41205,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -41223,7 +41223,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -41241,7 +41241,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -41259,7 +41259,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41276,7 +41276,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41293,7 +41293,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -41311,7 +41311,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41328,7 +41328,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41345,7 +41345,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41362,7 +41362,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -41380,7 +41380,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41397,7 +41397,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability"
       ],
@@ -41414,7 +41414,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41431,7 +41431,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41448,7 +41448,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
@@ -41466,7 +41466,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -41484,7 +41484,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41501,7 +41501,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41518,7 +41518,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -41535,7 +41535,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -41552,7 +41552,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "knowledge"
@@ -41570,7 +41570,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41587,7 +41587,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41603,8 +41603,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -41620,8 +41620,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "devtools"
@@ -41639,7 +41639,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -41656,7 +41656,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "marketplace"
@@ -41674,7 +41674,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "capabilities"
@@ -41692,7 +41692,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -41710,7 +41710,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41727,7 +41727,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -41744,7 +41744,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41761,7 +41761,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -41779,7 +41779,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "memory"
@@ -41797,7 +41797,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "safety"
@@ -41815,8 +41815,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 12950,
-      "starsUpdated": "2026-08-15",
+      "stars": 12999,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -41833,8 +41833,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3834,
-      "starsUpdated": "2026-08-15",
+      "stars": 3835,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "models"
@@ -41852,12 +41852,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3445,
-      "starsUpdated": "2026-08-15",
+      "stars": 3447,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "working-activity",
@@ -41871,7 +41871,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 644,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -41889,8 +41889,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 382,
-      "starsUpdated": "2026-08-15",
+      "stars": 371,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "capabilities"
@@ -41908,8 +41908,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 142,
-      "starsUpdated": "2026-08-15",
+      "stars": 141,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -41926,8 +41926,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 115,
-      "starsUpdated": "2026-08-15",
+      "stars": 114,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -41945,8 +41945,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 115,
-      "starsUpdated": "2026-08-15",
+      "stars": 202,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -41965,7 +41965,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 84,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -41983,7 +41983,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 55,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "observability"
@@ -42001,12 +42001,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 50,
-      "starsUpdated": "2026-08-15",
+      "stars": 52,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-ningbain",
@@ -42019,8 +42019,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 46,
-      "starsUpdated": "2026-08-15",
+      "stars": 49,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -42039,7 +42039,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 43,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -42058,7 +42058,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 28,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42076,11 +42076,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 24,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-tui-openmaai",
@@ -42093,8 +42093,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 25,
-      "starsUpdated": "2026-08-15",
+      "stars": 26,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "agents"
@@ -42112,12 +42112,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 30,
-      "starsUpdated": "2026-08-15",
+      "stars": 31,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-cc1252",
@@ -42131,7 +42131,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 17,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -42149,7 +42149,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 15,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42167,11 +42167,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "ikanban",
@@ -42185,11 +42185,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-market-2binglin",
@@ -42202,8 +42202,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "stars": 14,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -42222,7 +42222,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -42240,8 +42240,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 9,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -42259,7 +42259,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -42277,7 +42277,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -42296,7 +42296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42314,11 +42314,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 9,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-deepcel",
@@ -42332,7 +42332,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -42350,12 +42350,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "image-vision",
@@ -42369,7 +42369,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 8,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -42387,13 +42387,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 10,
-      "starsUpdated": "2026-08-15",
+      "stars": 11,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dexthemes",
@@ -42407,7 +42407,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -42424,8 +42424,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 14,
-      "starsUpdated": "2026-08-15",
+      "stars": 15,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "knowledge"
@@ -42444,7 +42444,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42462,7 +42462,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "interop"
@@ -42481,7 +42481,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "interop"
@@ -42500,7 +42500,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42518,7 +42518,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -42537,7 +42537,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -42556,7 +42556,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -42575,7 +42575,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42593,7 +42593,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -42612,7 +42612,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "usage"
@@ -42631,7 +42631,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -42650,7 +42650,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -42668,7 +42668,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -42685,8 +42685,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "stars": 5,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "marketplace"
@@ -42705,7 +42705,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "agents"
@@ -42724,7 +42724,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -42743,11 +42743,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-companion-williamj",
@@ -42761,7 +42761,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -42780,7 +42780,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -42797,8 +42797,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "stars": 4,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -42817,7 +42817,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -42835,7 +42835,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -42853,7 +42853,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42870,7 +42870,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -42888,7 +42888,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -42907,7 +42907,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -42926,7 +42926,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42944,7 +42944,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -42962,7 +42962,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -42981,7 +42981,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -43000,7 +43000,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -43018,7 +43018,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -43037,7 +43037,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -43056,7 +43056,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43074,7 +43074,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -43092,7 +43092,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "agents"
@@ -43111,7 +43111,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -43130,7 +43130,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -43149,7 +43149,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -43168,7 +43168,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43186,7 +43186,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -43205,7 +43205,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43223,7 +43223,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -43241,7 +43241,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43259,7 +43259,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -43278,7 +43278,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -43296,11 +43296,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "maid-atelier-ui-bundle",
@@ -43314,7 +43314,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -43333,7 +43333,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -43351,7 +43351,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43369,7 +43369,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "terminal"
@@ -43388,7 +43388,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -43407,7 +43407,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "observability"
@@ -43426,7 +43426,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -43445,7 +43445,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "interop"
@@ -43463,8 +43463,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43481,7 +43481,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -43500,7 +43500,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43518,7 +43518,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "devtools"
@@ -43537,7 +43537,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43555,7 +43555,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -43574,7 +43574,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "safety"
@@ -43593,7 +43593,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -43610,13 +43610,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-paseo",
@@ -43630,7 +43630,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -43649,7 +43649,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "terminal"
@@ -43668,7 +43668,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43686,7 +43686,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -43705,7 +43705,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -43724,7 +43724,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -43743,7 +43743,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "terminal"
@@ -43762,7 +43762,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -43780,11 +43780,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-tuterx",
@@ -43798,7 +43798,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "interop"
@@ -43817,7 +43817,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "usage"
@@ -43836,12 +43836,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-file-explorer-wendilok",
@@ -43854,7 +43854,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -43873,7 +43873,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43891,7 +43891,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43909,7 +43909,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "memory"
@@ -43928,7 +43928,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -43947,7 +43947,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -43964,7 +43964,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -43983,7 +43983,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "marketplace"
@@ -44002,7 +44002,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "terminal"
@@ -44021,7 +44021,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -44039,7 +44039,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -44057,7 +44057,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -44075,7 +44075,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -44094,7 +44094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -44113,7 +44113,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -44131,7 +44131,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -44149,7 +44149,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "devtools"
@@ -44168,7 +44168,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -44186,7 +44186,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -44204,7 +44204,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -44222,7 +44222,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "interop"
@@ -44241,11 +44241,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-refined",
@@ -44258,7 +44258,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "knowledge"
@@ -44277,7 +44277,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -44296,7 +44296,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -44314,7 +44314,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -44333,7 +44333,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
@@ -44352,7 +44352,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -44370,7 +44370,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -44389,7 +44389,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -44407,7 +44407,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "terminal"
@@ -44426,7 +44426,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "capabilities"
@@ -44445,7 +44445,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -44463,7 +44463,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "memory"
@@ -44482,7 +44482,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "knowledge"
@@ -44501,7 +44501,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -44519,7 +44519,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -44537,7 +44537,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -44556,7 +44556,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -44575,7 +44575,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -44594,7 +44594,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -44613,7 +44613,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -44631,7 +44631,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -44649,7 +44649,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -44668,7 +44668,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "interop"
@@ -44687,7 +44687,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -44705,7 +44705,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -44723,7 +44723,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -44742,12 +44742,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "knowledge"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "folio",
@@ -44760,12 +44760,12 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-devkit",
@@ -44779,12 +44779,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "devtools"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desktop-oxygenaa",
@@ -44797,7 +44797,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "interop"
@@ -44816,7 +44816,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -44834,7 +44834,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "capabilities"
@@ -44853,7 +44853,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -44870,7 +44870,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -44889,7 +44889,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "observability"
@@ -44908,7 +44908,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "models"
@@ -44927,7 +44927,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "devtools"
@@ -44946,7 +44946,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -44965,7 +44965,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "knowledge"
@@ -44984,7 +44984,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -45003,7 +45003,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "marketplace"
@@ -45022,12 +45022,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-suggest-prompt",
@@ -45041,7 +45041,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -45059,7 +45059,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -45078,7 +45078,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -45096,7 +45096,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "ui"
@@ -45115,12 +45115,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-remote-access-web",
@@ -45134,7 +45134,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -45152,7 +45152,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -45170,7 +45170,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -45188,7 +45188,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -45205,8 +45205,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 8,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -45225,7 +45225,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "capabilities"
@@ -45244,7 +45244,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -45262,7 +45262,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -45281,7 +45281,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "terminal"
@@ -45300,7 +45300,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -45318,7 +45318,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "models"
@@ -45337,7 +45337,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -45356,7 +45356,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "memory"
@@ -45375,7 +45375,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "marketplace"
@@ -45394,7 +45394,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -45413,7 +45413,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "safety"
@@ -45432,7 +45432,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -45451,7 +45451,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -45469,7 +45469,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "models"
@@ -45488,7 +45488,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -45506,7 +45506,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -45524,7 +45524,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "interop"
@@ -45543,7 +45543,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -45562,7 +45562,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "capabilities"
@@ -45581,11 +45581,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "ThreadTrail",
@@ -45599,7 +45599,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -45618,7 +45618,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -45637,7 +45637,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -45655,7 +45655,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -45674,7 +45674,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -45693,7 +45693,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -45711,7 +45711,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "observability",
         "agents"
@@ -45730,7 +45730,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "notifications"
@@ -45749,7 +45749,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -45767,7 +45767,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "observability"
@@ -45786,7 +45786,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels"
       ],
@@ -45804,7 +45804,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "capabilities"
@@ -45823,7 +45823,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -45841,7 +45841,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -45859,7 +45859,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "memory"
@@ -45878,7 +45878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -45897,7 +45897,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "memory"
@@ -45916,7 +45916,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -45935,11 +45935,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "AgentFrame-v3",
@@ -45953,7 +45953,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -45971,7 +45971,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -45989,7 +45989,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46007,7 +46007,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -46025,7 +46025,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -46044,7 +46044,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -46062,7 +46062,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "memory"
@@ -46081,7 +46081,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -46099,12 +46099,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugins-neoeto",
@@ -46118,7 +46118,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -46137,7 +46137,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46155,7 +46155,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -46174,7 +46174,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
@@ -46193,7 +46193,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46211,7 +46211,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -46230,11 +46230,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-subagent-model-selector",
@@ -46248,7 +46248,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -46267,12 +46267,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-desk-renakoni",
@@ -46286,7 +46286,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -46304,7 +46304,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "ui"
@@ -46323,7 +46323,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "ui"
@@ -46342,7 +46342,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -46361,7 +46361,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -46380,7 +46380,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools",
         "terminal"
@@ -46399,7 +46399,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "fun"
@@ -46417,7 +46417,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "agents"
@@ -46436,7 +46436,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "devtools"
@@ -46455,7 +46455,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "vision"
@@ -46474,7 +46474,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -46492,7 +46492,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents"
       ],
@@ -46510,7 +46510,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -46528,7 +46528,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -46547,11 +46547,11 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "zzz-voidhunter-terminal",
@@ -46565,7 +46565,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "usage"
@@ -46584,7 +46584,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "terminal"
@@ -46603,7 +46603,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -46621,12 +46621,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-gui-xuboboo",
@@ -46639,8 +46639,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "stars": 2,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "models"
@@ -46659,7 +46659,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -46678,7 +46678,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46696,7 +46696,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace"
       ],
@@ -46714,7 +46714,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "usage"
@@ -46733,7 +46733,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -46752,7 +46752,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46770,7 +46770,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46788,12 +46788,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dshpilot",
@@ -46807,7 +46807,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -46825,7 +46825,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -46842,7 +46842,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "capabilities"
@@ -46860,7 +46860,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 33,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -46878,7 +46878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -46896,12 +46896,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "deepseek-harness-desktop-evanmorm",
@@ -46914,7 +46914,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "terminal"
@@ -46932,7 +46932,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop"
       ],
@@ -46949,7 +46949,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -46967,12 +46967,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "observability"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "DeepSeek-Harness-Electron-",
@@ -46985,7 +46985,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -47002,7 +47002,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -47019,7 +47019,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -47036,7 +47036,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "capabilities"
@@ -47055,7 +47055,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -47073,7 +47073,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "safety"
@@ -47091,7 +47091,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -47109,7 +47109,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -47127,7 +47127,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -47145,7 +47145,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "knowledge",
         "ui"
@@ -47163,7 +47163,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "agents",
         "safety"
@@ -47181,7 +47181,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -47200,7 +47200,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -47218,8 +47218,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 46,
-      "starsUpdated": "2026-08-15",
+      "stars": 47,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -47238,12 +47238,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 13,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "vision"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-qq2006",
@@ -47256,7 +47256,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -47273,7 +47273,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 11,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "knowledge"
@@ -47290,8 +47290,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "stars": 9,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -47309,7 +47309,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 7,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -47328,7 +47328,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "interop"
@@ -47345,8 +47345,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 6,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -47363,7 +47363,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "ui"
@@ -47381,7 +47381,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -47399,7 +47399,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -47417,7 +47417,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -47435,7 +47435,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "notifications"
@@ -47453,7 +47453,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -47471,7 +47471,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "fun"
@@ -47489,7 +47489,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun"
       ],
@@ -47506,7 +47506,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -47524,7 +47524,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -47542,7 +47542,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -47559,7 +47559,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "vision"
@@ -47577,12 +47577,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 4,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-skin-universe",
@@ -47596,7 +47596,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "knowledge"
@@ -47614,7 +47614,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "vision"
@@ -47632,7 +47632,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -47650,7 +47650,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "interop"
@@ -47668,7 +47668,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "agents"
@@ -47686,7 +47686,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -47704,7 +47704,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -47721,7 +47721,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -47738,7 +47738,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -47755,7 +47755,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -47772,7 +47772,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -47790,7 +47790,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -47807,7 +47807,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "interop"
@@ -47826,7 +47826,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -47844,7 +47844,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -47861,7 +47861,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 6,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision"
       ],
@@ -47878,7 +47878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "agents"
@@ -47896,7 +47896,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -47914,7 +47914,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "memory"
@@ -47933,7 +47933,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -47951,12 +47951,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-ui-beautify",
@@ -47969,7 +47969,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "vision"
@@ -47987,7 +47987,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "fun"
@@ -48005,7 +48005,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -48022,12 +48022,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-mcp",
@@ -48039,13 +48039,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "stars": 3,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "interop"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "yuhao-pet",
@@ -48058,12 +48058,12 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-whale-pet-er1c0v0",
@@ -48076,7 +48076,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "terminal"
@@ -48094,7 +48094,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "ui"
@@ -48112,7 +48112,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui",
         "capabilities"
@@ -48131,7 +48131,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "channels",
         "agents"
@@ -48149,7 +48149,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
@@ -48167,7 +48167,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "vision"
@@ -48185,7 +48185,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -48201,8 +48201,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 16,
-      "starsUpdated": "2026-08-15",
+      "stars": 22,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "terminal"
@@ -48220,7 +48220,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -48238,7 +48238,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "ui"
@@ -48256,7 +48256,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -48274,7 +48274,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "fun",
         "channels"
@@ -48292,7 +48292,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "ui"
@@ -48310,7 +48310,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -48326,8 +48326,8 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "stars": 1,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -48345,7 +48345,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "devtools"
       ],
@@ -48362,7 +48362,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal"
       ],
@@ -48379,7 +48379,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "ui"
@@ -48396,13 +48396,13 @@ window.__PLUGINS__ = {
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
-      "stars": 5,
-      "starsUpdated": "2026-08-15",
+      "stars": 36,
+      "starsUpdated": "2026-08-16",
       "tags": [
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-16"
     },
     {
       "name": "dsh-plugin-gydmsg",
@@ -48416,7 +48416,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "terminal"
@@ -48434,7 +48434,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -48452,7 +48452,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "models"
@@ -48470,7 +48470,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory"
       ],
@@ -48487,7 +48487,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -48505,7 +48505,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "capabilities"
@@ -48523,7 +48523,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "ui"
@@ -48541,7 +48541,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage"
       ],
@@ -48558,7 +48558,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "marketplace",
         "ui"
@@ -48576,7 +48576,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 2,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "models",
         "capabilities"
@@ -48594,7 +48594,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -48611,7 +48611,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "memory",
         "agents"
@@ -48629,7 +48629,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "interop"
@@ -48647,7 +48647,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -48664,7 +48664,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety",
         "models"
@@ -48682,7 +48682,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "vision",
         "ui"
@@ -48700,7 +48700,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "interop"
@@ -48718,7 +48718,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications",
         "memory"
@@ -48736,7 +48736,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "usage",
         "memory"
@@ -48754,7 +48754,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 3,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities"
       ],
@@ -48771,7 +48771,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "notifications"
       ],
@@ -48788,7 +48788,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "channels"
@@ -48806,7 +48806,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "safety"
       ],
@@ -48823,7 +48823,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "interop",
         "agents"
@@ -48841,7 +48841,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "capabilities",
         "ui"
@@ -48863,7 +48863,7 @@ window.__PLUGINS__ = {
         "ui"
       ],
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "pushedAt": "2026-08-15",
       "npm": "@dshworks/dsh-meter"
     },
@@ -48878,7 +48878,7 @@ window.__PLUGINS__ = {
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "verified",
       "stars": 1,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "tags": [
         "ui"
       ],
@@ -48899,7 +48899,7 @@ window.__PLUGINS__ = {
         "ui"
       ],
       "stars": 0,
-      "starsUpdated": "2026-08-15",
+      "starsUpdated": "2026-08-16",
       "pushedAt": "2026-08-15"
     }
   ]
