@@ -94331,6 +94331,25 @@
       "tags": [
         "ui"
       ]
+    },
+    {
+      "name": "dsh-homepage-skin",
+      "repo": "yushi-xxh/dsh-homepage-skin",
+      "npm": "dsh-homepage-skin",
+      "description": "DeepSeek Harness homepage-style background skin: WebGL fluid, dot grid and digital whale. Dark and light variants included.",
+      "category": "theme",
+      "official": false,
+      "added": "2026-08-15",
+      "lastVerified": "2026-08-17",
+      "verifiedAgainst": "0.1.0-rc.6",
+      "status": "verified",
+      "evidence": "package.json#dsh.bundle",
+      "stars": 1,
+      "starsUpdated": "2026-08-17",
+      "tags": [
+        "ui"
+      ],
+      "pushedAt": "2026-08-15"
     }
   ]
 }

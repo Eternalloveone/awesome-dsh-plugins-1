@@ -1455,16 +1455,6 @@
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "yushi-xxh/dsh-homepage-skin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "给 dsh web 换上 DeepSeek Harness 首页同款背景:深海流体、点线网格、数字鲸鱼,深浅双主题",
-      "discovered": "2026-08-17",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
       "repo": "z21for99/silk-background",
       "sources": [
         "github-topic"
