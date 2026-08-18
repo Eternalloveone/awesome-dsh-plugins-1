@@ -61,6 +61,12 @@
       "recheckAfter": "2026-09-05"
     },
     {
+      "repo": "19217057226/whale-pet",
+      "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
+      "date": "2026-08-18",
+      "recheckAfter": "2026-09-08"
+    },
+    {
       "repo": "1cyberlangke1/tokkit",
       "reason": "general tokenizer library that ships DeepSeek vocabularies; not a dsh extension",
       "date": "2026-08-15"
@@ -528,6 +534,12 @@
       "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
       "date": "2026-08-15",
       "recheckAfter": "2026-09-05"
+    },
+    {
+      "repo": "arch3rPro/dsh-skills",
+      "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
+      "date": "2026-08-18",
+      "recheckAfter": "2026-09-08"
     },
     {
       "repo": "Ariestar/sivtr",
@@ -2233,6 +2245,12 @@
       "recheckAfter": "2026-09-05"
     },
     {
+      "repo": "gronxb/hot-updater",
+      "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
+      "date": "2026-08-18",
+      "recheckAfter": "2026-09-08"
+    },
+    {
       "repo": "gtaifu/dsh-wechat-bridge",
       "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
       "date": "2026-08-15",
@@ -3921,6 +3939,12 @@
       "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
       "date": "2026-08-15",
       "recheckAfter": "2026-09-05"
+    },
+    {
+      "repo": "louisecxqiu-glitch/html-doc-center",
+      "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
+      "date": "2026-08-18",
+      "recheckAfter": "2026-09-08"
     },
     {
       "repo": "love0d000721/dsh-file-upload",
@@ -6042,6 +6066,12 @@
       "recheckAfter": "2026-09-05"
     },
     {
+      "repo": "Thanksgiver233/dsh-mobile",
+      "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
+      "date": "2026-08-18",
+      "recheckAfter": "2026-09-08"
+    },
+    {
       "repo": "the-beating-light-of-the-nail/dsh-meme-hub",
       "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
       "date": "2026-08-15",
@@ -6130,6 +6160,12 @@
       "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
       "date": "2026-08-15",
       "recheckAfter": "2026-09-05"
+    },
+    {
+      "repo": "tingly-dev/tingly-box",
+      "reason": "no dsh install path at any depth: no dsh manifest, no @deepseek-ai dependency, no SKILL.md",
+      "date": "2026-08-18",
+      "recheckAfter": "2026-09-08"
     },
     {
       "repo": "titxue/dsh-desktop",

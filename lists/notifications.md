@@ -4,7 +4,7 @@
 
 Alerting the human: desktop, sound, even a phone call.
 
-113 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+114 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ Alerting the human: desktop, sound, even a phone call.
 | dsh-update-checker-airmetro | 8 | [Airmetro/dsh-update-checker](https://github.com/Airmetro/dsh-update-checker) | Auto-check DeepSeek Harness for new releases and notify the user in the Web GUI with a locale-aware banner. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-lark-meeting-notifier | 7 | [yeruizhi/dsh-lark-meeting-notifier](https://github.com/yeruizhi/dsh-lark-meeting-notifier) · [npm](https://www.npmjs.com/package/dsh-lark-meeting-notifier) | Feishu meeting reminder dock: flash when it is time to leave the agent and join a human meeting. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-task-notify-linxin | 7 | [ltao0829/dsh-task-notify](https://github.com/ltao0829/dsh-task-notify) | Task-completion reminder for DeepSeek Harness: in-page toast, OS notification, and sound when an agent turn or background job finishes | 0.1.0-rc.6 (2026-08-17) |
-| dsh-grafana | 5 | [guhanfei-ai/dsh-grafana](https://github.com/guhanfei-ai/dsh-grafana) | Grafana dashboard editor for DeepSeek Harness: paste a dashboard URL, edit JSON via conversation, push back via HTTP API | 0.1.0-rc.6 (2026-08-18) |
+| dsh-grafana | 6 | [guhanfei-ai/dsh-grafana](https://github.com/guhanfei-ai/dsh-grafana) | Grafana dashboard editor for DeepSeek Harness: paste a dashboard URL, edit JSON via conversation, push back via HTTP API | 0.1.0-rc.6 (2026-08-18) |
 | dsh-ding | 4 | [CAOGGL/dsh-ding](https://github.com/CAOGGL/dsh-ding) · [npm](https://www.npmjs.com/package/dsh-ding) | Play a sound and show a Windows toast when a DeepSeek Harness turn finishes, with a Web UI bell control. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-messager | 4 | [ly6170/dsh-messager](https://github.com/ly6170/dsh-messager) | DeepSeek Harness 通知插件：会话交互/任务完成/出错时通过系统通知、浏览器通知、飞书机器人（webhook）推送提醒 | 0.1.0-rc.6 (2026-08-17) |
 | dsh-notify-on-complete | 4 | [pitetow/dsh-notify-on-complete](https://github.com/pitetow/dsh-notify-on-complete) | Desktop notifications for DeepSeek Harness (dsh): get a system notification when a run completes, the model asks a question, or waits for approval. Zero-dependency Cordis plugin. | 0.1.0-rc.6 (2026-08-17) |
@@ -66,6 +66,7 @@ Alerting the human: desktop, sound, even a phone call.
 | ds-notify-plugin | 0 | [JohnWes7/ds-notify-plugin](https://github.com/JohnWes7/ds-notify-plugin) | Windows 对话完成通知插件：主对话每轮完成后弹出 Windows 系统 toast 通知，并标明所属对话的标题。 | 0.1.0-rc.6 (2026-08-18) |
 | ds-turn-notify | 0 | [237229953-create/ds-turn-notify](https://github.com/237229953-create/ds-turn-notify) | DSH 会话完成或索要权限时后台提醒 + 提示音（Windows） | 0.1.0-rc.6 (2026-08-17) |
 | ds-turn-notify-reimucre | 0 | [reimu-create/ds-turn-notify](https://github.com/reimu-create/ds-turn-notify) | DSH 会话完成或索要权限时后台提醒 + 提示音（Windows） | 0.1.0-rc.6 (2026-08-17) |
+| dsh-approval-notify | 0 | [Uknown-wang/dsh-approval-notify](https://github.com/Uknown-wang/dsh-approval-notify) | DeepSeek Harness plugin: Windows toast notification with sound when a session requests elevation approval — shows which session, why, and what is being elevated | 0.1.0-rc.6 (2026-08-18) |
 | dsh-capybara-notify | 0 | [zzx-dear/dsh-capybara-notify](https://github.com/zzx-dear/dsh-capybara-notify) | Capybara secretary for DeepSeek Harness: desktop pet notifications, alert inbox API, session-aware alerts (turn done / approval needed), and daily plugin recommendations. · DSH 水豚秘书：桌面宠物通知、告警收件箱 | 0.1.0-rc.6 (2026-08-18) |
 | dsh-check-update | 0 | [HuiHuitie-zhu/dsh-check-update](https://github.com/HuiHuitie-zhu/dsh-check-update) | DSH 更新检查器（npm 版）：设置页检查 @deepseek-ai/dsh 是否有新版，导航红点提醒。Check @deepseek-ai/dsh for updates, red-dot reminder. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-client-ui-turn-chime | 0 | [liuyun847/dsh-client-ui-turn-chime](https://github.com/liuyun847/dsh-client-ui-turn-chime) | DSH Web 客户端插件:每次 AI 回复完成(会话快照 running 由 true 变 false)时在浏览器播放一声双音提示音 | 0.1.0-rc.6 (2026-08-18) |

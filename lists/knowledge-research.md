@@ -4,11 +4,11 @@
 
 Research workbenches, RAG, learning modes.
 
-209 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+210 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
-| de-anthropocentric-research-engine | 374 | [yogsoth-ai/de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine/tree/HEAD/dsh-plugin) | DeepSeek Harness plugin for the De-Anthropocentric Research Engine: 920 research skills, with an opt-in MCP server fleet | 0.1.0-rc.6 (2026-08-17) |
+| de-anthropocentric-research-engine | 375 | [yogsoth-ai/de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine/tree/HEAD/dsh-plugin) | DeepSeek Harness plugin for the De-Anthropocentric Research Engine: 920 research skills, with an opt-in MCP server fleet | 0.1.0-rc.6 (2026-08-17) |
 | SpecFusion | 52 | [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion/tree/HEAD/dsh-plugin) | SpecFusion skill + native API-docs search tools for DeepSeek Harness: 65,000+ API docs across 20 Chinese open platforms | 0.1.0-rc.6 (2026-08-17) |
 | hn-cli | 50 | [heartleo/hn-cli](https://github.com/heartleo/hn-cli/tree/HEAD/plugins/hacker-news) | Hacker News tools for DeepSeek Harness: front-page feeds, item comment trees, Algolia search, user profiles. | 0.1.0-rc.6 (2026-08-18) |
 | dsh-reverse-skill | 31 | [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) · [npm](https://www.npmjs.com/package/@reverse-skill/dsh-reverse-skill) | Reverse-engineering skill pack as a Cordis plugin: 85 SKILL.md units for authorized security research. | 0.1.0-rc.6 (2026-08-17) |
@@ -150,6 +150,7 @@ Research workbenches, RAG, learning modes.
 | dsh-cross-search | 0 | [Bryan-cmf/dsh-cross-search](https://github.com/Bryan-cmf/dsh-cross-search) | DSH-Plugin: multi-engine cross-validated search — parallel queries across Brave/Tavily/DuckDuckGo/Wikipedia (Bing/Mojeek optional), URL dedupe, confidence tiers. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-design-patterns | 0 | [uckkk/dsh-design-patterns](https://github.com/uckkk/dsh-design-patterns) | UI 设计模式参考：常见界面组件模式与适用场景知识库，帮助快速选择正确的交互组件（UI design patterns for DeepSeek Harness） | 0.1.0-rc.6 (2026-08-17) |
 | dsh-docs-mkaliezz | 0 | [MkaliezZ/dsh-docs](https://github.com/MkaliezZ/dsh-docs) | DSH plugin: dsh-docs | 0.1.0-rc.6 (2026-08-17) |
+| dsh-editor | 0 | [yangshen830-eng/dsh-editor](https://github.com/yangshen830-eng/dsh-editor) | DSH web plugin: a VS Code-style code editor view (file tree, Monaco, ripgrep search/replace, Markdown preview, git diff). | 0.1.0-rc.6 (2026-08-18) |
 | dsh-fff | 0 | [sleepinginsummer/dsh-fff](https://github.com/sleepinginsummer/dsh-fff) | Fuzzy file finding and indexed content search for DSH: find_files / resolve_file / related_files / fff_grep. Pure-JS path index + subsequence scoring (no native dependencies). Port of pi-fff for the | 0.1.0-rc.6 (2026-08-17) |
 | dsh-file-mention-picno | 0 | [PICNO/dsh-file-mention](https://github.com/PICNO/dsh-file-mention) | Workspace file/folder picker plugin for the DSH (DeepSeek Harness) Web GUI: browse/search workspace files and insert an exact relative-path tag reference into the draft. | 0.1.0-rc.6 (2026-08-18) |
 | dsh-geo | 0 | [winyh/dsh-geo](https://github.com/winyh/dsh-geo) | 生成式引擎优化（GEO）DeepSeek Harness plugin for SEO, GEO and AEO analysis of Markdown knowledge bases. | 0.1.0-rc.6 (2026-08-17) |

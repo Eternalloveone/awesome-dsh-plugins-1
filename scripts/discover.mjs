@@ -276,7 +276,16 @@ const rejected = new Set(
 const rejectedAll = new Set(rejectedFile.rejected.map((r) => r.repo.toLowerCase()));
 const expired = rejectedFile.rejected.filter((r) => r.recheckAfter && r.recheckAfter <= TODAY).length;
 if (expired) console.error(`discover: ${expired} rejection(s) expired and are eligible again`);
-const queue = new Map(file.candidates.map((c) => [c.repo.toLowerCase(), c]));
+// The exclusion set applies to the whole queue, not just to today's finds.
+// Rows routed here to the themes registry used to sit in this file forever:
+// once that registry lists them they are decided, and a queue that keeps
+// showing decided work reads as a backlog nobody is draining.
+const queue = new Map(
+  file.candidates
+    .filter((c) => !known.has(c.repo.toLowerCase()))
+    .map((c) => [c.repo.toLowerCase(), c]));
+const settledElsewhere = file.candidates.length - queue.size;
+if (settledElsewhere) console.error(`discover: dropped ${settledElsewhere} queued repo(s) now decided in a sibling registry`);
 
 const found = [];
 for (const [name, fn] of [

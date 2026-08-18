@@ -4,12 +4,12 @@
 
 In-UI stores, installers, skill managers.
 
-283 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+284 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
 | agentrq | 1077 | [agentrq/agentrq](https://github.com/agentrq/agentrq/tree/HEAD/plugins/deepseek-harness) | AgentRQ task manager for DeepSeek Harness: create, manage, and auto-pull AgentRQ tasks without leaving the harness | 0.1.0-rc.6 (2026-08-17) |
-| dsh-market | 934 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins. · DSH 可视化插件市场：逛一逛，点一下，装好。 | 0.1.0-rc.6 (2026-08-17) |
+| dsh-market | 936 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | Visual plugin market inside DeepSeek Harness — browse, search, and one-click install community plugins. · DSH 可视化插件市场：逛一逛，点一下，装好。 | 0.1.0-rc.6 (2026-08-17) |
 | awesome-deepseek-harness | 139 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness/tree/HEAD/plugins/dsh-code-review) | Code review assistant for DeepSeek Harness: code_review_context collects deterministic git diff context; a bundled skill drives the review checklist. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-plugin-marketplace | 123 | [bradeGithub/DSH-Plugins-Marketplace](https://github.com/bradeGithub/DSH-Plugins-Marketplace) · [npm](https://www.npmjs.com/package/dsh-plugin-marketplace) | Web GUI plugin marketplace: browse, install, and update GitHub topic dsh-plugin packages from inside DeepSeek Harness. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-webui-market-plugin | 84 | [Sanqi-normal/dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) · [npm](https://www.npmjs.com/package/@sanqi-normal/dsh-webui-market-plugin) | In-harness community plugin market for the dsh web GUI: browse, install, and uninstall into a profile. | 0.1.0-rc.6 (2026-08-17) |
@@ -31,6 +31,7 @@ In-UI stores, installers, skill managers.
 | dsh-plugin-marketplace-w2112515 | 11 | [w2112515/dsh-plugin-marketplace](https://github.com/w2112515/dsh-plugin-marketplace) | Out-of-tree installable plugin marketplace bundle for DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
 | dsh-skill-cocosgt | 11 | [CocoSgt/dsh-skill](https://github.com/CocoSgt/dsh-skill) | Skill management for DeepSeek Harness: install, list, and route SKILL.md units from the web UI, built on the dsh typert protocol. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-skills | 11 | [CocoSgt/dsh-skills](https://github.com/CocoSgt/dsh-skills) · [npm](https://www.npmjs.com/package/dsh-skills) | Global skill hub for dsh: aggregates Claude Code, project, and .skill sources in Settings. | 0.1.0-rc.6 (2026-08-17) |
+| comm-protocol-hub | 10 | [Thanksgiver233/comm-protocol-hub](https://github.com/Thanksgiver233/comm-protocol-hub) | 3GPP通信协议知识库与分类可视化工具 — 集成NTN/TN/全息通信/近远场通信等全维度协议查询 | 0.1.0-rc.6 (2026-08-18) |
 | dsh-plugin-manager-liqichen | 10 | [liqichen/dsh-plugin-manager](https://github.com/liqichen/dsh-plugin-manager) | GUI in the DSH settings panel: toggle/delete MCP servers, browse and trash skills, list built-in plugin packages — hot-applied without restart. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-hub-plugin | 9 | [sliverp/dsh-hub-plugin](https://github.com/sliverp/dsh-hub-plugin) | The native DSH plugin marketplace backed by dsh-hub.cc | 0.1.0-rc.6 (2026-08-17) |
 | dsh-pluginmanager | 9 | [buhuikongpan/dsh-pluginmanager](https://github.com/buhuikongpan/dsh-pluginmanager) | 插件管理器（Plugin Manager）：把 DSH 插件按 原生扩展（系统/WebUI/工具）/ 用户扩展 / 临时 分层展示，附可编辑描述、补登记与卸载管理。 | 0.1.0-rc.6 (2026-08-17) |
@@ -41,6 +42,7 @@ In-UI stores, installers, skill managers.
 | dizzy-dsh | 7 | [Acidmoon/DIzzy-DSH](https://github.com/Acidmoon/DIzzy-DSH) | Dizzy-DSH 插件合集仓库:git clone 后 dsh plugin add 即装,无需 npm 发布。 | 0.1.0-rc.6 (2026-08-17) |
 | dsh-desktop-safe-market | 7 | [bruc3van/dsh-desktop-safe-market](https://github.com/bruc3van/dsh-desktop-safe-market) | A safety-first plugin marketplace for the DeepSeek Harness web GUI: a curated community shortlist, and an install that starts with a security review | 0.1.0-rc.6 (2026-08-17) |
 | dsh-extension-hub | 7 | [Relistencode/dsh-extension-hub](https://github.com/Relistencode/dsh-extension-hub) · [npm](https://www.npmjs.com/package/dsh-extension-hub) | Manage DeepSeek Harness skills and MCP servers from the web settings page, with import from Claude and Codex. | 0.1.0-rc.6 (2026-08-17) |
+| dsh-plugin-market-springbr | 7 | [springbrand-lab/dsh-plugin-market](https://github.com/springbrand-lab/dsh-plugin-market) | A visual plugin marketplace for DeepSeek Harness profiles. | 0.1.0-rc.6 (2026-08-18) |
 | dexthemes | 6 | [daeshawnballard/dexthemes](https://github.com/daeshawnballard/dexthemes/tree/HEAD/packages/deepseek-harness-plugin) | Discover, preview, apply, restore, and revert themes in DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
 | dsh-github-intelligence | 6 | [zoahdev/dsh-github-intelligence](https://github.com/zoahdev/dsh-github-intelligence) | The most comprehensive developer-intelligence integration for DeepSeek Harness: 195+ read-only tools across GitHub, GitLab, Gitee, npm, PyPI, crates.io, Docker Hub, Hugging Face, Hacker News, Stack | 0.1.0-rc.6 (2026-08-17) |
 | dsh-plugin-installer-toukaite | 6 | [Toukaiteio/dsh-plugin-installer](https://github.com/Toukaiteio/dsh-plugin-installer) | A Web UI marketplace and profile switcher for DeepSeek Harness plugins. | 0.1.0-rc.6 (2026-08-17) |
@@ -51,7 +53,6 @@ In-UI stores, installers, skill managers.
 | dsh-novel-writer-akira399 | 5 | [akira399/dsh-novel-writer](https://github.com/akira399/dsh-novel-writer) | 大肥鱼的小说工坊 — DSH 网络小说创作插件：九阶段门禁式创作流程 + 世界书(lorebook)设定注入 + 本地书籍导入 + AI 一键润色 + 去AI味 + 黄金三章诊断 + 百万字一致性 + 市场调研与模板复制，面向开源用户的开箱即用方案。 | 0.1.0-rc.6 (2026-08-18) |
 | dsh-plugin-manager-monk233 | 5 | [monk233/dsh-plugin-manager](https://github.com/monk233/dsh-plugin-manager) · [npm](https://www.npmjs.com/package/@dsh-external/dsh-plugin-manager) | Manage dsh profile plugins from the web UI: enable / disable / delete composition rows with live hot reload, no config editing by hand | 0.1.0-rc.6 (2026-08-17) |
 | dsh-plugin-market-nanmicod | 5 | [NanmiCoder/dsh-plugin-market](https://github.com/NanmiCoder/dsh-plugin-market) | Verified plugin marketplace for DeepSeek Harness: discover, inspect, install, and remove DSH plugins from the Web UI | 0.1.0-rc.6 (2026-08-17) |
-| dsh-plugin-market-springbr | 5 | [springbrand-lab/dsh-plugin-market](https://github.com/springbrand-lab/dsh-plugin-market) | A visual plugin marketplace for DeepSeek Harness profiles. | 0.1.0-rc.6 (2026-08-18) |
 | dsh-plugins | 5 | [Sakana-yuyu/dsh-plugins](https://github.com/Sakana-yuyu/dsh-plugins) · [npm](https://www.npmjs.com/package/dsh-plugins-catalog) | Star-ranked DeepSeek Harness plugin catalog. Search and install other dsh-plugin repos. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-skills-market | 5 | [peiqi10086/dsh-skills-market](https://github.com/peiqi10086/dsh-skills-market) | DSH skills manager + SkillHub marketplace: manage user-level/per-workspace skills and search/install skills from SkillHub in a Web UI panel | 0.1.0-rc.6 (2026-08-17) |
 | dsh-trading | 5 | [maddogfinance/dsh-trading](https://github.com/maddogfinance/dsh-trading) | Trading research workbench for DeepSeek Harness — market-data seam, BYO data providers, and model-facing analysis tools | 0.1.0-rc.6 (2026-08-18) |
