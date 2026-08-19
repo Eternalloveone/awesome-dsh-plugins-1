@@ -20,6 +20,7 @@ const repos = [...new Set(data.plugins.map((p) => p.repo))];
 const today = new Date().toISOString().slice(0, 10);
 const counts = new Map();
 const missing = [];
+const stalled = []; // batches the API would not answer; their entries keep last known stars
 
 function gql(query) {
   const out = execFileSync("gh", ["api", "graphql", "-f", `query=${query}`, "--jq", "."], {
@@ -34,15 +35,31 @@ for (let i = 0; i < repos.length; i += 100) {
     const [owner, name] = slug.split("/");
     return `r${j}: repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(name)}) { stargazerCount pushedAt nameWithOwner }`;
   }).join("\n");
-  let res;
-  try {
-    res = gql(`query {\n${fields}\n}`);
-  } catch (err) {
-    // gh exits non-zero when any alias errors, but still prints the partial data
-    const text = String(err.stdout || "");
-    const start = text.indexOf("{");
-    if (start < 0) throw err;
-    res = JSON.parse(text.slice(start));
+  // A batch can fail two ways. gh exits non-zero but still prints partial data
+  // when some aliases 404 — that is normal and recoverable from stdout. A
+  // transient API blip prints nothing parseable; retry that, and if it still
+  // will not answer, skip the batch rather than lose every batch before it.
+  // The file is only written at the end, so one unhandled throw used to cost
+  // the whole run.
+  let res = null;
+  for (let attempt = 0; attempt < 3 && !res; attempt++) {
+    try {
+      res = gql(`query {\n${fields}\n}`);
+    } catch (err) {
+      const text = String(err.stdout || "");
+      const start = text.indexOf("{");
+      if (start >= 0) {
+        try { res = JSON.parse(text.slice(start)); } catch { /* fall through to retry */ }
+      }
+      if (!res) {
+        if (attempt === 2) break;
+        execFileSync("sleep", [String(2 * (attempt + 1))]);
+      }
+    }
+  }
+  if (!res) {
+    stalled.push(`${i}-${i + batch.length - 1}`);
+    continue;
   }
   batch.forEach((slug, j) => {
     const node = res.data?.[`r${j}`];
@@ -67,6 +84,9 @@ for (const p of data.plugins) {
 
 writeFileSync(FILE, `${JSON.stringify(data, null, 2)}\n`);
 console.log(`stars: refreshed ${touched}/${data.plugins.length} entries (${repos.length} unique repos)`);
+if (stalled.length) {
+  console.error(`stars: ${stalled.length} batch(es) unanswered after retries (rows ${stalled.join(", ")}); those entries kept their previous counts`);
+}
 if (missing.length) {
   console.error(`stars: ${missing.length} repo(s) not found — moved or deleted, re-check the entries:`);
   for (const slug of missing) console.error(`  - ${slug}`);
