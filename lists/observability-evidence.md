@@ -4,7 +4,7 @@
 
 Diagnostics, logs, audits, content-addressed proofs.
 
-101 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+99 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -29,7 +29,6 @@ Diagnostics, logs, audits, content-addressed proofs.
 | dsh-audit-bundle | 3 | [dongsheng123132/dsh-audit-bundle](https://github.com/dongsheng123132/dsh-audit-bundle) | Content-addressed audit indexes across independent DeepSeek Harness evidence producers | 0.1.0-rc.6 (2026-08-17) |
 | dsh-benchmark | 3 | [dongsheng123132/dsh-benchmark](https://github.com/dongsheng123132/dsh-benchmark) | Reproducible deterministic benchmark evidence for DSH tools and plugins | 0.1.0-rc.6 (2026-08-17) |
 | dsh-benchmark-evidence | 3 | [LeslieWylie/dsh-benchmark-evidence](https://github.com/LeslieWylie/dsh-benchmark-evidence) | Benchmark manifests, fail-closed gates, artifact contracts, and result integrity skills for DeepSeek Harness. | 0.1.0-rc.6 (2026-08-17) |
-| dsh-doctor | 3 | [sc3294145287-beep/dsh-doctor](https://github.com/sc3294145287-beep/dsh-doctor) · [npm](https://www.npmjs.com/package/dsh-doctor) | Deterministic diagnostics and recovery for DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
 | dsh-download-progress | 3 | [Fro2en12/dsh-download-progress](https://github.com/Fro2en12/dsh-download-progress) | DSH web plugin: 下载进度面板——URL 下载器、agent shell/SSH 传输追踪、工作区黑箱下载监控，拖拽浮窗实时显示进度。（AI 产物：设计、编码、测试与文档均由 AI 完成） | 0.1.0-rc.6 (2026-08-17) |
 | dsh-keepalive | 3 | [xiaohj233/dsh-keepalive](https://github.com/xiaohj233/dsh-keepalive) | Opt-in detached watchdog for the DSH Web process with snapshot-checked repair. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-llm-inspector | 3 | [cdxiaodong/dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) · [npm](https://www.npmjs.com/package/dsh-llm-inspector) | 统一 LLM 请求/响应检查器：调 reasoning effort、外部思考(think)导出、流量与包分析 —— DeepSeek Harness 插件 | 0.1.0-rc.6 (2026-08-17) |
@@ -73,7 +72,6 @@ Diagnostics, logs, audits, content-addressed proofs.
 | dsh-provenance | 1 | [Darren-Tang/dsh-provenance](https://github.com/Darren-Tang/dsh-provenance) | Pre-install supply-chain provenance checks for DeepSeek Harness plugins: verify the tarball you're about to install matches the source you read, before any code runs. Never executes the audited | 0.1.0-rc.6 (2026-08-18) |
 | dsh-remote-plugin | 1 | [Blank-not-black/dsh-remote-plugin](https://github.com/Blank-not-black/dsh-remote-plugin) | DSH Remote bundle 插件（独立包形态）：DSH 原生侧边栏入口 + 右侧抽屉管理页；内置网关随 DSH 自动启停，直显令牌与设备监控；配套 Android App 远程操控 DSH。源码: https://github.com/Blank-not-black/dsh-remote-plugin | 0.1.0-rc.6 (2026-08-17) |
 | dsh-replay-lab | 1 | [tbxy09/dsh-replay-lab](https://github.com/tbxy09/dsh-replay-lab) | Replay real DeepSeek Harness turns against Standard, Minimal, Anchored, or plugin candidates with frozen request-surface evidence | 0.1.0-rc.6 (2026-08-17) |
-| dsh-repo-atlas | 1 | [zhenkun26/dsh-repo-atlas](https://github.com/zhenkun26/dsh-repo-atlas) | DeepSeek Harness plugin for evidence-backed repository analysis and reviewable, bounded change proposals. | 0.1.0-rc.6 (2026-08-18) |
 | dsh-side-monitor | 1 | [pc439527/dsh-side-monitor](https://github.com/pc439527/dsh-side-monitor) | DSH 系统监控侧边插件：在 Sidebar 提供「系统监控」入口，打开右侧监控面板，实时展示宿主机概览、进程与 Docker 容器状态（只读） | 0.1.0-rc.6 (2026-08-17) |
 | dsh-sonar | 1 | [Howe829/dsh-sonar](https://github.com/Howe829/dsh-sonar) | A draggable deep-sea token and context dashboard for DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
 | dsh-status-plugin | 1 | [woshi-Tom/dsh-status-plugin](https://github.com/woshi-Tom/dsh-status-plugin) | A dsh status plugin with host-plane and browser halves: harness runtime health (process, listener, API-key presence, memory, uptime, plugin inventory) as JSON plus server-pushed SSE alerts, surfaced. | 0.1.0-rc.6 (2026-08-17) |

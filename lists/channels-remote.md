@@ -4,7 +4,7 @@
 
 IM bridges and remote control: Feishu, Telegram, WeCom, DingTalk.
 
-148 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+146 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ IM bridges and remote control: Feishu, Telegram, WeCom, DingTalk.
 | dsh-lark | 37 | [omdsh-dev/dsh-lark](https://github.com/omdsh-dev/dsh-lark) | Lark/Feishu IM bot channel: chats drive agents, replies and approvals come back as messages and cards. | 0.1.0-rc.6 (2026-08-17) |
 | ax-feishu-bridge | 33 | [AX1202/ax-feishu-bridge](https://github.com/AX1202/ax-feishu-bridge) | Feishu/Lark bridge for coding agents — chat with Pi or DeepSeek Harness from Feishu or Lark | 0.1.0-rc.6 (2026-08-17) |
 | dsh-im-gateway-zhuiyuey | 29 | [zhuiyueya/dsh-im-gateway](https://github.com/zhuiyueya/dsh-im-gateway) | 聚合 IM 网关插件（DeepSeek Harness）：把 dsh agent 接入 Telegram / Discord / Slack / 飞书 / 微信 / QQ / WhatsApp / Signal / Teams / LINE / Matrix / Mattermost / Google Chat / IRC / Twitch / Nostr / Nextcloud Talk / | 0.1.0-rc.6 (2026-08-17) |
-| deepseek-harness-remote | 27 | [liguobao/deepseek-harness-remote](https://github.com/liguobao/deepseek-harness-remote) · [npm](https://www.npmjs.com/package/deepseek-harness-remote) | Secure remote control for DeepSeek Harness: paired clients view sessions, continue chats, and handle approvals while the harness stays on the host. | 0.1.0-rc.6 (2026-08-17) |
+| deepseek-harness-remote | 28 | [liguobao/deepseek-harness-remote](https://github.com/liguobao/deepseek-harness-remote) · [npm](https://www.npmjs.com/package/deepseek-harness-remote) | Secure remote control for DeepSeek Harness: paired clients view sessions, continue chats, and handle approvals while the harness stays on the host. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-lark-bot | 22 | [PlutoKeating/dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) · [npm](https://www.npmjs.com/package/dsh-lark-bot) | Bridge DeepSeek Harness into Feishu/Lark with streaming cards, project workspaces, approvals, and scheduling. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-lark-link | 20 | [amlyczz/dsh-lark-link](https://github.com/amlyczz/dsh-lark-link) | High-reliability Feishu/Lark bridge for DeepSeek Harness — QR one-click auth, multi-mode agents, card-based commands, zero-loss outbox, media in/out, session logs, reusable DSH Web GUI | 0.1.0-rc.6 (2026-08-17) |
 | dsh-lark-sugarfor | 20 | [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) | Feishu/Lark WebSocket channel plugin for DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
@@ -31,7 +31,6 @@ IM bridges and remote control: Feishu, Telegram, WeCom, DingTalk.
 | dsh-chatnode-wechat | 6 | [Jesse-njx/dsh-chatnode-wechat](https://github.com/Jesse-njx/dsh-chatnode-wechat) | Chat with, monitor, and approve your DSH agents from WeChat — an iLink gateway + conversation node bundle for DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
 | dsh-email | 6 | [STARDUSTLC666/dsh-email](https://github.com/STARDUSTLC666/dsh-email) | IMAP/SMTP email tools for DeepSeek Harness: list, read, search and send mail, with QQ/163/126/Sina/Aliyun/Gmail/Outlook/iCloud presets. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-llm-wechat | 6 | [sulfide2085/dsh-llm-wechat](https://github.com/sulfide2085/dsh-llm-wechat) | DeepSeek-compatible adapter for the WeChat (chatapi.weixin.qq.com) gateway, with think-tag translation for the DeepSeek Harness LLM seam | 0.1.0-rc.6 (2026-08-17) |
-| dsh-meme-yyh001 | 6 | [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme) | DeepSeek Harness 表情包插件:内置默认图库(官方-001,92 张),按情绪随机抽图,send_meme 发图(Web/QQ),设置页管理面板。 | 0.1.0-rc.6 (2026-08-18) |
 | DSH-Telegram-Relay | 6 | [congchuanling-dot/DSH-Telegram-Relay](https://github.com/congchuanling-dot/DSH-Telegram-Relay) | A DeepSeek Harness plugin bundle for Telegram relay integration. | 0.1.0-rc.6 (2026-08-17) |
 | telegram | 6 | [LoserFox/telegram](https://github.com/LoserFox/telegram) | Telegram Bot API bridge plugin: relay Telegram chats to harness agent sessions (long polling, per-chat sessions, HTML formatting) | 0.1.0-rc.6 (2026-08-17) |
 | dsh-cowork | 5 | [Jesse-njx/dsh-cowork](https://github.com/Jesse-njx/dsh-cowork/tree/HEAD/packages/chatnode-wechat) | Chat with, monitor, and approve your DSH agents from WeChat — an iLink gateway + conversation node bundle for DeepSeek Harness | 0.1.0-rc.6 (2026-08-17) |
@@ -80,7 +79,6 @@ IM bridges and remote control: Feishu, Telegram, WeCom, DingTalk.
 | dsh2wechat | 2 | [wuyuanjiang1/dsh2wechat](https://github.com/wuyuanjiang1/dsh2wechat) | DeepSeek Harness 消息桥插件：微信 ClawBot（iLink）。 | 0.1.0-rc.6 (2026-08-17) |
 | harness-lark | 2 | [huoxue1/harness-lark](https://github.com/huoxue1/harness-lark) | Lark/Feishu channel plugin for DeepSeek Harness: WebSocket event gateway, per-chat persistent agents, interactive cards, media, docs, bases, calendars, tasks, and user OAuth | 0.1.0-rc.6 (2026-08-18) |
 | chicheng-peak | 1 | [534119219/chicheng-peak](https://github.com/534119219/chicheng-peak) | DSH 峰谷提醒插件：依据 DeepSeek 官方峰谷定价时段（高峰 09:00–12:00 / 14:00–18:00，其余为低峰），在网页边缘渲染带呼吸、流光效果的橙色（高峰）/ 蓝色（低峰）边框，并可在到达高峰/低峰前按自定义提前量，通过消息推送渠道（Server酱 / Bark / 钉钉 / TG / 飞书 / Webhook…）或消息平台发送自定义标题与内容的提醒。 | 0.1.0-rc.6 (2026-08-17) |
-| Digital-Sweet-Heart | 1 | [dalintian/Digital-Sweet-Heart](https://github.com/dalintian/Digital-Sweet-Heart) | AI 女友助手（Digital-Sweet-Heart）：把 DeepSeek Harness 的 Web 界面改造成微信风格的虚拟女友聊天应用（好友列表 / 对话 / 人设设定 / AI 肖像 / 发图发视频 / 照片分析），支持自定义对话、视觉、文生图、文生视频四组 OpenAI 兼容 API | 0.1.0-rc.6 (2026-08-17) |
 | dsh-adapter-feishu | 1 | [AtinyFurina/dsh-adapter-feishu](https://github.com/AtinyFurina/dsh-adapter-feishu) | DeepSeek Harness 飞书适配器：通过飞书长连接(WebSocket)接收消息并回复，支持工作区/会话管理、提问、权限确认与模型切换 | 0.1.0-rc.6 (2026-08-17) |
 | dsh-agent-telegram | 1 | [jonah791/dsh-agent-telegram](https://github.com/jonah791/dsh-agent-telegram) | Telegram 远程连接：八千代 bot 长轮询接收主人消息 → 注入主会话 → 回复回传 Telegram（白名单绑定，串行 pending） | 0.1.0-rc.6 (2026-08-17) |
 | dsh-agentmail | 1 | [agentmail-to/dsh-agentmail](https://github.com/agentmail-to/dsh-agentmail) | Give a DeepSeek Harness agent its own email inbox, with inbound mail bound to per-thread sessions. | 0.1.0-rc.6 (2026-08-18) |

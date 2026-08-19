@@ -20,6 +20,7 @@ const repos = [...new Set(data.plugins.map((p) => p.repo))];
 const today = new Date().toISOString().slice(0, 10);
 const counts = new Map();
 const missing = [];
+const renamed = []; // repos that answered under a new name
 const stalled = []; // batches the API would not answer; their entries keep last known stars
 
 function gql(query) {
@@ -65,6 +66,15 @@ for (let i = 0; i < repos.length; i += 100) {
     const node = res.data?.[`r${j}`];
     if (node && typeof node.stargazerCount === "number") {
       counts.set(slug, { stars: node.stargazerCount, pushedAt: node.pushedAt?.slice(0, 10) });
+      // The API follows renames and hands back the current nameWithOwner, so a
+      // moved repo keeps refreshing happily under its old slug and nothing ever
+      // says the registry's link is now a redirect. We already have the answer
+      // in the response — it was just being thrown away. Renames are reported,
+      // not applied: the row is somebody's entry and changing its repo is a
+      // decision, not a refresh.
+      if (node.nameWithOwner && node.nameWithOwner.toLowerCase() !== slug.toLowerCase()) {
+        renamed.push(`${slug} -> ${node.nameWithOwner}`);
+      }
     } else {
       missing.push(slug);
     }
@@ -84,6 +94,10 @@ for (const p of data.plugins) {
 
 writeFileSync(FILE, `${JSON.stringify(data, null, 2)}\n`);
 console.log(`stars: refreshed ${touched}/${data.plugins.length} entries (${repos.length} unique repos)`);
+if (renamed.length) {
+  console.error(`stars: ${renamed.length} repo(s) answered under a new name — update the entries:`);
+  for (const line of renamed) console.error(`  - ${line}`);
+}
 if (stalled.length) {
   console.error(`stars: ${stalled.length} batch(es) unanswered after retries (rows ${stalled.join(", ")}); those entries kept their previous counts`);
 }

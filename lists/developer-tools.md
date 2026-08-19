@@ -9,7 +9,7 @@ Building, testing, and publishing plugins.
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
 | superpowers-dsh | 63 | [LayneChai/superpowers-dsh](https://github.com/LayneChai/superpowers-dsh) | TDD, debugging, planning, and collaboration skills for DeepSeek Harness, adapted from obra/superpowers. | 0.1.0-rc.6 (2026-08-17) |
-| dsh-tianshu-build | 32 | [huiliyi37/dsh-tianshu-build](https://github.com/huiliyi37/dsh-tianshu-build/tree/HEAD/packages/bundle/base) | The shared dsh core as a profile bundle: every profile's first patch layer, inserting the base plugin rows over the empty profile root | 0.1.0-rc.6 (2026-08-17) |
+| dsh-tianshu-build | 32 | [huiliyi37/oh-my-tianshu](https://github.com/huiliyi37/oh-my-tianshu/tree/HEAD/packages/bundle/base) | The shared dsh core as a profile bundle: every profile's first patch layer, inserting the base plugin rows over the empty profile root | 0.1.0-rc.6 (2026-08-17) |
 | dsh-plugin-check | 24 | [omdsh-dev/dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) | DSH plugin health checker: scan plugin repos for manifest protocol / patch format / build pitfalls / hub registration, zero-dependency read-only diagnostics | 0.1.0-rc.6 (2026-08-17) |
 | dsh-user-experience | 19 | [DietCokewithSugar/dsh-user-experience](https://github.com/DietCokewithSugar/dsh-user-experience) | DeepSeek Harness UX walkthrough plugin: persona-driven source-code UX review for React (TypeScript/JavaScript) and Vue 3 projects, with change-triggered automatic walkthroughs | 0.1.0-rc.6 (2026-08-17) |
 | webdsh | 16 | [futrime/webdsh](https://github.com/futrime/webdsh) | Pure-static, browser-only build of DeepSeek Harness (dsh web) — no server, deployable to GitHub Pages | 0.1.0-rc.6 (2026-08-18) |
@@ -96,7 +96,7 @@ Building, testing, and publishing plugins.
 | dsh-test-coverage | 0 | [uckkk/dsh-test-coverage](https://github.com/uckkk/dsh-test-coverage) | 测试覆盖率分析：解析 LCOV / Cobertura / Istanbul-JSON / Go cover.out 覆盖率报告，产出结构化覆盖率数据与未覆盖行区间，指导补写测试 | 0.1.0-rc.6 (2026-08-17) |
 | dsh-test-drive | 0 | [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) | Isolated install-and-smoke test drives for DeepSeek Harness plugins: installs a repo or npm package into a throwaway DSH_HOME profile, verifies the bundle patch layer and boot logs, records a | 0.1.0-rc.6 (2026-08-17) |
 | dsh-test-env-entry | 0 | [EIGHTfs/dsh-test-env-entry](https://github.com/EIGHTfs/dsh-test-env-entry) | 测试环境入口：侧边栏一键查看主/测试实例与反代状态、打开测试环境、启动/停止测试实例 | 0.1.0-rc.6 (2026-08-18) |
-| dsh-test-runner-mkaliezz | 0 | [MkaliezZ/dsh-test-runner](https://github.com/MkaliezZ/dsh-test-runner) | DSH plugin: dsh-test-runner | 0.1.0-rc.6 (2026-08-17) |
+| dsh-test-runner-mkaliezz | 0 | [MkaliezZ/dsh-test-normalizer](https://github.com/MkaliezZ/dsh-test-normalizer) | DSH plugin: dsh-test-runner | 0.1.0-rc.6 (2026-08-17) |
 | dsh-tool-tdd | 0 | [Xiaooooo434680/dsh-tool-tdd](https://github.com/Xiaooooo434680/dsh-tool-tdd) | TDD test runner tool for DeepSeek Harness: run test commands, parse structured failures (Jest/Vitest/Pytest/Go/Rust/TAP/tsc), and drive a red-green loop | 0.1.0-rc.6 (2026-08-17) |
 | dsh-video-creator | 0 | [uckkk/dsh-video-creator](https://github.com/uckkk/dsh-video-creator) | 视频号创作助手：内置主流短视频创作模板，调用中国境内大模型一键生成内容包，适配抖音/视频号/B站/快手/小红书/微博/西瓜视频快速发布 | 0.1.0-rc.6 (2026-08-17) |
 | gamify-edu | 0 | [BinLe1988/gamify-edu](https://github.com/BinLe1988/gamify-edu) | A modern, gamified educational platform built with React, TypeScript, and Vite | 0.1.0-rc.6 (2026-08-18) |

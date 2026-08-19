@@ -1,7 +1,7 @@
 {
-  "_comment": "Registry entries whose repository no longer resolves. Written by hand from the stars refresh: scripts/stars.mjs reports every repo the GraphQL batch could not resolve, and each one here was then re-checked singly against the REST API, which DOES follow renames (GraphQL repository(owner:,name:) does not). A rename would have come back with a new full_name and been corrected instead of marked; every repo below returned a real 404, so it was deleted or made private. Deleted, not judged: these keep their entries and their evidence, with status `broken`, because the install path was genuinely verified on lastVerified and hiding that history would be a worse record than keeping it. A private repo can come back, so re-check before ever removing a row.",
+  "_comment": "Registry entries whose repository no longer resolves. scripts/stars.mjs reports every repo the GraphQL batch could not resolve; each one here was then re-checked singly against the REST API as an independent confirmation, and every one returned a real 404, so it was deleted or made private. Note that BOTH APIs follow renames — GraphQL repository(owner:,name:) returns the new nameWithOwner for a renamed repo, which is why stars.mjs now reports renames separately instead of confusing them with disappearances. A row here is kept, not deleted, with status `broken`: the install path was genuinely verified on lastVerified, and erasing that is a worse record than keeping it with a date on it. A private repo can come back, so re-check before removing anything.",
   "checked": "2026-08-19",
-  "method": "GET /repos/{owner}/{repo} per entry, 404 = gone",
+  "method": "GraphQL batch could not resolve, then GET /repos/{owner}/{repo} per entry; 404 on both = gone",
   "count": 59,
   "repos": [
     "2128627267/dsh-qdocs-hub",

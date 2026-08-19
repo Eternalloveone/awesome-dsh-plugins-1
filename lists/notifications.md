@@ -4,7 +4,7 @@
 
 Alerting the human: desktop, sound, even a phone call.
 
-114 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+112 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -62,12 +62,10 @@ Alerting the human: desktop, sound, even a phone call.
 | dsh-viper-recap | 1 | [superrabbit123/dsh-viper-recap](https://github.com/superrabbit123/dsh-viper-recap) | 毒蛇复盘 (viper recap): roast — or toast — the current session from its real event log. A model tool + a viperRecap projection + a composer button and floating card. | 0.1.0-rc.6 (2026-08-18) |
 | dsh-web-notify | 1 | [renpengfei1027/dsh-web-notify](https://github.com/renpengfei1027/dsh-web-notify) | Approval attention plugin for the DSH Web GUI — audible + visual alerts (chime, tab badge, OS notification, dock) for pending approvals, session completions, job failures, and connection loss. | 0.1.0-rc.6 (2026-08-17) |
 | dsh-windows-notify-suteradi | 1 | [Sutera-Diffusus/dsh-windows-notify](https://github.com/Sutera-Diffusus/dsh-windows-notify) | Windows-grade notifications for DeepSeek Harness: system toasts, custom sounds, and a taskbar tray badge for task completion and decision prompts — a native DSH profile plugin (bundle + client + | 0.1.0-rc.6 (2026-08-17) |
-| dsh-workbench-dely0 | 1 | [Dely0/dsh-workbench](https://github.com/Dely0/dsh-workbench) | DSH 个人工作台：日历 + 层级任务 + AI 澄清/拆解/执行/复盘 + AI 智能排序/日报周报 + 桌面提醒 | 0.1.0-rc.6 (2026-08-17) |
 | dsh-zen-remote | 1 | [KyoMio/dsh-zen-remote](https://github.com/KyoMio/dsh-zen-remote) | 把 DeepSeek Harness 变成手机 App：移动端界面重排（两级页面栈、会话列表主屏、composer 重排、手势、附件上传）+ 配对码认证网关 + PWA 安装 + 真 Web Push。Complete mobile plugin for DeepSeek Harness (DSH): app-shell mobile UI, pairing-code gateway for | 0.1.0-rc.6 (2026-08-18) |
 | cc-dsh-notifier | 0 | [baobaolaodie/cc-dsh-notifier](https://github.com/baobaolaodie/cc-dsh-notifier) | Claude Code + DeepSeek Harness Windows 通知系统:Toast + 点击跳转 | 0.1.0-rc.6 (2026-08-17) |
 | deepseek-peak-blocker | 0 | [zisekongling/deepseek-peak-blocker](https://github.com/zisekongling/deepseek-peak-blocker) | DSH 插件：DeepSeek 官方 API 高峰时段智能管控（阻塞确认模态框 / 顶部提醒横幅 / 右下角状态面板 / /bypass 与 /status 命令） | 0.1.0-rc.6 (2026-08-18) |
 | ds-notify-plugin | 0 | [JohnWes7/ds-notify-plugin](https://github.com/JohnWes7/ds-notify-plugin) | Windows 对话完成通知插件：主对话每轮完成后弹出 Windows 系统 toast 通知，并标明所属对话的标题。 | 0.1.0-rc.6 (2026-08-18) |
-| ds-turn-notify | 0 | [237229953-create/ds-turn-notify](https://github.com/237229953-create/ds-turn-notify) | DSH 会话完成或索要权限时后台提醒 + 提示音（Windows） | 0.1.0-rc.6 (2026-08-17) |
 | ds-turn-notify-reimucre | 0 | [reimu-create/ds-turn-notify](https://github.com/reimu-create/ds-turn-notify) | DSH 会话完成或索要权限时后台提醒 + 提示音（Windows） | 0.1.0-rc.6 (2026-08-17) |
 | dsh-approval-notify | 0 | [Uknown-wang/dsh-approval-notify](https://github.com/Uknown-wang/dsh-approval-notify) | DeepSeek Harness plugin: Windows toast notification with sound when a session requests elevation approval — shows which session, why, and what is being elevated | 0.1.0-rc.6 (2026-08-18) |
 | dsh-capybara-notify | 0 | [zzx-dear/dsh-capybara-notify](https://github.com/zzx-dear/dsh-capybara-notify) | Capybara secretary for DeepSeek Harness: desktop pet notifications, alert inbox API, session-aware alerts (turn done / approval needed), and daily plugin recommendations. · DSH 水豚秘书：桌面宠物通知、告警收件箱 | 0.1.0-rc.6 (2026-08-18) |

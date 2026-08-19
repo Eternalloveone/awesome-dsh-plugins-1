@@ -1,12 +1,12 @@
 {
   "updated": "2026-08-18",
-  "plugins": 6290,
-  "authors": 4236,
-  "npm": 584,
+  "plugins": 6190,
+  "authors": 4222,
+  "npm": 582,
   "categories": {
-    "bundle": 84,
-    "plugin": 6177,
-    "skill": 24,
+    "bundle": 83,
+    "plugin": 6080,
+    "skill": 22,
     "theme": 2,
     "tool": 3
   },
