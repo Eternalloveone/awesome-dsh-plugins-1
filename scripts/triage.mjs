@@ -503,10 +503,32 @@ if (PROVE) {
     for (const g of gone) console.error(`  - ${g.entry.repo} (${g.entry.name})`);
   }
 
+  // `broken` means a human confirmed the repository is gone, singly, against
+  // the REST API — the method data/gone.json documents. It is a stronger claim
+  // than anything this pass makes, and this pass used to overwrite it: a
+  // --prove run flipped 59 confirmed-dead rows to verified/unverified, which
+  // took `gone` on /api/plugins from 59 to 0. A registry that quietly stops
+  // disclosing its dead rows is doing the exact thing this one accuses other
+  // directories of, and it took one flag to do it.
+  //
+  // So a prove pass may PROMOTE a broken row it can now read — repos do come
+  // back; two of these did — but it may never silently demote the marking to
+  // "unverified" on a tree it merely failed to fetch.
+  const goneNow = new Set(gone.map((g) => g.entry.name));
+
   const byEntry = new Map(results.map((r) => [r.entry.name, r]));
   for (const p of registry.plugins) {
     const r = byEntry.get(p.name);
     if (!r) continue;
+    if (p.status === "broken" && r.verdict !== "accept") {
+      // Still unreadable, and already confirmed dead by hand. Leave it alone.
+      continue;
+    }
+    if (r.verdict !== "accept" && goneNow.has(p.name)) {
+      // Newly 404 on this pass. One observation is not a confirmation, so the
+      // row keeps its claim and the run names it for a human to check.
+      continue;
+    }
     if (r.verdict === "accept") {
       p.evidence = r.evidence;
       p.status = "verified";

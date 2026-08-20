@@ -1,14 +1,14 @@
 {
   "_comment": "Registry entries whose repository no longer resolves. scripts/stars.mjs reports every repo the GraphQL batch could not resolve; each one here was then re-checked singly against the REST API as an independent confirmation, and every one returned a real 404, so it was deleted or made private. Note that BOTH APIs follow renames — GraphQL repository(owner:,name:) returns the new nameWithOwner for a renamed repo, which is why stars.mjs now reports renames separately instead of confusing them with disappearances. A row here is kept, not deleted, with status `broken`: the install path was genuinely verified on lastVerified, and erasing that is a worse record than keeping it with a date on it. A private repo can come back, so re-check before removing anything.",
-  "checked": "2026-08-19",
+  "checked": "2026-08-20",
   "method": "GraphQL batch could not resolve, then GET /repos/{owner}/{repo} per entry; 404 on both = gone",
-  "count": 59,
+  "count": 62,
   "repos": [
     "2128627267/dsh-qdocs-hub",
     "2128627267/dsh-qinput-history",
     "2128627267/dsh-qsystem-actions",
     "Airmetro/dsh-plugin-checker",
-    "BroBFG/dsh-tool-docx",
+    "Da-Mie/dsh-rewind",
     "Da-Mie/dsh-session-vault",
     "Dingpenghui-good/dsh-plugin-manager",
     "Dingpenghui-good/dsh-tool-agnes",
@@ -47,7 +47,6 @@
     "lingruan28-boop/dsh-balance-float",
     "lynkas/dsh-think-flow-flow",
     "omdsh-plugins/omdsh-base",
-    "penguin-oo/dsh-delegate-router",
     "penguin-oo/dsh-quota-hub",
     "qing9835/plug",
     "rabbitknight/dsh-tui",
@@ -61,7 +60,24 @@
     "wuyh/dsh-workspace-files",
     "xbc996/schnauzer-pet",
     "xinman100/dsh-opencode-go-usage-plus",
+    "xxiaoxiong/dsh-ci",
+    "xxiaoxiong/dsh-issue-tracker",
+    "xxiaoxiong/dsh-kubernetes",
+    "yan77-h/dsh-agent-evaluator",
     "yun520-1/deepseek-heartflow",
     "zhulin025/LaoA-dshGF"
-  ]
+  ],
+  "returned": [
+    {
+      "repo": "BroBFG/dsh-tool-docx",
+      "goneOn": "2026-08-19",
+      "backOn": "2026-08-20"
+    },
+    {
+      "repo": "penguin-oo/dsh-delegate-router",
+      "goneOn": "2026-08-19",
+      "backOn": "2026-08-20"
+    }
+  ],
+  "_returnedComment": "Repos that were confirmed 404 and later resolved again. Kept as a list rather than deleted, because it is the evidence for why one 404 is an observation and not a verdict: a private repo flipped public, or a rename that had not propagated, reads exactly like a deletion."
 }

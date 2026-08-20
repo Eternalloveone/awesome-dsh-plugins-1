@@ -2715,7 +2715,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -4178,7 +4178,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 3,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -4790,7 +4790,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -5834,7 +5834,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -7157,7 +7157,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "npm": "@yun520-1/deepseek-heartflow",
       "stars": 5,
       "starsUpdated": "2026-08-17",
@@ -9296,7 +9296,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "npm": "dsh-git-guard",
       "stars": 1,
       "starsUpdated": "2026-08-14",
@@ -12826,7 +12826,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "npm": "dsh-tailscale-sync",
       "stars": 4,
       "starsUpdated": "2026-08-19",
@@ -16868,7 +16868,7 @@
       "added": "2026-08-14",
       "lastVerified": "2026-08-14",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "npm": "dsh-mobile-mode",
       "stars": 1,
       "starsUpdated": "2026-08-14",
@@ -25177,7 +25177,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -26588,7 +26588,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -33798,7 +33798,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -35025,7 +35025,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-20",
       "tags": [
@@ -35043,7 +35043,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -35866,7 +35866,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -35883,7 +35883,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -39545,7 +39545,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -39938,7 +39938,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -40775,7 +40775,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-15",
       "tags": [
@@ -41640,7 +41640,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -45697,7 +45697,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -49183,7 +49183,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -49219,7 +49219,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -49331,7 +49331,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -50251,7 +50251,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -50477,7 +50477,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -50608,7 +50608,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -50625,7 +50625,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-16",
       "tags": [
@@ -50999,7 +50999,7 @@
       "added": "2026-08-15",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -53776,7 +53776,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 3,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -57405,7 +57405,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -57422,7 +57422,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -57476,7 +57476,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -59812,7 +59812,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -64349,7 +64349,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -65194,7 +65194,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-18",
       "tags": [
@@ -66943,7 +66943,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -67128,7 +67128,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -67277,7 +67277,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-20",
       "tags": [
@@ -67294,7 +67294,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-20",
       "tags": [
@@ -67311,7 +67311,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-20",
       "tags": [
@@ -71245,7 +71245,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -73367,7 +73367,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -73907,7 +73907,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -75216,7 +75216,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -75439,7 +75439,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -78553,7 +78553,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -78608,7 +78608,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -78644,7 +78644,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -78661,7 +78661,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -78751,7 +78751,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -78805,7 +78805,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -78822,7 +78822,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -80623,7 +80623,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -84770,7 +84770,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -92328,7 +92328,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-17",
       "tags": [
@@ -93202,7 +93202,7 @@
       "added": "2026-08-17",
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-19",
       "tags": [
@@ -97134,7 +97134,7 @@
       "added": "2026-08-18",
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 2,
       "starsUpdated": "2026-08-18",
       "tags": [
@@ -100053,7 +100053,7 @@
       "added": "2026-08-18",
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-18",
       "tags": [
@@ -100071,7 +100071,7 @@
       "added": "2026-08-18",
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-18",
       "tags": [
@@ -100088,7 +100088,7 @@
       "added": "2026-08-18",
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 1,
       "starsUpdated": "2026-08-18",
       "tags": [
@@ -104610,7 +104610,7 @@
       "added": "2026-08-18",
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-18",
       "tags": [
@@ -112649,7 +112649,7 @@
       "added": "2026-08-18",
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
-      "status": "unverified",
+      "status": "broken",
       "stars": 0,
       "starsUpdated": "2026-08-19",
       "tags": [
