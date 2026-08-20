@@ -1,7 +1,7 @@
 {
   "_comment": "Registry entries whose repository no longer resolves. scripts/stars.mjs reports every repo the GraphQL batch could not resolve; each one here was then re-checked singly against the REST API as an independent confirmation, and every one returned a real 404, so it was deleted or made private. Note that BOTH APIs follow renames — GraphQL repository(owner:,name:) returns the new nameWithOwner for a renamed repo, which is why stars.mjs now reports renames separately instead of confusing them with disappearances. A row here is kept, not deleted, with status `broken`: the install path was genuinely verified on lastVerified, and erasing that is a worse record than keeping it with a date on it. A private repo can come back, so re-check before removing anything.",
   "checked": "2026-08-20",
-  "method": "GraphQL batch could not resolve, then GET /repos/{owner}/{repo} per entry; 404 on both = gone",
+  "method": "GraphQL batch could not resolve, then GET /repos/{owner}/{repo} per entry; 404 on both = gone. A REST 301 is NOT proof of life: it means renamed, and the Location it hands back is /repositories/{id}, which itself 404s when the repo was renamed and then deleted. Follow it before concluding anything. Seen 2026-08-20 on Shmilyol/galgame-skin, which reads as alive to any check that stops at the redirect.",
   "count": 62,
   "repos": [
     "2128627267/dsh-qdocs-hub",
