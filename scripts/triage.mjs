@@ -58,7 +58,14 @@ const CONCURRENCY = 12;
 // The dsh version entries are verified against. Bump when dsh ships and the
 // prover has been re-checked against it — not automatically, or the field
 // starts asserting compatibility nobody looked at.
-const DSH_VERSION = process.env.DSH_VERSION ?? "0.1.0-rc.6";
+//
+// Re-checked against 0.1.0-rc.8 (released 2026-08-19) before this bump:
+// docs/user/develop/basic/publish.md is byte-identical to rc.7, and the only
+// `dsh` manifest keys in the harness tree are still `bundle` and `client`. The
+// two install paths this prover reads did not move. rc.8's new surfaces —
+// Profile Bundles and the experimental `ctx.agentTeams` service — ride on
+// `dsh.bundle`, so they need no new proof shape.
+const DSH_VERSION = process.env.DSH_VERSION ?? "0.1.0-rc.8";
 
 const read = (rel) => JSON.parse(readFileSync(join(ROOT, rel), "utf8"));
 const write = (rel, value) => writeFileSync(join(ROOT, rel), `${JSON.stringify(value, null, 2)}\n`);
@@ -142,9 +149,44 @@ const depsOf = (pkg) => Object.keys({
   ...(pkg?.devDependencies ?? {}),
 });
 
-// A package.json is a proof if it names dsh in a way dsh itself reads.
-function proveFromPackage(pkg, path) {
+// A package.json that is not this repo's own work proves nothing about this
+// repo. Distributions and desktop shells vendor the harness tree wholesale, and
+// a vendored `@deepseek-ai/dsh-client-connection/package.json` carries a real
+// `dsh.client` key — the harness's own. Reading it as the vendoring repo's
+// install path admits a fork of dsh as a plugin of dsh.
+//
+// Caught on cocode-agency/cocode, whose "proof" was a verbatim copy of the
+// harness file, `repository.url` still naming deepseek-ai/deepseek-harness. The
+// file says whose it is; we just were not reading that line.
+//
+// Two tells, both from the file itself:
+//   - the package NAME is under @deepseek-ai/ — first-party, so a copy
+//   - `repository.url` points at a GitHub repo other than the one being proven
+//
+// Deliberately narrow. A repo publishing under its own scope and depending on
+// @deepseek-ai/* is the normal case and stays proven; only a copy of a
+// first-party package, or a file that names someone else's repo, is refused.
+const ghSlug = (url) => {
+  const m = String(url ?? "").match(/github\.com[/:]([^/]+\/[^/#?]+?)(?:\.git)?(?:[/#?]|$)/i);
+  return m ? m[1].toLowerCase() : null;
+};
+
+function vendoredFrom(pkg, repo) {
+  if (typeof pkg?.name === "string" && pkg.name.startsWith("@deepseek-ai/")) {
+    return `vendored first-party package ${pkg.name}`;
+  }
+  const declared = ghSlug(pkg?.repository?.url ?? pkg?.repository);
+  if (declared && repo && declared !== repo.toLowerCase()) {
+    return `package.json declares repository ${declared}`;
+  }
+  return null;
+}
+
+// A package.json is a proof if it names dsh in a way dsh itself reads — and if
+// it is this repo's own file rather than a copy of somebody else's.
+function proveFromPackage(pkg, path, repo) {
   if (!pkg) return null;
+  if (vendoredFrom(pkg, repo)) return null;
   if (pkg.dsh?.bundle) return { evidence: `${path}#dsh.bundle`, why: "dsh.bundle manifest" };
   if (pkg.dsh) return { evidence: `${path}#dsh.${Object.keys(pkg.dsh).join("+")}`, why: "dsh manifest" };
   const ds = depsOf(pkg).filter((d) => d.startsWith("@deepseek-ai/"));
@@ -201,7 +243,7 @@ async function proveRoot(repo) {
     empty: !pkg && !readme && !skill,
   };
 
-  const fromPkg = proveFromPackage(pkg, "package.json");
+  const fromPkg = proveFromPackage(pkg, "package.json", repo);
   if (fromPkg) return { proof: fromPkg, facts };
   if (facts.hasSkill && facts.skillFrontmatter) {
     return { proof: { evidence: "SKILL.md#frontmatter", why: "SKILL.md with frontmatter" }, facts };
@@ -229,7 +271,7 @@ async function proveDeep(repo) {
   const nestedPkgs = paths.filter((p) => p.endsWith("package.json") && p !== "package.json").slice(0, 20);
   for (const p of nestedPkgs) {
     const pkg = parse(await raw(repo, p));
-    const proof = proveFromPackage(pkg, p);
+    const proof = proveFromPackage(pkg, p, repo);
     if (proof) {
       return {
         proof: { ...proof, path: dirname(p), pkgName: pkg.name ?? null, pkgDesc: pkg.description ?? null },
@@ -438,7 +480,7 @@ if (PROVE) {
     // repo root, or a monorepo's root package.json answers for all of them.
     if (p.path) {
       const pkg = parse(await raw(p.repo, `${p.path}/package.json`));
-      const proof = proveFromPackage(pkg, `${p.path}/package.json`);
+      const proof = proveFromPackage(pkg, `${p.path}/package.json`, p.repo);
       if (proof) return { entry: p, verdict: "accept", ...proof };
       const skill = await raw(p.repo, `${p.path}/SKILL.md`);
       if (skill && SKILL_FRONTMATTER.test(skill)) {

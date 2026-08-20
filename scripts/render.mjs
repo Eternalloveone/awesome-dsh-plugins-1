@@ -223,6 +223,10 @@ How much filtering that is, measured on ${coverage.measured}: **${num(coverage.u
 
 That is the number worth comparing. A topic count says how many people typed a tag. **${num(coverage.decided)} of ${num(coverage.unique)}** says how many repositories somebody actually opened.
 
+On 2026-08-20 that percentage fell, and it fell because the denominator got honest. Until then "carries a dsh discovery topic" quietly meant "carries one of the five \`dsh-*\` topics we sweep", so every author who spelled the project out instead of abbreviating it was invisible to us while we published a coverage figure that read as though they were not there. Measured that day, in repositories carrying none of the original five: \`topic:deepseek-harness\` held 892, \`topic:dsh\` 163, \`topic:deepseek-harness-plugin\` 3 — **1,058 repositories, about 13% of the real universe, that a 99% claim had silently excluded.** All of them are swept now. The percentage a wider net produces is lower and means more; a coverage number you can raise by narrowing what you count is not a coverage number.
+
+Search is still not the whole ecosystem. A plugin whose author tagged nothing, published nothing to npm, and used no conventional layout is unreachable by any query — \`yjh051108/dsh-routing-suite\` had 6,415 stars and zero topics the day it was seeded. [\`data/seeds.json\`](data/seeds.json) is the hand-fed lane for those, and it grants nothing: a seed queues at the back like every other find and still has to prove an install path. If that is your repo, open an issue.
+
 If you prefer a curated prose list, [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) does that well, with daily compatibility tracking. This repo is the machine-readable complement, not a replacement.
 
 ## Why "verified against" is a schema field

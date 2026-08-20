@@ -1,0 +1,74 @@
+{
+  "_comment": [
+    "Repos hand-fed into the triage queue because no search can reach them.",
+    "",
+    "The other three discovery sources all ask GitHub a question, so all three",
+    "are blind to a plugin whose author tagged nothing, published nothing to",
+    "npm, and used no conventional layout. Those exist and some of them are",
+    "large: yjh051108/dsh-routing-suite carried 6,415 stars and zero topics on",
+    "the day it was seeded here.",
+    "",
+    "A seed grants nothing. It enters data/candidates.json at the back of the",
+    "queue like every other find and still has to prove an install path in",
+    "scripts/triage.mjs before it reaches the registry. Hearing about a repo is",
+    "not evidence about a repo.",
+    "",
+    "`via` is categorical on purpose. A slug is a public fact; who mentioned it",
+    "in which room is not ours to publish. Say 'community chat' or 'forum',",
+    "never a group name or a person.",
+    "",
+    "Once a seeded repo is decided it can stay in this file — the queue drops",
+    "anything already in a registry — so the list doubles as the record of what",
+    "search could not find."
+  ],
+  "seeds": [
+    {
+      "repo": "Blackoutta/dsh-multiroot-workspace",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Multi-root logical workspaces for DeepSeek Harness"
+    },
+    {
+      "repo": "yjh051108/dsh-routing-suite",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Runtime injector plus a task-aware reasoning-mode router preset"
+    },
+    {
+      "repo": "XQ-quadrant/dsh_ux_enhance",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Session UI enhancement plugin built on the official slot and service seams"
+    },
+    {
+      "repo": "r05En1cU/dsh-neoforge",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "NeoForge-style standard API layer for dsh plugin development, seam before mixin"
+    },
+    {
+      "repo": "T-Auto/dsh-ecosystem-spec",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Draft admission and implementation standard for dsh TUI plugins"
+    },
+    {
+      "repo": "oh-my-dsh/dsh-community-standard",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Draft community interoperability standard for the dsh plugin ecosystem"
+    },
+    {
+      "repo": "omdsh-dev/community",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Unofficial community hub for plugin submissions and contributor onboarding"
+    },
+    {
+      "repo": "QwenLM/Qwen-MM-Plugins",
+      "via": "community chat",
+      "added": "2026-08-20",
+      "note": "Multimodal plugins for Qwen models, presented as harness-agnostic"
+    }
+  ]
+}

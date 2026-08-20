@@ -10,6 +10,7 @@
 //   2. npm search for packages referencing @deepseek-ai/dsh
 //   3. GitHub code search for `.agents/skills` SKILL.md layouts (best effort;
 //      the code-search API needs a token and rations heavily)
+//   4. data/seeds.json — repos hand-fed because no search can reach them
 //
 // Topic sweeps are exhaustive, which takes work: GitHub caps search at 1000
 // results per query, and `dsh-plugin` passed that on 2026-08-14. The sweep
@@ -39,7 +40,37 @@ const SLUG_RE = /^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/;
 // Every topic the ecosystem actually uses. `dsh-plugin` is the one dsh's docs
 // name; the rest accumulated on their own and hold repos the official topic
 // does not.
-const TOPICS = ["dsh-plugin", "dsh-plugins", "dsh-theme", "dsh-skill", "dsh-bundle"];
+//
+// The `dsh-*` five were the whole list until 2026-08-20, and that made the
+// repo's own coverage claim narrower than it read: "carries a dsh discovery
+// topic" meant "carries one of ours". Authors who spell the project out
+// instead of abbreviating it were invisible. Measured on 2026-08-20, in
+// repos carrying NONE of the original five:
+//
+//   topic:deepseek-harness          892
+//   topic:dsh                       163
+//   topic:deepseek-harness-plugin     3
+//   ------------------------------------
+//   1,058 repositories, ~13% of the real universe, never swept
+//
+// `dsh` is the noisy one — it also means distributed shell — but 163 is a
+// small enough queue for triage to prove or reject one at a time, and the
+// alternative is dropping every author who tagged the harness by its short
+// name. Re-measure before removing any of these; a topic that goes quiet and
+// a topic nobody sweeps produce the same zero.
+const TOPICS = [
+  "dsh-plugin",
+  "dsh-plugins",
+  "dsh-theme",
+  "dsh-skin",
+  "dsh-skill",
+  "dsh-bundle",
+  "dsh",
+  "deepseek-harness",
+  "deepseek-harness-plugin",
+  "deepseek-harness-plugins",
+  "deepseekharness",
+];
 // Sibling registry. Themes carry the dsh-plugin topic like everything else, so
 // without this every entry in awesome-dsh-themes re-enters this queue on every
 // run, forever — 138 of the first 248 candidates were already listed there.
@@ -245,6 +276,38 @@ async function fromCodeSearch() {
   }));
 }
 
+// Repos that no search can reach. Every other source here asks GitHub a
+// question, so all three are blind to a plugin whose author tagged nothing,
+// published nothing to npm, and used no conventional layout — and those exist:
+// `yjh051108/dsh-routing-suite` had 6,415 stars and zero topics on the day it
+// was seeded. They surface where people talk instead: chat groups, forum
+// threads, conference slides, a link in someone's README.
+//
+// `data/seeds.json` is that lane, and it is deliberately dumb: a slug, the
+// date, and one word for where it came from. It grants nothing — a seed enters
+// the queue at the back like every other candidate and still has to prove an
+// install path in triage. The point is only that a repo nobody tagged can be
+// looked at, not that hearing about it somewhere counts as evidence.
+//
+// Keep the `via` field categorical. Seeds get their provenance from private
+// places sometimes; a slug is a public fact, and who said it in which room is
+// not ours to publish.
+function fromSeeds() {
+  let file;
+  try {
+    file = read("data/seeds.json");
+  } catch {
+    return []; // the lane is optional
+  }
+  const seeds = file.seeds ?? [];
+  console.error(`discover: ${seeds.length} hand-seeded repo(s) from outside search`);
+  return seeds.map((s) => ({
+    repo: s.repo,
+    source: "seed",
+    description: s.note ?? null,
+  }));
+}
+
 // --- merge -----------------------------------------------------------------
 
 const registry = read("data/plugins.json");
@@ -292,6 +355,7 @@ for (const [name, fn] of [
   ["github-topic", fromTopics],
   ["npm-search", fromNpm],
   ["code-search", fromCodeSearch],
+  ["seed", fromSeeds],
 ]) {
   try {
     found.push(...(await fn()));
@@ -302,7 +366,14 @@ for (const [name, fn] of [
 
 // When the per-run cap binds it must keep the most substantial finds, not
 // whichever source happened to run first.
-found.sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0));
+// Seeds first, and they never carry a star count, so they would sort to the
+// bottom and get eaten by the per-run cap on any busy day — which is every
+// day. A hand-fed lane that silently loses its entries to machine finds is
+// worse than no lane, because it looks like it ran.
+found.sort((a, b) => {
+  if ((a.source === "seed") !== (b.source === "seed")) return a.source === "seed" ? -1 : 1;
+  return (b.stars ?? 0) - (a.stars ?? 0);
+});
 
 let added = 0;
 let overflow = 0;
