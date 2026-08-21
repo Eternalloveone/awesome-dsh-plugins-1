@@ -481,6 +481,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "omdsh-dev/fabric",
+      "npm": "@oh-my-dsh/cordis-fabric-pack",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
       "repo": "oil-oil/dsh-vision",
       "npm": "@oil-oil/dsh-vision",
       "why": "no such package",
@@ -1419,12 +1425,6 @@
     {
       "repo": "Civitasv/dsh-plugin-diff-review",
       "npm": "dsh-plugin-diff-review",
-      "why": "no such package",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "initialencounter/dsh-plugin-drone",
-      "npm": "dsh-plugin-drone",
       "why": "no such package",
       "since": "2026-08-21"
     },
