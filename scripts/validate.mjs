@@ -165,6 +165,42 @@ function checkRegistry(registry, errors) {
   });
 }
 
+// `npm` is the one field in an entry that is an instruction, not a fact: it
+// renders as `npm i <name>`. 298 rows carried a name registry.npmjs.org has
+// never served — every one written on 2026-08-14, by a pass that read `name`
+// out of the repo's package.json and treated intent to publish as publishing.
+// A reader could run those and get a 404. scripts/npm-check.mjs parks names
+// that do not resolve in data/unpublished.json; this makes putting one back by
+// hand fail loudly instead of shipping.
+function checkUnpublished(unpublished, registry, errors) {
+  if (unpublished === null) return; // the file is optional until the first run
+  if (typeOf(unpublished) !== "object" || !Array.isArray(unpublished.packages)) {
+    errors.push("unpublished.json: expected { checked, count, packages: [] }");
+    return;
+  }
+  if (!isRealDate(unpublished.checked ?? "")) {
+    errors.push(`unpublished.json: bad checked date "${unpublished.checked}"`);
+  }
+  if (unpublished.count !== unpublished.packages.length) {
+    errors.push(`unpublished.json: count ${unpublished.count} != ${unpublished.packages.length} packages`);
+  }
+  // Keyed by the entry, not by the name. `dsh-tool-git` is parked against
+  // `Huasfan/dsh-tool-git`, which does not own it — and `lxj808624/dsh-tool-git`,
+  // which does, is listed under the same name. A name-keyed check fails the
+  // rightful owner for its neighbour's mistake, which is how the first version
+  // of this rule flagged all 26 correct rows and none of the wrong ones.
+  const parked = new Map(
+    unpublished.packages.map((p) => [`${p.repo}#${p.path ?? ""}#${p.npm}`, p.why ?? "unresolvable"]));
+  registry.plugins.forEach((p, i) => {
+    const why = p.npm && parked.get(`${p.repo}#${p.path ?? ""}#${p.npm}`);
+    if (why) {
+      errors.push(
+        `plugins[${i}] (${p.name ?? "?"}): npm "${p.npm}" is parked in data/unpublished.json ` +
+        `(${why}); run \`npm run npm-check\` rather than re-adding it by hand`);
+    }
+  });
+}
+
 function checkCandidates(candidates, registry, rejected, errors) {
   if (typeOf(candidates) !== "object" || !Array.isArray(candidates.candidates)) {
     errors.push("candidates.json: expected { updated, candidates: [] }");
@@ -249,6 +285,12 @@ const schema = read("data/schema.json");
 const registry = read("data/plugins.json");
 const candidates = read("data/candidates.json");
 const rejected = read("data/rejected.json");
+let unpublished = null;
+try {
+  unpublished = read("data/unpublished.json");
+} catch {
+  /* optional: absent until scripts/npm-check.mjs has run once */
+}
 
 const errors = [];
 validateNode(schema, registry, "registry", schema, errors);
@@ -258,11 +300,15 @@ if (errors.length === 0) {
 }
 checkRejected(rejected, registry, errors);
 checkCandidates(candidates, registry, rejected, errors);
+checkUnpublished(unpublished, registry, errors);
 
 if (errors.length > 0) {
   console.error(`validate: ${errors.length} error(s)`);
   for (const e of errors) console.error(`  - ${e}`);
   process.exit(1);
 }
+const npmNames = registry.plugins.filter((p) => p.npm).length;
 console.log(
-  `validate: ok (${registry.plugins.length} plugins, ${candidates.candidates.length} candidates, ${rejected.rejected.length} rejected)`);
+  `validate: ok (${registry.plugins.length} plugins, ${candidates.candidates.length} candidates, ` +
+  `${rejected.rejected.length} rejected, ${npmNames} npm names` +
+  `${unpublished ? `, ${unpublished.count} unpublished` : ""})`);

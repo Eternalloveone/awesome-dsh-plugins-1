@@ -30,7 +30,11 @@ must clear this bar:
    - a `dsh.bundle` manifest in `package.json` (bundle or plugin),
    - a published npm package a profile can depend on,
    - a `SKILL.md` layout dsh actually discovers (top-level `<name>/SKILL.md`
-     or flat `<name>.md`, kebab-case name; dsh does no nested discovery).
+     or flat `<name>.md`; dsh does no nested discovery), whose frontmatter
+     dsh will accept: a `---` line **first**, a closing `---`, and both a
+     kebab-case `name` and a `description`. Miss any of those and dsh logs
+     `skill file <path> ignored` and moves on, so the file is markdown, not a
+     skill (`packages/skill/skill-filesystem/src/index.ts`).
 2. Not a fork of a template with the name swapped. History and substance are
    checked, not just the GitHub fork flag; generated template spam counts too.
 3. Loads against the dsh version claimed in `verifiedAgainst`, for example
@@ -61,9 +65,19 @@ npm run render && npm run validate
 Admissions carry `evidence`, the `path#key` the install path was proven in, so
 `status: verified` cites a file instead of asserting one. Rejections carry a
 reason and a recheck date. What stays in the queue is what a machine should not
-have decided: themes that belong in the sibling registry, `SKILL.md` files with
-no frontmatter, and anything with no description upstream to copy — this
-registry copies an author's own words and never writes new ones for them.
+have decided: themes that belong in the sibling registry, and anything with no
+description upstream to copy — this registry copies an author's own words and
+never writes new ones for them.
+
+`SKILL.md` files used to sit in that queue too, 163 of them, waiting on a
+judgement nobody could make differently: a frontmatter dsh rejects is not a
+close call, it is a file dsh ignores. They are decided automatically now. The
+pile also hid a bug worth stating plainly — the prover's frontmatter test
+required a newline *before* `name:`, so `---` followed immediately by
+`name:`, the way almost everyone writes it, did not match, and neither did any
+CRLF file. **84 of those 163 were real skills the registry had already found
+and was refusing to list.** The check is now ported from dsh's loader rather
+than approximated.
 
 Hand-triage is still welcome and always wins: move the entry into
 `plugins.json` yourself (candidate metadata is a lead, not a record) or record
@@ -117,3 +131,26 @@ removing a row, since a repo can 404 for hours and come back.
 `scripts/validate.mjs` fails any non-official entry claiming `status: verified`
 without `evidence`, which is what keeps the status from drifting back into
 decoration.
+
+## npm names are checked against npm
+
+`npm` is the one field in an entry that is an instruction rather than a fact —
+it renders as `npm i <name>`, and the spam gate accepts "a published npm
+package a profile can depend on" as an install path. So it has to be published.
+
+On 2026-08-21 it was not. 298 of 582 npm names 404ed at
+registry.npmjs.org, and all 298 were written on 2026-08-14 by a bulk pass that
+read `name` out of the repo's own `package.json` — the name an author would
+publish under, not evidence that they had.
+
+`npm run npm-check` asks npm about every name in both directions each run:
+
+- a listed name that 404s moves to [`data/unpublished.json`](data/unpublished.json)
+  and the field is dropped from the entry,
+- a parked name that resolves is restored to the entry it came from,
+- a name that times out changes nothing. An unanswered question is not a "no",
+  and the run says how many it could not reach.
+
+Nothing is deleted, because an author who has not published yet may publish
+next week and the parked name is how we would notice. Re-adding a parked name
+by hand fails validation; publish the package, or run the check.

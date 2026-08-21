@@ -16,7 +16,8 @@
     "discover": "node scripts/discover.mjs",
     "triage": "node scripts/triage.mjs",
     "triage:dry": "node scripts/triage.mjs --dry-run",
-    "prove": "node scripts/triage.mjs --prove"
+    "prove": "node scripts/triage.mjs --prove",
+    "npm-check": "node scripts/npm-check.mjs"
   },
   "engines": {
     "node": ">=20"

@@ -1,24 +1,24 @@
 {
-  "updated": "2026-08-20",
-  "plugins": 8209,
-  "authors": 5172,
-  "npm": 582,
+  "updated": "2026-08-21",
+  "plugins": 9341,
+  "authors": 5462,
+  "npm": 2015,
   "categories": {
     "bundle": 83,
-    "plugin": 8095,
-    "skill": 26,
+    "plugin": 9142,
+    "skill": 111,
     "theme": 2,
     "tool": 3
   },
   "tags": 17,
-  "rejected": 1644,
-  "rejectedRecheck": 1612,
+  "rejected": 1827,
+  "rejectedRecheck": 1795,
   "coverage": {
-    "measured": "2026-08-20",
-    "topic": 10138,
-    "decided": 7432,
-    "rejected": 1644,
-    "noInstallPath": 1523
+    "measured": "2026-08-21",
+    "topic": 11011,
+    "decided": 9987,
+    "rejected": 1827,
+    "noInstallPath": 1702
   },
   "verifiedAgainst": "0.1.0-rc.8"
 }

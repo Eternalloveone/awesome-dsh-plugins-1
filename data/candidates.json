@@ -1,591 +1,44 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "candidates": [
     {
-      "repo": "905397165-dotcom/goal-work",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "苟活 · 高效工作法：洞察真实需求，用最少投入完成工作。",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "abab996/dsh-plugin-dev",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "DSH 插件开发规范 Skill：教模型安全开发 DeepSeek Harness 插件的完整避坑指南，防止操作失误把整个 DSH 搞崩溃",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "aerince/deepseek-harness-plugin-authoring",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Agent Skill for creating, validating, and publishing DeepSeek Harness plugins.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Alisa0808/vox-director",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1401,
-      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "anjiexu425-alt/food-memory-story-card",
+      "repo": "EdwardHamu/dsh-glassmorphism-theme",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "baaai123/solo-memory",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 3,
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "CaseyTso/dsh-plugin-market",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Dual-source plugin marketplace skill for DSH — search, evaluate, and install plugins from curated (lanshuagent.com) and full-crawl (dshfind.com) registries.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "chouxiaohuai/dsh-uiskin-theme",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Blue Glass Theme (ocean fantasy) for DeepSeek Harness Web — static profile bundle. 海洋幻想主题:海洋背景、玻璃气泡、海洋侧边栏、鲸鱼设置按钮、炫彩模型文字。安装: dsh plugin --profile web add github:chouxiaohuai/uiskin-theme",
-      "discovered": "2026-08-20",
+      "description": "一个DeepSeek Harness 磨砂玻璃主题",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "chuankris/dsh-video-factory",
+      "repo": "flyingpetals520/dsh-wallpaper",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "竖版科普视频全链路生产 skill：专家视角文案、百炼 TTS、信息图动效、Live2D 数字人、音效、抖音封面/文案",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "cjz-wr/background-plugin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "修改DSH的背景，支持静态动态背景，支持网页图片视频，支持修改透明度",
-      "discovered": "2026-08-17",
+      "description": "A Deepseek Harness Plugin that allows you customize your beloved wallpaper in the chat area.",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "ck9847/deepseek-harness-ui-customizer-skill",
+      "repo": "lovetpy/dsh-skin-leg",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "A DeepSeek Harness skill for safe themes, typography, animated backgrounds, movable UI, and guarded conversation controls.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "climpea/daily-news-digest",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "聚合 7 个权威源（Hacker News、GitHub、HuggingFace、arXiv、掘金、OSCHINA、 InfoQ），用 AI 生成中文 Markdown 开发者日报，并附带基于当日热点的 「🎯 学习成长计划」与「🛠️ 落地练手 Idea」。纯 Skill 即可用 （SKILL.md 内置手动采集命令）；在 DSH 中配合动态插件可实现每天 09:00 自动生成 + 落盘。",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "crack-time/dsh-client-ui-skin-cottage",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Pastoral Cottage skin for the DeepSeek Harness web GUI: 4K wallpaper + frosted glass panels (pure-UI dsh.client plugin)",
-      "discovered": "2026-08-17",
+      "description": "美腿 · DSH (DeepSeek Harness) Web GUI 热插拔皮肤：2K 全视口背景 + 半透明面板 + 主题自适应遮罩 | Hot-pluggable 2K backdrop skin",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "daha1216/dsh-skill-adult-tension-narrative",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "DeepSeek Harness 成年人(18+/adult)互动叙事 Skill：NPC 活人感（有记忆/立场/底线）、自带破甲与张力引擎、随机开局可预锁、时间推进、全维 YAML 存档。仅限虚构成年人。",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "daha1216/dsh-skill-h3-prompt-writing",
+      "repo": "lovetpy/dsh-skinctl",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "DeepSeek Harness & AI agent skill: h3-prompt-writing MiniMax H3 视频生成提示词（T2VA/I2VA/FL2VA/L2VA/Ref2VA）",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Dahuangb/dsh-Landscape-painting-themed-interface",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "A dsh landscape painting themed background interface with a built-in theme time-following function, allowing you to set the theme to change according to the local sunrise and sunset times.",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "dhicoc/dsh-mcp-plugin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "WorkBuddy/CodeBuddy skill: turn any MCP server (stdio/HTTP, any language) into a DeepSeek Harness (dsh) Cordis plugin.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "dhicoc/dsh-theme-mineradio",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "A cinematic visual-radio glass theme for DeepSeek Harness (DSH) Desktop — port of the Mineradio music player's champagne-glass aesthetic. Fluid or wallpaper backdrop, light-glass panels, custom knobs,",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "dsh-io/dsh-plugin-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Agent skill (SKILL.md) for creating DeepSeek Harness (dsh) plugins: authoritative defineTool API, schema rules, project layout and workflow — works with Claude Code, Codex, Cursor, Gemini CLI, opencod",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "DshMarketPlace/dshmarketplace-cli",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "Find and install DeepSeek Harness plugins from the command line. Zero dependencies, --json everywhere, built for coding agents.",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "DshMarketPlace/dshmarketplace-py",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Find and install DeepSeek Harness (DSH) plugins from Python. Zero dependencies, typed, CLI + agent tools.",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "EachSheep/dsh-mario-pixel-skin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 5,
-      "description": "Unofficial Mario-inspired pixel-adventure skin for DeepSeek Harness.",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "edisonzerolam/team-orchestration-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 3,
-      "description": "多智能体对抗编排引擎 — 五阶段对抗协议(二审终审制) + 40专家团8聚合域 + 动态派数 + 任务级Skill封装（专家池借鉴了 WorkBuddy、QoderWork 的专家功能）",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "EDMOK/dsh-minecraft-theme",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "Minecraft Launcher 风格的 DeepSeek Harness WebUI 皮肤插件",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "EnernityLune/dsh-luvian-ui-wallpaper",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Luvian UI wallpaper theme plugin for DeepSeek Harness web UI. Bring-your-own-assets, stable selector contracts, official theme/slots APIs.",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "enilmalus/Enil-ling-pesing",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "渗透测试 / 安全研究 / 漏洞发现全流程 Agent Skill。",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Entity-Him/dsh-skin-prts",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "明日方舟 PRTS 终端皮肤 for DeepSeek Harness Web UI — 深色工业终端 / 航空控制台，直角面板 + 硬阴影 + 青强调色 #11AFCF。纯 CSS client 侧皮肤。CC BY-SA 4.0",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "goatbroai/dsh-plugin-scaffold",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "从规划到发布的全流程 DeepSeek Harness 插件开发 skill，支持 pure、bundle、bundle-client 三种形态，自动生成脚手架、构建脚本、门禁与验证流程。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "goatbroai/web-background",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "DeepSeek Harness web background settings plugin with solid color, image, and opacity controls.",
-      "discovered": "2026-08-18",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "guiyi-labs/kubemd",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Evidence-first Kubernetes runtime diagnosis with case memory — a DSH skill (+ aiops CLI twin).",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "GYINT/infoseek",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "端到端内容智能采集与调研工作流：多源嗅探 → 四维评分门控 → 深度抓取 → 跨源矛盾检测 → 结构化报告 + 长期归档",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "H-table/dsh-bg-tool",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "DSH 插件：本地 rembg GPU 抠图工具（remove_background）— DeepSeek Harness plugin for background removal with local rembg GPU service",
-      "discovered": "2026-08-18",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "HaoyueQin/deepseek-harness-background",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "为 DeepSeek Harness Web GUI 添加自定义背景图片：上传本地图片或粘贴图片链接，可调不透明度、遮罩、面板透明与毛玻璃模糊，带实时预览，5% 阻尼滑块松手即存，遮罩自动适配明暗主题。",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "helloxkk/dsh-prompt-regression",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "DeepSeek Harness plugin: wording is behavior — snapshot and gate your prompt surface. 把 prompt 措辞变成有测试保障的契约",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "himhhh/star-gratitude",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Agent skill that reminds you to star the skills and projects you actually use",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "huyansheng3/dsh-skin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Native Cordis theme plugin for DeepSeek Harness Web",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "INnoVationEE/dsh-endfield-theme",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "The Terminal — an unofficial Arknights: Endfield-inspired theme for the DeepSeek Harness Web UI with usage monitoring wigdet.",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "JasperGuWP/dsh-plugin-schemes",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "DeepSeek Harness plugin development rules: five extension forms (bundle / patch plugin / preset / skill / dynamic plugin) with a selection decision tree, install & publish guide.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "JerryPhoenixCKY/dsh-plugin-wallpaper",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "DeepSeek Harness Web wallpaper plugin: upload and crop a local image as the web workspace desktop background.",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "Jesseovo/last30days-skill-cn",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1465,
-      "description": "last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "jiawood2006/construction-project-management",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Generic construction/engineering project full-lifecycle management skill (ITO-OTR, PMBOK). 施工/工程/建设/配套设施项目全流程管理。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "jiawood2006/de-ai-writer",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Rewrite AI-generated copy into natural human tone. AI文案去AI味，自然化改写。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "jiawood2006/doc-ocr",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Local OCR for PDFs/scans/images using macOS Vision. 本地OCR文档识别。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "jiawood2006/ecommerce-material-studio",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Batch e-commerce product image compositing tool. 电商批量合成素材。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "jiawood2006/video-to-text",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Extract transcripts from Douyin/Kuaishou share links or local video files. 抖音/快手视频转文字。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Jonah-Wu23/dsh-bg-carousel",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "DeepSeek Harness 背景轮播插件：把工作区 backgrounds 目录的图片设为背景并自动轮播 (MIT)",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "JunbaoCao/wealth-device-inspector",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "设备监察师（Device Inspector）：一键自检系统/硬件/语言/编码/时区，自动生成设备档案 device-report.md，防止环境错误；含后台守护与 RAG 接入。",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "kaijia323/create-dsh-plugin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 3,
-      "description": "创建、开发、调试、打包 DeepSeek Harness（DSH）插件的 AI 技能。覆盖插件开发的完整流程：最小可加载插件、工具（tool）、事件监听、服务（service）、LLM 适配器（adapter）、插件配置，以及 cordis.yml / cordis.patch.yml 覆盖层编写、`dsh web --patch` 本地调试和 bundle 打包发布。基于官方文档编写，附可运行的",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "KairosSignal/driftlock-agent-docs",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Detect stale project docs and keep AI coding agents on current context. Agent skill + dependency-free Python CLI.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "kevinshi3200/persona-auditor",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "kingselyjoe/video-shotcraft-dsh",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Klukai-416-Clukay/dsh-skill-office-file-processing",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Office 文件处理与省 Token 工作流。三大独特约定——Excel 全量经 SQLite 中转（导入→SQL 查询→导出报表）；Word 初稿走 Markdown→docx（pandoc）再精细排版；PPT 按用途自动选场景版式、生成前强制公文审查。默认交互式分组提问，确认清单后才执行。",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "KUNTING0701/dsh-aurora-bg",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": " DeepSeek Harness (DSH) Web UI - ? CSS transform,? canvas/mask/blur",
-      "discovered": "2026-08-18",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "kvuvuv/ecg-research-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "A DeepSeek Harness research skill for ECG signal processing, experiment design, reproducibility, scientific visualization and paper writing.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "libaie/dsh-flotilla",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Multi-repo workflow isolation skill for DeepSeek Harness - one isolated entry agent per repo, one controller for cross-project dispatch, model routing & hash-chained ledger",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "lijiejoy/dsh-skill-image2threejs",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "DSH skill: convert a 2D image into an interactive Three.js 3D scene (pixel-grid to colored 3D meshes, orbit controls). Self-contained HTML, no build step.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "lovstudio/dsh-plugin-creator-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Create a @deepseek-ai/dsh-* plugin package end-to-end — choose the extension point or capability seam, scaffold the package, implement the tool/hook/service, and run the repo gates.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "lovstudio/dsh-plugin-publisher-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Publish a validated DSH plugin package (@deepseek-ai/dsh-* or @lovstudio/dsh-*) to npm, git, or tarball channels and verify it loads in the DeepSeek Harness.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "lucasx001/dsh-skin-claude-code",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 3,
-      "description": "Claude Code-inspired skin for the DeepSeek Harness web GUI",
-      "discovered": "2026-08-20",
+      "description": "DSH (DeepSeek Harness) Web GUI 皮肤管理器：运行时扫描已装皮肤，设置页一键热切换 | Lightweight runtime-scanning skin manager",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
@@ -599,261 +52,23 @@
       "note": "cordis plugin with no dsh manifest"
     },
     {
-      "repo": "MoYuSOwO/dsh-provision",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "Manifest-driven multi-source asset manager for DeepSeek Harness profiles (npm/github/release/skill/preset/local) — sync, plan, conflict detection, transactional rollback.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "msnlyy-rgb/dsh-spotify-theme",
+      "repo": "pinkear/deepseek-harness-liverpool-theme",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "DeepSeek Harness Spotify 风格主题 — 近黑底色、灰阶分层卡片、Spotify 绿 (#1ed760) 点缀的 CSS 主题覆写，含折叠栏加宽与统计卡进度条可选补丁",
-      "discovered": "2026-08-20",
+      "description": "Liverpool-inspired DSH theme plugin with local custom pattern backgrounds.",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "mysn777/dsh-skin-kit",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "A skin toolbox for DeepSeek Harness with 10 built-in wallpapers, live tuning, and image/video DIY skins.",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "Nana7mi0721/anima-prompt-caption",
+      "repo": "Socrates666/dsh-hubble-theme",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "让LLM模型将描述转化为用于ANIMA模型的标签提示词",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Nana7mi0721/anima-prompt-naturalang",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "让LLM模型将描述转化为用于ANIMA模型的自然语言提示词",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Nico0713520/dsh-doc-to-markdown",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Convert PDF/DOCX to Markdown. Chinese-PDF optimized (NFKC), Windows-first. dsh / Claude Code / OpenClaw compatible SKILL.md skill.",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "OneZero-Y/dsh-tint-theme",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "A skin picker for the DeepSeek Harness (DSH) Web GUI",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "pwangxo-sg/financial-market-analysis",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "DeepSeek Harness 金融市场分析技能：A股/基金/QDII/黄金/亚太指数日报、指标追踪、决策追踪（可配置，零个人硬编码）",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Qidianyan/dsh-dev",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "DeepSeek Harness 扩展开发脚手架：dshdev CLI（agent preset / 插件 bundle / MCP 一键生成与校验）+ Claude Code 中文导航 Skill。Complements official tutorials, no restating.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Qidianyan/dshctl",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Command DeepSeek Harness (dsh) from the terminal — sessions, tasks, models, modes, workspaces, approvals over its HTTP API. No web UI needed. Claude Code skill included.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "qiuyongjin/dsh-plugin-development",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Self-contained development skill for dsh (Deepseek Harness) Cordis plugins — tools, services, events, capability seams, bundles, and cordis.yml wiring. Includes templates and reference material.",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Ral6224/dsh-aseprite-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "A skill for dsh to enable agent to work with aseprite.",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "realpkuasule/dsh-model-routing",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "dsh-model-routing",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "remybroun/infographic",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 3,
-      "description": "A Claude Code skill that turns a document or a topic into a designed visual explainer. 52 block forms, an enforced word budget, and guards that fail the build.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Rhongomyniadz/dsh-aemeath-skin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "rumeng-ming/dsh-background-image",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Static bundle plugin for the DeepSeek Harness web GUI — custom backgrounds (gradients, colors, images) with persistence",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "SkyM31/dsh-FreeBackground",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "discovered": "2026-08-17",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "SnoWinKK/dsh-background",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "DSH 桌面版自定义背景图插件：文件选择器选图、调暗/调亮、/background 命令、localStorage 持久化",
-      "discovered": "2026-08-17",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "SongYuhui14/ai-security-assistant",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "AI 安全评估辅助技能：OWASP LLM Top 10 2025 + 国内法规框架下的大模型/Agent/RAG 安全评估，含检查清单、风险判定、报告生成与备考学习",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "SongYuhui14/crypto-evaluation-assistant",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "商用密码应用安全性评估（密评）检测与学习辅助技能",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "soslowsnail/dsh-scenery-background",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "DeepSeek Harness Scenery Backgroud Plugin",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "StarryHui/dsh-custom-background",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 5,
-      "description": "DSH 自定义 WebUI 背景插件",
-      "discovered": "2026-08-20",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "teresalu2024/dsh-qual",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Qualitative research full-lifecycle orchestrator: six-stage companion for qualitative researchers",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "TideSparrow/find-dsh-plugin-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "A portable Agent Skill for discovering DSH plugins by capability, platform, runtime, and compatibility.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Tinzlu/dsh-review",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Codex 独立审查技能：DeepSeek Harness + V4 Flash 交叉 review。Independent code review via DSH — cross-model second opinion at near-zero cost.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "trrrrrryg/dsh-visual-skin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "DeepSeek Harness Skin Studio — 为 DeepSeek Harness (DSH) 打造的一键可视化换肤工具：Agent Skill + MCP Server + DSH 插件，图片即皮肤，隔离预览、人工确认后安全应用。A visual skin studio for DeepSeek Harness: design, preview and safely apply ",
-      "discovered": "2026-08-20",
+      "description": "Deep-space skin for the DeepSeek Harness web client: daily NASA Hubble imagery, glass panels, hot-reloadable tuning. MIT.",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
@@ -867,6 +82,186 @@
       "note": "install path proven, but no usable description upstream"
     },
     {
+      "repo": "uckkk/dsh-actinium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "锕元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-afghanistan",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "阿富汗国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-albania",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "阿尔巴尼亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-algeria",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "阿尔及利亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-aluminium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "铝元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-americium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "镅元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-angola",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "安哥拉国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-antimony",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "锑元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-argentina",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "阿根廷国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-argon",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "氩元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-armenia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "亚美尼亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-arsenic",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "砷元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-astatine",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "砹元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-australia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "澳大利亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-austria",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "奥地利国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-azerbaijan",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "阿塞拜疆国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bahamas",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "巴哈马国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bangladesh",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "孟加拉国国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
       "repo": "uckkk/dsh-bar2psi",
       "sources": [
         "github-topic"
@@ -874,6 +269,16 @@
       "stars": 0,
       "description": "巴转 PSI",
       "discovered": "2026-08-20",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-barium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "钡元素",
+      "discovered": "2026-08-21",
       "note": "install path proven, but no usable description upstream"
     },
     {
@@ -887,251 +292,493 @@
       "note": "install path proven, but no usable description upstream"
     },
     {
-      "repo": "unpain/dsh-skin-schierke",
+      "repo": "uckkk/dsh-belarus",
       "sources": [
         "github-topic"
       ],
-      "stars": 5,
-      "description": "Schierke forest-spirit grimoire skin for the DeepSeek Harness web UI",
-      "discovered": "2026-08-20",
+      "stars": 0,
+      "description": "白俄罗斯国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-belgium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "比利时国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-belize",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "伯利兹国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-berkelium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "锫元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bhutan",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "不丹国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-binomial-pmf",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "二项分布",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bismuth",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "铋元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bohrium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "𬭛元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bolivia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "玻利维亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bosnia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "波黑国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-brazil",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "巴西国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bromine",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "溴元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-brunei",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 1,
+      "description": "文莱国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-btu2kj",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "BTU 转千焦",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-bulgaria",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "保加利亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-c2f",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "摄氏转华氏",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-c2k",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "摄氏转开尔文",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cadmium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "镉元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-caesium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "铯元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cal2j",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "卡路里转焦耳",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-calcium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "钙元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-californium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "锎元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cambodia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "柬埔寨国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cameroon",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "喀麦隆国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-canada",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "加拿大国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cerium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "铈元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-chile",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "智利国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-chlorine",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "氯元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-chromium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "铬元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cobalt",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "钴元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-colombia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "哥伦比亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-combination",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "组合数",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-copernicium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "鎶元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-copper",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "铜元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-correlation",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "相关系数",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-costa-rica",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "哥斯达黎加国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-covariance",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "协方差",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-croatia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "克罗地亚国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cuba",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "古巴国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cup2ml",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "杯转毫升",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-curium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "锔元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-cyprus",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "塞浦路斯国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-czechia",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "捷克国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-darmstadtium",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "𫟼元素",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-denmark",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "丹麦国家",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "uckkk/dsh-digital-root",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "数字根",
+      "discovered": "2026-08-21",
+      "note": "install path proven, but no usable description upstream"
+    },
+    {
+      "repo": "Xliecc/dsh-session-theme",
+      "sources": [
+        "github-topic"
+      ],
+      "stars": 0,
+      "description": "DSH web plugin: show every session's theme in the left sidebar on load",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "welsione/dsh-plugin-developer",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/agent-handoff-kit",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Portable, recoverable, verifiable agent handoff protocol across Codex/Claude Code/Cursor/Gemini CLI. 跨 Agent 任务续航 Skill",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/change-proof",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Auditable change-proof package for AI code changes: what changed, why safe, how to verify, risks remain. AI 代码改动验收 Skill",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/china-exec-report",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Chinese decision-style business report Agent Skill - messy materials into traceable, decision-ready Chinese reports. 中文决策型商业报告 Skill",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/cn-brand-voice",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Responsible Chinese brand-voice & content-quality editor Skill: specific, factual, on-brand. 中文品牌表达校准 Skill",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/cn-source-research",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Verifiable Chinese research evidence pack: official & primary sources first, facts/inferences/unknowns separated. 中文可信研究 Skill",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/codebase-brief",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Generate a 10-minute readable engineering onboarding pack for any local repo. Deterministic static analysis; Python/TS-JS/Docker Compose. Agent Skill for Codex/Claude Code/Cursor.",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/Novera-AI-pipeline",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "four-agent-pipeline agent skill: Specifier -> Coder -> Refactorer -> Architect. Turn a vague requirement into gate-verified code with Gherkin acceptance specs, steel-cage quality gates (coverage, comp",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/skill-sentry",
+      "repo": "YX-NAS/dsh-skin-pack",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "Static, local, explainable pre-install security audit for Agent Skills. Scans SKILL.md/scripts/config for destructive commands, hidden network calls, secret reads, obfuscation, prompt injection, persi",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "whaojie797-design/video-reverse-engineering",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "Agent Skill: reverse-engineer how a video was made. Extracts real keyframes/subtitles/audio, then produces a shot list, ready-to-paste AI image+video prompts, and a full replication guide (AI and live",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "xiaohui5206/DSH-Context-Length-Window-Fix",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "针对DSH：添加第三方中转站模型时上下文长度被默认256K问题（DeepSeek Harness小完善计划其一）· Agent Skill 维修手册",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "xiaohui5206/DSH-ReasoningEffort-Fix",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "针对DSH：添加第三方API时无法调节思考强度问题（DeepSeek Harness小完善计划其二）· Agent Skill 维修手册",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "xiaohui5206/DSH-Vision-Unblock",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "针对DSH：添加第三方模型时，模型被默认没有视觉能力的问题（DeepSeek Harness小完善计划其三 · DSH视觉封禁解禁）· Agent Skill 维修手册",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "XiaoMaColtAI/math-modeling-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 777,
-      "description": "数学建模技能 - 面向 CUMCM、MCM/ICM 等数学建模竞赛的三阶段工作流：建模分析、Python/MATLAB 编程与 DOCX 论文生成。包含丰富的算法资源库(优化/预测/评价/图论/机器学习等)、角色指导文档、论文模板和实用工具脚本",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "xiaozhiaixue/dsh-model-routing",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "dsh-model-routing",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "xxxxxs-ssdd/arknits-background-plugin",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "一个适用于deepseek-harness的明日方舟背景插件",
-      "discovered": "2026-08-17",
+      "description": "DSH Web 综合皮肤插件：主题家族 × 强调色 × 壁纸 × 对话列表/对话页面独立背景（官方 --dsw-* token 机制）",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     },
     {
-      "repo": "yangfei222666-9/dsh-skill-multi-model-review",
+      "repo": "zaimokuza-yoshiteru/dsh-theme-library",
       "sources": [
         "github-topic"
       ],
       "stars": 0,
-      "description": "DSH skill: multi-model candidate review pipeline (GLM / Claude-CLI relay / Gemini / Codex) — zero-dependency, evidence-first",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "ycp424c/dsh-deliver",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "yhny1001/dsh-security-audit",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 2,
-      "description": "Local-first security audit Skill for DeepSeek Harness plugins, Skills, MCP, supply chain, mounts, persistence, and data exfiltration risks",
-      "discovered": "2026-08-20",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "Yts1919/research-assistant",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "做一个合格的科研助手！",
-      "discovered": "2026-08-18",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "zephyrpersonal/dsh-plugin-development-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 0,
-      "description": "A reusable agent skill that turns user ideas into DeepSeek Harness plugins.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "zimodzh/dsh-plugin-dev-skills",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 36,
-      "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.",
-      "discovered": "2026-08-17",
-      "note": "SKILL.md without frontmatter"
-    },
-    {
-      "repo": "zjsthmjialin/pdf-background-gray-codex-skill",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "Codex skill for removing gray backgrounds from scanned PDFs without changing resolution or anti-aliased text.",
-      "discovered": "2026-08-17",
-      "note": "looks like a theme; belongs in awesome-dsh-themes"
-    },
-    {
-      "repo": "zypchloe-del/dsh-wallpaper",
-      "sources": [
-        "github-topic"
-      ],
-      "stars": 1,
-      "description": "给 DeepSeek Harness 网页版换壁纸的插件：上传自定义壁纸、调透明度、铺满整个界面背景。A wallpaper plugin for the DeepSeek Harness web GUI.",
-      "discovered": "2026-08-20",
+      "description": "Extensible animated theme library for DeepSeek Harness",
+      "discovered": "2026-08-21",
       "note": "looks like a theme; belongs in awesome-dsh-themes"
     }
   ]

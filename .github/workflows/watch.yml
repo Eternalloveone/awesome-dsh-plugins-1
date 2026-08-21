@@ -151,6 +151,14 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: node scripts/stars.mjs
 
+      # Same class of work: a fact about the outside world, checked rather
+      # than judged. It only ever drops a name npm answers 404 for and puts
+      # back one that resolves, so a contributor who supplies a correct npm
+      # name keeps it and one who supplies a wrong name gets told why. A
+      # timeout changes nothing, so a bad npm day is a no-op, not a purge.
+      - name: Check npm names still resolve
+        run: node scripts/npm-check.mjs
+
       - name: Re-render and validate
         run: |
           node scripts/render.mjs
@@ -166,7 +174,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "stars: refresh counts and push dates"
+          git commit -m "stars: refresh counts and push dates; npm names re-checked"
           # main can move under us while the sweep runs; rebase rather than fail
           git pull --rebase origin main
           git push origin main

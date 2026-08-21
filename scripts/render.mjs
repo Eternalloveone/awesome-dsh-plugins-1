@@ -243,6 +243,18 @@ A version and a date still only say *when* somebody looked. \`evidence\` says *w
 
 Open the file and check. \`scripts/validate.mjs\` refuses a \`verified\` row that cannot cite one, so the status cannot quietly become decoration — which it had, on 2,751 rows, before this field existed.
 
+### And why \`npm\` is checked the same way
+
+\`npm\` is the only field in an entry that is an *instruction*: dsh.works renders it as \`dsh plugin --profile web add <name>\`, this README links it, and the spam gate accepts "a published npm package" as an install path. A reader can run it. So it gets the same treatment as \`evidence\`, and on 2026-08-21 it turned out not to have had it.
+
+Of 582 names on that morning, **298 named a package registry.npmjs.org has never served** — every one written on 2026-08-14, by a pass that read \`name\` out of the repo's own \`package.json\`. That is the name an author *would* publish under, not evidence they did. On the site those 298 also *replaced* the git-install security warning with the sentence "Published to npm as", so the wrong ones were quieter than the missing ones.
+
+Fixing that surfaced the worse half. The names that did resolve had been checked against npm's catalogue and not against ownership: \`dsh-tool-git\` resolves, so the field stayed — it resolves to \`lxj808624/dsh-tool-git\`, and it was sitting on \`Huasfan/dsh-tool-git\`. **26 pairs of entries claimed the same package as each other**, and in 25 of them the wrong claimant was the 2026-08-14 row. Following one installed a different author's code under the name of the repo you were reading about, which is a worse outcome than a 404.
+
+A name is kept now only when the published package's own \`repository.url\` names the repo back, or — for the packages that state no repository at all — when the repo's \`package.json\` declares that exact name, so two independent files agree. \`npm run npm-check\` re-asks in both directions on a schedule; a name that stops resolving is parked in [\`data/unpublished.json\`](data/unpublished.json) with the reason, a parked name that starts resolving is restored, and a name that merely times out changes nothing. Re-adding a parked name by hand fails \`validate\`.
+
+The same pass answered the opposite question. Reading every entry's manifest and asking npm about the name it declares **adopted 1,741 packages the registry had found but never claimed** — and refused 1,462 more whose name belongs to someone else, which is a third of everything it looked at.
+
 ## Contents
 
 ${toc}

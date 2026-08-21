@@ -1,0 +1,2159 @@
+{
+  "_comment": [
+    "npm names an entry claimed that registry.npmjs.org does not serve.",
+    "Kept rather than deleted: the name is how we notice the author publishing later.",
+    "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
+  ],
+  "checked": "2026-08-21",
+  "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
+  "count": 356,
+  "packages": [
+    {
+      "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
+      "npm": "@agent-hub/dsh-workspace-file-upload",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cyj0920/dsh-jlink-plugin",
+      "npm": "@can/dsh-jlink",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "CH4ACKO3/dsh-ui-container",
+      "npm": "@ch4acko3/dsh-ui-container",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "CH4ACKO3/dsh-ui-workspace",
+      "npm": "@ch4acko3/dsh-ui-workspace",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "vinyumao/dsh-opencode-usage",
+      "npm": "@chen-001/dsh-opencode-usage",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Chi-hong22/dsh-latexcp",
+      "npm": "@chi-hong22/dsh-latexcp",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cxzrdxy/dsh-file-explorer",
+      "npm": "@cxzrdxy/dsh-file-explorer",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "deepforce/dsh-balance",
+      "npm": "@deepforce/dsh-balance",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "KanoNoUta/dsh-captain",
+      "npm": "@deepseek-ai/dsh-captain",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ellelkktrraaa/dsh-audio-alert",
+      "npm": "@deepseek-ai/dsh-client-audio-alert",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LightClear/dsh-token-pricing",
+      "npm": "@deepseek-ai/dsh-client-token-pricing",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "XavierMarquis93/dsh-plugin-conversation-outline",
+      "npm": "@deepseek-ai/dsh-client-ui-conversation-outline",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "life1996cou/dsh-codex",
+      "npm": "@deepseek-ai/dsh-codex-importer",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "havingautism/dsh-deepresearch",
+      "npm": "@deepseek-ai/dsh-deepresearch",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "sunyuhuirong/deepseek-account",
+      "npm": "@deepseek-ai/dsh-deepseek-account",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-fun-ticker",
+      "npm": "@deepseek-ai/dsh-fun-ticker",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "NagasakiSoyo-ui/dsh-llm-deepseek-vision",
+      "npm": "@deepseek-ai/dsh-llm-deepseek-vision",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "havingautism/dsh-notebooks",
+      "npm": "@deepseek-ai/dsh-notebooks",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "OoWJZZoO/dsh-read-image",
+      "npm": "@deepseek-ai/dsh-read-image",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/sandbox-micro",
+      "npm": "@deepseek-ai/dsh-sandbox-microsandbox",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/sandbox-mxc",
+      "npm": "@deepseek-ai/dsh-sandbox-mxc",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/sandbox-nono",
+      "npm": "@deepseek-ai/dsh-sandbox-nono",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-calculator",
+      "npm": "@deepseek-ai/dsh-tool-calculator",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-csv",
+      "npm": "@deepseek-ai/dsh-tool-csv",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-diff",
+      "npm": "@deepseek-ai/dsh-tool-diff",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-encoding",
+      "npm": "@deepseek-ai/dsh-tool-encoding",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-json",
+      "npm": "@deepseek-ai/dsh-tool-json",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-markdown",
+      "npm": "@deepseek-ai/dsh-tool-markdown",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-regex",
+      "npm": "@deepseek-ai/dsh-tool-regex",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-schema",
+      "npm": "@deepseek-ai/dsh-tool-schema",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-tool-stat",
+      "npm": "@deepseek-ai/dsh-tool-stat",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "havingautism/dsh-ultra-ui",
+      "npm": "@deepseek-ai/dsh-ultra-ui",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "DeepTrial/dsh-bash-rtk",
+      "npm": "@deeptrial/dsh-bash-rtk",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "detpecca/dsh-llm-wiki",
+      "npm": "@detpecca/dsh-llm-wiki",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "hewzhew/dsh-agent-rp",
+      "npm": "@dsh-external/dsh-agent-rp",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "x2802490130-prog/dsh-balance-float",
+      "npm": "@dsh-external/dsh-balance-float",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "QinLuza/dsh-rollback-visual",
+      "npm": "@dsh-external/dsh-client-ui-rollback-visual",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "shinegeer/dsh-vision-window",
+      "npm": "@dsh-external/dsh-client-ui-vision-window",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiao-xiao-bai-ya/dsh-deepseek-billing",
+      "npm": "@dsh-external/dsh-deepseek-billing",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fenxin-fx/dsh-default-workspace-plugin",
+      "npm": "@dsh-external/dsh-default-workspace",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wjxn13/dsh-headroom",
+      "npm": "@dsh-external/dsh-headroom",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaoxianyu-office/dsh-image-tools",
+      "npm": "@dsh-external/dsh-image-tools",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-meme",
+      "npm": "@dsh-external/dsh-meme",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tuanmaoOVO/dsh-memory-manager",
+      "npm": "@dsh-external/dsh-memory-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "AKS1st/dsh-mermaid",
+      "npm": "@dsh-external/dsh-mermaid",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "HamSamMike/dsh-mod-manager",
+      "npm": "@dsh-external/dsh-mod-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "superboy911/dsh-model-router",
+      "npm": "@dsh-external/dsh-model-router",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "bilbillm/dsh-motion",
+      "npm": "@dsh-external/dsh-motion",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiekai886/dsh-MusicPlayer",
+      "npm": "@dsh-external/dsh-music",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LaplaceYoung/dsh-of-your-own",
+      "npm": "@dsh-external/dsh-of-your-own",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "monk233/dsh-plugin-manager",
+      "npm": "@dsh-external/dsh-plugin-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yyyyukari/dsh-plugin-workshop",
+      "npm": "@dsh-external/dsh-plugin-workshop",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fuhefei/dsh-sentinel",
+      "npm": "@dsh-external/dsh-sentinel",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Semidia/dsh-session-manager",
+      "npm": "@dsh-external/dsh-session-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "invalidnaaaame/dsh-side-workspace",
+      "npm": "@dsh-external/dsh-side",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "AKS1st/dsh-sysmon",
+      "npm": "@dsh-external/dsh-sysmon",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "WJNCT55555/dsh-web-preview-float",
+      "npm": "@dsh-external/dsh-web-preview-float",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "orange1926/dsh-notify-plugin",
+      "npm": "@dsh-local/notify",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Karbo123/DSH-EvoResearch",
+      "path": "packages/evoresearch-plugin",
+      "npm": "@evoresearch/dsh-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "feiyang-dev/dsh-vault",
+      "npm": "@feiyang666/deepseekharnessdesktop-vault",
+      "why": "published by feiyang-dev/deepseekharnessdesktop-vault",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "781316853/dsh-provider-quota",
+      "npm": "@guyunli/dsh-provider-quota",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "hiro-nikaitou/dsh-ocg-billing",
+      "npm": "@hiro-nikaitou/dsh-ocg-billing",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "lsz-asd/dsh-plugin-device-info",
+      "npm": "@huanlin/dsh-plugin-device-info",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Khorsheed/dsh-client-message-tools",
+      "npm": "@khorsheed/dsh-client-message-tools",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "linshule/dsh-balance",
+      "npm": "@linxin666/dsh-balance",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "283Gawin/dsh-heatmap",
+      "npm": "@linxin666/dsh-client-ui-activity-heatmap",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YiYan129600/dsh-multi-pet",
+      "npm": "@linxin666/dsh-multi-pet",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "lium970320/dsh-vision-bridge",
+      "npm": "@lium970320/dsh-vision-bridge",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yangzhaofeng496/dsh-feishu-plugin",
+      "npm": "@local/dsh-feishu",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "sd1g1/dsh-image-describe",
+      "npm": "@local/dsh-image-describe",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yzgwowcn/dsh-plugin-token-billing",
+      "npm": "@local/dsh-plugin-token-billing",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "uknowmyface/locallens",
+      "npm": "@locallens/dsh-tool-screenshot-ocr",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaoxiaosrm/dsh-mattpocock-skills",
+      "npm": "@mattpocock-community/dsh-engineering-skills",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "mnemon-dev/mnemon",
+      "npm": "@mnemon-dev/dsh-mnemon",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Momojie-S/dsh-subagent-model",
+      "npm": "@momojie-s/dsh-subagent-model",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Neplich/dsh_plugin",
+      "path": "packages/dsh-auto-fold",
+      "npm": "@neplich/dsh-auto-fold",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Neplich/dsh_plugin",
+      "path": "packages/dsh-config-mcp",
+      "npm": "@neplich/dsh-config-mcp",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Neplich/dsh_plugin",
+      "path": "packages/dsh-preset-dev",
+      "npm": "@neplich/dsh-preset-dev",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "oil-oil/dsh-vision",
+      "npm": "@oil-oil/dsh-vision",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "bill9109/dsh-drag-and-drop",
+      "npm": "@omdsh-dev/dsh-drag-and-drop",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "omdsh-dev/dsh-web-ui-notify",
+      "npm": "@omdsh-dev/dsh-web-ui-notify",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "oneinitAI/dsh-settings-plus",
+      "npm": "@oneinitai/dsh-settings-plus",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "whiteguo233/dsh-openbiliclaw",
+      "npm": "@openbiliclaw/dsh-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ottotheagent/otto-dsh",
+      "npm": "@ottotheagent/otto-dsh",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "parallel-web/dsh-web-search-parallel",
+      "npm": "@parallel-web/dsh-web-search-parallel",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "qimidandapigu/dsh-xiaotangyuan-game",
+      "npm": "@qimidandapigu/dsh-game-agent",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "dhicoc/dsh-reverse-skill",
+      "npm": "@reverse-skill/dsh-reverse-skill",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "UABULAJIQL/dsh-gpt-remote-compaction",
+      "npm": "@sqnb/dsh-gpt-remote-compaction",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tensorlakeai/dsh-tensorlake-sandbox",
+      "npm": "@tensorlake/dsh-sandbox",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "TommyFang2077/gh-tea-npm-dsh",
+      "npm": "@tommyfang/git-clis-dsh",
+      "why": "published by tommyfang2077/git-clis-dsh",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tradercjz/dsh-dolphindb",
+      "npm": "@tradercjz/dsh-dolphindb",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wellorbetter/dsh-input-history",
+      "npm": "@wellorbetter/dsh-input-history",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "2501136589/dsh-rewind",
+      "npm": "@xiaoxin/dsh-rewind",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xsuas/dsh-balance-display",
+      "npm": "@xsuas/dsh-balance-display",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yejiming/dsh-museai-tavern",
+      "npm": "@yejiming/dsh-museai-tavern",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YOGEMOW/DeepSeek_Prism",
+      "path": "dsh-plugin",
+      "npm": "@yogemow/dsh-prism",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zekdeW/dsh-client-workspace-deep-link",
+      "npm": "@zekdew/dsh-client-workspace-deep-link",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhangzujian/dsh-same-mode-sandbox-noop",
+      "npm": "@zhangzujian/dsh-same-mode-sandbox-noop",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhangzujian/dsh-subprocess-inherit-environment",
+      "npm": "@zhangzujian/dsh-subprocess-inherit-environment",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ZrSiO4-y/dsh-explorer",
+      "npm": "@zrsio4-y/dsh-explorer",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "mang0cola/adb_dsh_plugin",
+      "npm": "adb-dsh-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "GooodWei/arcana",
+      "npm": "arcana",
+      "why": "published by flipactual/arcana",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Elipese568/coloured-favicon",
+      "npm": "coloured-favicon",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "buguoshixc/deepseek-harness-external-migration",
+      "npm": "deepseek-harness-external-migration",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "liguobao/deepseek-harness-remote",
+      "npm": "deepseek-harness-remote",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xyidong/deepseek-usage-info-check",
+      "npm": "deepseek-usage-info",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yuzh2001/dsh-zotero",
+      "npm": "dsa-zotero-sidebar",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "glangzh/dsh-advisor",
+      "npm": "dsh-advisor-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LeemanCheung/dsh-agent-preset-recommender",
+      "npm": "dsh-agent-preset-recommender",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ishuowang/dsh-agent-team-room",
+      "npm": "dsh-agent-team-room",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "railgun0325/dsh-phone",
+      "path": "plugin",
+      "npm": "dsh-android-control",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "boboozeng/dsh-annotation-plugin",
+      "npm": "dsh-annotation-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Zenjibad/dsh-any-attachment",
+      "npm": "dsh-any-attachment",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "babutiger/dsh-anydrop",
+      "npm": "dsh-anydrop",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "MaYiFei1995/dsh-approval-comment",
+      "npm": "dsh-approval-comment",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "QQQW114/dsh-archived-sessions",
+      "npm": "dsh-archived-sessions",
+      "why": "published by jxy-hy/dsh-archived-sessions",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Q1hangL/dsh-ask-guard",
+      "npm": "dsh-ask-guard",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiongjiamu/dsh-atomgit",
+      "npm": "dsh-atomgit",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "linkingoscar/dsh-attachment-formats",
+      "npm": "dsh-attachment-formats",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Stormycry-cryp/dsh-AuthInOne",
+      "npm": "dsh-auth-in-one",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "simon300000/dsh-auto",
+      "npm": "dsh-auto",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "AL-spiritphoenix/dsh-auto-model",
+      "npm": "dsh-auto-model",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Whning0513/awesome-deepseek-skills",
+      "npm": "dsh-awesome-deepseek-skills",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaoyuyu6420/dsh-backup",
+      "npm": "dsh-backup",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Rainronin/dsh-balance-monitor",
+      "npm": "dsh-balance-monitor",
+      "why": "published by yuntaojinghong/dsh-balance-monitor",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "HOFO-GYG/dsh-balance-watch",
+      "npm": "dsh-balance-watch",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Da-Mie/dsh-beacons",
+      "npm": "dsh-beacons",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "EdgeTypE/dsh-better-deepseek",
+      "npm": "dsh-better-deepseek",
+      "why": "published by edgetype/better-deepseek",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "CZX2244/dsh-bilibili",
+      "npm": "dsh-bilibili",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "linkingoscar/dsh-billing-glass",
+      "npm": "dsh-billing-glass",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "WhiseNT/dsh-blackjack",
+      "npm": "dsh-blackjack",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wqty123/dsh-browser",
+      "npm": "dsh-browser",
+      "why": "published by ben7am1n/dsh-browser",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Tianyu209/dsh-browser-companion",
+      "npm": "dsh-browser-companion",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yzd6552-commits/dsh-browseruse",
+      "npm": "dsh-browseruse",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "iyllyt/dsh-btw",
+      "npm": "dsh-btw",
+      "why": "published by iluluyu/dsh-btw",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Chance-Wu/dsh-change-center",
+      "npm": "dsh-change-center",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ZinkLu/dsh-channel",
+      "path": "packages/channel-feishu",
+      "npm": "dsh-channel-feishu",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ZinkLu/dsh-channel",
+      "path": "packages/channel-telegram",
+      "npm": "dsh-channel-telegram",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ZinkLu/dsh-channel",
+      "path": "packages/channel-wechat",
+      "npm": "dsh-channel-wechat",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "EQmarks/dsh-chem-render",
+      "npm": "dsh-chem-render",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xzy-jason/dsh-chinese-search",
+      "npm": "dsh-chinese-search",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Chhlafiu4312/citeguard",
+      "npm": "dsh-citeguard",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "FG-FOX/dsh-sound-plugin",
+      "npm": "dsh-client-ui-sounds",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zjzqs/dsh-client-ui-voice-input",
+      "npm": "dsh-client-ui-voice-input",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "maxiaovivi/dsh-cloak-browser",
+      "npm": "dsh-cloak-browser",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "jeremy9682/dsh-observability",
+      "npm": "dsh-codex-observability",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "kjx-talesofai/dsh-cohub-board",
+      "npm": "dsh-cohub-board",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "chu557/douyin-plugin-dsh-plugin",
+      "npm": "dsh-command-douyin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "jiesou/dsh-commandcode-go-provider",
+      "npm": "dsh-commandcode-go-provider",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "the-qian/dsh-commit-review",
+      "npm": "dsh-commit-review",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "geohotstan/dsh-computer-use",
+      "npm": "dsh-computer-use",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "misakimiku2/dsh-cost-display",
+      "npm": "dsh-cost-display",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Creakono/dsh-cost-meter",
+      "npm": "dsh-cost-meter",
+      "why": "published by han-1413141/dsh-cost-meter",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaohj233/dsh-credential-handoff",
+      "npm": "dsh-credential-handoff",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "kyya/dsh-deepseek-balance",
+      "npm": "dsh-deepseek-balance",
+      "why": "published by hamerbyh/dsh-deepseek-balance",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Jolly-J/dsh-deepseek-billing",
+      "npm": "dsh-deepseek-billing",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Argonaut790/dsh-deepseek-vision",
+      "npm": "dsh-deepseek-vision",
+      "why": "published by siegfly/dsh-deepseek-vision",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "dream12347/dsh-session-manager",
+      "npm": "dsh-delete-session",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhaiyateng/dsh-design-skills",
+      "npm": "dsh-design-skills",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "CAOGGL/dsh-ding",
+      "npm": "dsh-ding",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "STARDUSTLC666/dsh-docker",
+      "npm": "dsh-docker",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Sqhao-O/dsh-docs",
+      "npm": "dsh-docling",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "GLFzr/dsh-file-upload",
+      "npm": "dsh-drop-file-to-path",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wacly/dsh-dynamic-plugin-manage",
+      "npm": "dsh-dynamic-plugin-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Thomas-key/dsh-dynplugin-manager",
+      "npm": "dsh-dynplugin-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Yuki-takuya-kun/dsh-engine-switch",
+      "npm": "dsh-engine-switch",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wuykjl/dsh-equip-engine",
+      "npm": "dsh-equip-engine",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yu2025-luo/dsh-file-panel",
+      "npm": "dsh-file-panel",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Han-Yao94/dsh-filelens",
+      "npm": "dsh-filelens",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhang787jun/dsh-finance",
+      "npm": "dsh-finance",
+      "why": "published by dushaobindoudou/dsh-finance",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LessXi/dsh-fluid-width",
+      "npm": "dsh-fluid-width",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tianyhjg-lab/dsh-font",
+      "npm": "dsh-font",
+      "why": "published by dushaobindoudou/dsh-font",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhn1100/dsh-forge",
+      "npm": "dsh-forge",
+      "why": "published by dushaobindoudou/dsh-forge",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cershuang/dsh-fschannel",
+      "npm": "dsh-fschannel",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "bibibala/dsh-git-guard",
+      "npm": "dsh-git-guard",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "KHG420/git-worktree",
+      "npm": "dsh-git-worktree",
+      "why": "published by wloops/dsh-git-worktree",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Noob-stupid/dsh-github-login",
+      "npm": "dsh-github-login",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "1052326311/dsh-goal-quiescence",
+      "npm": "dsh-goal-quiescence",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "youxi-huang/dsh-gpt-file-discipline",
+      "npm": "dsh-gpt-file-discipline",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xuboboo/dsh-grok-geo",
+      "npm": "dsh-grok-geo",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "DimitriLIAN/dsh-habits",
+      "npm": "dsh-habits",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tianyaZTY/dsh-hot-plugin-host",
+      "npm": "dsh-hot-plugin-host",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "hxyz486/dsh-archived-conversations",
+      "npm": "dsh-hxyz-archived-conversations",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "condaThinker/dsh-image-inline",
+      "npm": "dsh-image-inline",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zcXie777/dsh-image-reader",
+      "npm": "dsh-image-reader",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "JuneLearn/dsh-image2-draw",
+      "npm": "dsh-image2-draw",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "3403473060/dsh-inline-images",
+      "npm": "dsh-inline-images",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "WhitePlusMS/dsh-input-plus",
+      "npm": "dsh-input-plus",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "EthanHuangEbor/dsh-input-queue",
+      "npm": "dsh-input-queue",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "1052326311/dsh-instruction-audit",
+      "npm": "dsh-instruction-audit",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "minatoAI/jina-web-search-dsh-plugin",
+      "npm": "dsh-jina",
+      "why": "published by mouyase/dsh-jina",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Yi-111-a/dsh-jingling",
+      "npm": "dsh-jingling",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tafcear/kimi-tide",
+      "path": "packages/dsh-kimi-tide",
+      "npm": "dsh-kimi-tide",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cwbcheng/dsh-knowledge-graph",
+      "npm": "dsh-knowledge-graph",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cyanseek/dsh-landscape",
+      "npm": "dsh-landscape",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yeruizhi/dsh-lark-meeting-notifier",
+      "npm": "dsh-lark-meeting-notifier",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "condaThinker/dsh-left-sidebar-collapse",
+      "npm": "dsh-left-sidebar-collapse",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wxxb789/dsh-legion",
+      "npm": "dsh-legion",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xuhurdern-beep/dsh-live-reload",
+      "npm": "dsh-live-reload",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fyy99/dsh-livis-connector",
+      "npm": "dsh-livis-connector",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cdxiaodong/dsh-llm-inspector",
+      "npm": "dsh-llm-inspector",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ziyou979/dsh-llm-oauth",
+      "npm": "dsh-llm-oauth",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "kairoz9/dsh-mcp-admin",
+      "npm": "dsh-mcp-admin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "aka-danielZhang/dsh-mcp-settings",
+      "npm": "dsh-mcp-settings",
+      "why": "published by aka-danielzhang/dsh-desktop",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "lifensame/dsh-plugin",
+      "npm": "dsh-memory",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "BayInl/dsh-memory",
+      "npm": "dsh-memory",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "solknight48/dsh-memoryhub",
+      "npm": "dsh-memoryhub",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "welsione/dsh-mmx-bridge",
+      "npm": "dsh-mmx-multimodal",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "FengHuoLinShan/dsh-mobile",
+      "npm": "dsh-mobile",
+      "why": "published by saya-ch/dsh-mobile",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YiYan129600/dsh-mobile-access",
+      "npm": "dsh-mobile-access",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Bernardxu123/dsh-mobile-gate",
+      "npm": "dsh-mobile-gate",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "deleteuser886/dsh-mobile-mode",
+      "npm": "dsh-mobile-mode",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cyberlieflife/dsh-model-thinking",
+      "npm": "dsh-model-thinking",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "MarvekG/deepseek-harness-model-config",
+      "npm": "dsh-models-config-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "syy-shark/dsh-music-plugin",
+      "npm": "dsh-music-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "666489/dsh-nature-papers",
+      "npm": "dsh-nature-papers",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xxxxxxxyu/dsh-notify-sound",
+      "npm": "dsh-notify-sound",
+      "why": "published by lqfhub/dsh-plugin",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fly3366/dsh-o11y-plugin",
+      "npm": "dsh-o11y-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Cavan-Ou/dsh-observation-journal",
+      "npm": "dsh-observation-journal",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "mytianyi0712/dsh-tui-plugin-OhMyPi",
+      "npm": "dsh-omp-tui",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "GLFzr/dsh-opencode-go-quota",
+      "npm": "dsh-opencode-go-quota",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "kkishapppy/dsh-opencode-go-usage",
+      "npm": "dsh-opencode-go-usage",
+      "why": "published by yumusb/dsh-opencode-go-usage",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "BeiZi6/dsh-opencodego-usage",
+      "npm": "dsh-opencodego-usage",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Rxiain/dsh-openviking",
+      "npm": "dsh-openviking",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xbzbing/dsh-auth-gateway",
+      "npm": "dsh-password-gate",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "1052326311/dsh-plan-lattice",
+      "npm": "dsh-plan-lattice",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "beancookie/dsh-plugin-anydoc",
+      "npm": "dsh-plugin-anydoc",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "HYY-King/dsh-plugin-auditor",
+      "npm": "dsh-plugin-auditor",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "niuniu-869/dsh-plugin-cas-kb",
+      "npm": "dsh-plugin-cas-kb",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YiYan129600/dsh-plugin-catalog",
+      "npm": "dsh-plugin-catalog",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "hnmrxz/dsh-plugin-deepseek-balance",
+      "npm": "dsh-plugin-deepseek-balance",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Civitasv/dsh-plugin-diff-review",
+      "npm": "dsh-plugin-diff-review",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "initialencounter/dsh-plugin-drone",
+      "npm": "dsh-plugin-drone",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ihuajiu/dsh-plugins-finder",
+      "npm": "dsh-plugin-finder",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "D4Cluv-Train/dsh-plugin-manager",
+      "npm": "dsh-plugin-manager",
+      "why": "published by hrhgit/deepseek-harness-plugin-manager",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "bradeGithub/DSH-Plugins-Marketplace",
+      "npm": "dsh-plugin-marketplace",
+      "why": "published by scorp1o117/dsh-plugin-marketplace",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "d-ouyang/dsh-plugin-md-outline",
+      "npm": "dsh-plugin-md-outline",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "SherUnlocked-4869/dsh-plugin-msg-nav",
+      "npm": "dsh-plugin-msg-nav",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Civitasv/dsh-plugin-open-editor",
+      "npm": "dsh-plugin-open-editor",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Inspireason/dsh-plugin-organizer",
+      "npm": "dsh-plugin-organizer",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "puremapping/dsh-plugin-reading-pipeline",
+      "npm": "dsh-plugin-reading-pipeline",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "nfz/dsh-plugin-skill-tree",
+      "npm": "dsh-plugin-skill-tree",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tuogusa/dsh-plugin-toggle",
+      "npm": "dsh-plugin-toggle",
+      "why": "published by huntersxy/dsh-plugin-toggle",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "vilicvane/dsh-plugin-turn-memory",
+      "npm": "dsh-plugin-turn-memory",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "VanillaCreamer/dsh-plugin-visual-composer",
+      "npm": "dsh-plugin-visual-composer",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Abyss-Seeker/dsh-plugin-working-status",
+      "npm": "dsh-plugin-working-status",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "anxinyuanshiyu/dsh-plugin-zh-inventory",
+      "npm": "dsh-plugin-zh-inventory",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Sakana-yuyu/dsh-plugins",
+      "npm": "dsh-plugins-catalog",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "WASD258-jpg/dsh-port-manager",
+      "npm": "dsh-port-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Codingendless/dsh-prevent-scd",
+      "npm": "dsh-prevent-scd",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cynch18/plugin-switch",
+      "npm": "dsh-profile-plugin-switch",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "caoqinnan-web/organize-workspace-sessions",
+      "npm": "dsh-project-organizer",
+      "why": "published by caoqinnan-web/dsh-project-organizer",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "errorcode7/dsh-prompt-manager",
+      "npm": "dsh-prompt-manager",
+      "why": "published by saisenbox/dsh-prompt-manager",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "JoukoPuro/dsh-prompt-polish",
+      "npm": "dsh-prompt-polish",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Chhlafiu4312/promptwall",
+      "npm": "dsh-promptwall",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Lwc-LiuWenCheng/dsh-provider-usage",
+      "npm": "dsh-provider-usage",
+      "why": "published by lizhouai/dsh-provider-usage",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tyql688/dsh-providers",
+      "npm": "dsh-providers",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "dmsobtl/dsh-quant-workbench",
+      "npm": "dsh-quant-workbench",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "HOFO-GYG/dsh-quote-reply",
+      "npm": "dsh-quote-reply",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ShuiHan268/dsh-qwen-mm-plugins",
+      "npm": "dsh-qwen-mm-plugins",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "flyemFSB/dsh-reasoning-effort-hdbzq",
+      "npm": "dsh-reasoning-effort-hdbzq",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "harryopo/dsh-remote-ide",
+      "npm": "dsh-remote-ide",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "lmst2/dsh-rename",
+      "npm": "dsh-rename",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "nicolas-zhao-4/dsh-reply-nav",
+      "npm": "dsh-reply-nav",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "outnever/dsh-research-first",
+      "npm": "dsh-research-first",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaohj233/dsh-resume",
+      "npm": "dsh-resume",
+      "why": "published by dushaobindoudou/dsh-resume",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "uluckystar/dsh-schedule-tasks",
+      "npm": "dsh-schedule-tasks",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Blaczz/dsh-sci",
+      "npm": "dsh-sci",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "invalidnaaaame/dsh-scroll-timeline",
+      "npm": "dsh-scroll-timeline",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "mayf3/dsh-session-doctor",
+      "npm": "dsh-session-doctor",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "homily707/dsh-session-header",
+      "npm": "dsh-session-header",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Vim0x3c/dsh-session-manager",
+      "npm": "dsh-session-manager",
+      "why": "published by hkkz9522/dsh-session-manager",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "kkishapppy/dsh-session-repacker",
+      "npm": "dsh-session-repacker",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tuogusa/dsh-session-tags",
+      "npm": "dsh-session-tags",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "sparkmio/dsh-sfversion",
+      "npm": "dsh-sfversion",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "green-dalii/dsh-shift-router",
+      "npm": "dsh-shift-router",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ishuowang/dsh-sideband",
+      "npm": "dsh-sideband",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Meredith2328/dsh-sidebar-mode",
+      "npm": "dsh-sidebar-mode",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "GongYuanCaiJi/dsh-simplify",
+      "npm": "dsh-simplify",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "sulfide2085/dsh-skill-manager",
+      "npm": "dsh-skill-manager",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ZzzzzzzLL/dsh-skill-manager",
+      "npm": "dsh-skill-manager",
+      "why": "2 listed repos declare this name and the package states no repository",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YTxue/dsh-skill-manager-ytxue",
+      "npm": "dsh-skill-manager-ytxue",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "lywusichen/dsh-skill-panel",
+      "npm": "dsh-skill-panel",
+      "why": "published by nianchen8/dsh-skill-panel",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaoxianyu-office/dsh-skills-manager",
+      "npm": "dsh-skills-manager",
+      "why": "published by xichun123/dsh-skills-manager",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wuxinzhe/dsh-cyberdog-speech-sherpa",
+      "npm": "dsh-speech-sherpa",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "superfly/sprites-deepseek-plugin",
+      "npm": "dsh-sprites-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "akira399/dsh-stall-guard",
+      "npm": "dsh-stall-guard",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yha9806/dsh-subagent-admission",
+      "path": "packages/dsh-subagent-admission",
+      "npm": "dsh-subagent-admission",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "shaoeric/dsh-suggest",
+      "npm": "dsh-suggest",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "jinhuang712/dsh-survey",
+      "npm": "dsh-survey",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "khiqwq/dsh-system-proxy",
+      "npm": "dsh-system-proxy",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "MoonGlassKitty/dsh-tailscale-sync",
+      "npm": "dsh-tailscale-sync",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LeemanCheung/dsh-task-dag",
+      "npm": "dsh-task-dag",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Player-MINEPIG/dsh-tavern",
+      "npm": "dsh-tavern",
+      "why": "published by chen731215-dev/dsh-tavern",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Yihong89/dsh-teacher",
+      "npm": "dsh-teacher",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "ZgblKylin/dsh-terminal",
+      "npm": "dsh-terminal",
+      "why": "published by giiiiiithub/terminal",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "dmsobtl/dsh-test-workbench",
+      "npm": "dsh-test-workbench",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "my-dsh-plugin/thinking-level-override",
+      "npm": "dsh-thinking-level-override",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhangzheng25/dsh-timeline",
+      "npm": "dsh-timeline",
+      "why": "published by houyanchao/dsh-timeline",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "huantian1223/dsh-token-stats",
+      "npm": "dsh-token-stats",
+      "why": "published by h1a3x/dsh-token-stats",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LeemanCheung/dsh-token-usage",
+      "npm": "dsh-token-usage",
+      "why": "published by tastelessor/dsh-usage-stats",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Huasfan/dsh-tool-git",
+      "npm": "dsh-tool-git",
+      "why": "published by lxj808624/dsh-tool-git",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "saurtone/dsh-tool-somark",
+      "npm": "dsh-tool-somark",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "dfycaly98931680/dsh-trajectory-governance",
+      "npm": "dsh-trajectory-governance",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "lssyd20070106/dsh-ui-preset-enhance",
+      "npm": "dsh-ui-preset-enhance",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "TYEclipse/dsh-units",
+      "npm": "dsh-units",
+      "why": "published by dushaobindoudou/dsh-units",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "knlght/DSH-update-check",
+      "npm": "dsh-update-check",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "duntansen/dsh-update-checker",
+      "npm": "dsh-update-checker",
+      "why": "published by airmetro/dsh-update-checker",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "arvin-yd/dsh-update-notifier",
+      "npm": "dsh-update-notifier",
+      "why": "published by stuarthu/dsh-update-notifier",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zdjmrq/dsh-usage-balance",
+      "npm": "dsh-usage-balance",
+      "why": "published by intpfx/openfx",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Cassius0924/dsh-usage-dashboard",
+      "npm": "dsh-usage-dashboard",
+      "why": "published by 1690834643/dsh-usage-dashboard",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "beijingwahw/dsh-usage-ledger",
+      "npm": "dsh-usage-ledger",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zdjmrq/dsh-pluginmanager",
+      "npm": "dsh-user-plugins-manager",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "babutiger/dsh-vision-auto",
+      "npm": "dsh-vision-auto",
+      "why": "published by fresent2/dsh-vision-auto",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zouyuanqing/dsh-vision-primitives",
+      "npm": "dsh-vision-primitives",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Zachary7456/dsh-voice-mic",
+      "npm": "dsh-voice-mic",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "bpc-oss/dsh-web-billing",
+      "npm": "dsh-web-billing",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "wjy9902/dsh-web-default-session",
+      "npm": "dsh-web-default-session",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "2h0n/dsh-web-notification",
+      "npm": "dsh-web-notification",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "dawsondx/dsh-web-open",
+      "npm": "dsh-web-open",
+      "why": "published by nobody — the package states no repository and the repo does not claim the name",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "cindyguyuehu123/dsh-webchatlike",
+      "npm": "dsh-webchatlike",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xiaoshihou514/dsh-weixin",
+      "npm": "dsh-weixin",
+      "why": "published by caoyilearnai/dsh-weixin",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LeemanCheung/dsh-whale-animation",
+      "npm": "dsh-whale-animation",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "kxSenlin/dsh-whale-font",
+      "npm": "dsh-whale-font",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhaoscsc/dsh-wikilink",
+      "npm": "dsh-wikilink",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "halosb/dsh-workmate",
+      "npm": "dsh-workmate",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Hakunm/dsh-workspace",
+      "npm": "dsh-workspace",
+      "why": "published by dushaobindoudou/dsh-workspace",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "3911ee/dsh-workspace-explorer",
+      "npm": "dsh-workspace-explorer",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "GIGHT111/dsh-workspace-inspector",
+      "npm": "dsh-workspace-inspector",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "tsonglew/dsh-workspace-search",
+      "npm": "dsh-workspace-search",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "LI-Huaa/dsh-workspace-upload",
+      "npm": "dsh-workspace-upload",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "paradoxSCH/dsh-worktree",
+      "npm": "dsh-worktree",
+      "why": "published by flashingchen/dsh-worktree",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "zhangxiang1993621/dsh-ws-files",
+      "npm": "dsh-ws-files",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "xuboboo/dsh-xiaohongshu-viral-note",
+      "npm": "dsh-xiaohongshu-viral-note",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Argonaut790/dsh-zh-hant-hk",
+      "npm": "dsh-zh-hant-hk",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Wechsels/dsh-zotero-wiki",
+      "npm": "dsh-zotero-wiki",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "nanshan1995/DSH-Plugin-Market",
+      "npm": "dshmarket",
+      "why": "published by dsh-market/dsh-market",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fieldnote-ops/frameevidence",
+      "npm": "frameevidence",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Cryonnan/GateCraft-math-modeling-skills",
+      "npm": "gatecraft",
+      "why": "published by eric20junior/gatecraft",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Saktawdi/dsh-ha-orchestrator",
+      "npm": "ha-orchestrator",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Cavan-Ou/hermes-dsh-collab",
+      "npm": "hermes-dsh-collab",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "beimianism/Hermes-to-DSH",
+      "npm": "hermes-to-dsh",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fieldnote-ops/keyringseam",
+      "npm": "keyringseam",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "yLong765/dsh-meow-notify",
+      "npm": "meow-notify",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Spirtxiaoqi7/mindspace-dsh-local-rag",
+      "npm": "mindspace-dsh-local-rag",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "muretai/muretai-dsh-skill",
+      "npm": "muretai-dsh-skill",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "AKS1st/model-usage-plugin",
+      "npm": "musage-stats",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "WolfGenerals/ncm-player",
+      "npm": "ncm-player",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YYTbit/oh-my-deepseek-harness",
+      "npm": "oh-my-deepseek-harness",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "YYTbit/oh-my-dsh",
+      "npm": "oh-my-dsh",
+      "why": "published by amplifthq/oh-my-dsh",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "harmony520/path-click",
+      "npm": "path-click",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "fieldnote-ops/relayloom",
+      "npm": "relayloom",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "CrazeBox/dsh-ExploreTree",
+      "npm": "research-tree-plugin",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Hilbert-beinghappy/seektty",
+      "npm": "seektty",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "Tabbit-Browser/dsh-plugin",
+      "npm": "tabbit-browser",
+      "why": "no such package",
+      "since": "2026-08-21"
+    },
+    {
+      "repo": "mishibeikejie/zat-dsh-engine",
+      "npm": "zat-dsh-engine",
+      "why": "no such package",
+      "since": "2026-08-21"
+    }
+  ]
+}

@@ -136,7 +136,55 @@ async function gh(path) {
 // stylesheet full of `--dsw-*` overrides is the weakest thing still real.
 const SKIP_PATH = /(^|\/)(node_modules|dist|build|out|vendor|\.git|coverage|fixtures?|examples?|tests?|__tests__)\//;
 const DSW_TOKEN = /--dsw-[a-z0-9-]+/i;
-const SKILL_FRONTMATTER = /^---\s*\n[\s\S]*?\nname:/m;
+// dsh's own rule, ported from the rc.8 source rather than approximated:
+// packages/skill/skill-filesystem/src/index.ts `parseFrontmatter` (the first
+// line must be exactly `---`, closed by a later line that is exactly `---`,
+// both `\r`-tolerant) plus the three refusals in `loadSkillFile` — missing
+// frontmatter, `name` or `description` absent, and a `name` that is not
+// kebab-case (`SKILL_NAME` in packages/skill/skill/src/index.ts).
+//
+// The regex this replaces was `/^---\s*\n[\s\S]*?\nname:/m`, which needed a
+// newline *before* `name:` — so `---\nname: foo` on the first line, the most
+// natural way anyone writes it, did not match, and neither did any CRLF file.
+// dsh loads both. 163 candidates were parked under "SKILL.md without
+// frontmatter" waiting for a human to look at skills the harness would have
+// loaded fine.
+const SKILL_NAME = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+
+function skillFrontmatter(raw) {
+  if (!raw) return null;
+  const firstEnd = raw.indexOf("\n");
+  if (firstEnd < 0) return null;
+  if (raw.slice(0, firstEnd).replace(/\r$/, "") !== "---") return null;
+  let lineStart = firstEnd + 1;
+  let closing = -1;
+  while (lineStart <= raw.length) {
+    const nl = raw.indexOf("\n", lineStart);
+    const lineEnd = nl < 0 ? raw.length : nl;
+    if (raw.slice(lineStart, lineEnd).replace(/\r$/, "") === "---") {
+      closing = lineStart;
+      break;
+    }
+    if (nl < 0) return null;
+    lineStart = nl + 1;
+  }
+  if (closing < 0) return null;
+  // Top-level `key: value` only. A real YAML parse is not worth a dependency
+  // here: dsh needs `name` and `description` to be plain strings, and a nested
+  // or folded value for either would fail its `stringField` check too.
+  const fields = {};
+  for (const line of raw.slice(firstEnd + 1, closing).split("\n")) {
+    const m = line.replace(/\r$/, "").match(/^([A-Za-z][\w-]*)\s*:\s*(.*)$/);
+    if (!m) continue;
+    fields[m[1]] = m[2].trim().replace(/^['"]|['"]$/g, "");
+  }
+  const { name, description } = fields;
+  if (!name || !description) return null;
+  if (!SKILL_NAME.test(name)) return null;
+  return { name, description };
+}
+
+const SKILL_FRONTMATTER = { test: (raw) => skillFrontmatter(raw) !== null };
 
 const parse = (text) => {
   if (!text) return null;
@@ -335,8 +383,21 @@ async function triage(repo, { deep = true } = {}) {
   if (root.facts.cordis) {
     return { repo, verdict: "review", reason: "cordis plugin with no dsh manifest", facts: root.facts };
   }
+  // Not a close call once you read the loader. dsh logs
+  // `skill file <path> ignored: missing YAML frontmatter` and returns
+  // undefined, so a SKILL.md without usable frontmatter is not a skill dsh
+  // discovers — it is a markdown file. Held for a human, this was the largest
+  // and fastest-growing bucket in the queue and nobody could have decided it
+  // any differently. It rechecks like any other snapshot rejection, so adding
+  // frontmatter is all it takes to come back.
   if (root.facts.hasSkill) {
-    return { repo, verdict: "review", reason: "SKILL.md without frontmatter", facts: root.facts };
+    return {
+      repo,
+      verdict: "reject",
+      reason: "SKILL.md present but dsh would ignore it: frontmatter must open on line 1 with `---` and set a kebab-case `name` plus a `description` (packages/skill/skill-filesystem/src/index.ts)",
+      recheck: true,
+      facts: root.facts,
+    };
   }
   if (root.facts.empty) {
     return { repo, verdict: "reject", reason: "empty repo: no package.json, no README, no SKILL.md", recheck: true, facts: root.facts };
@@ -664,4 +725,34 @@ write("data/candidates.json", {
   updated: TODAY,
   candidates: [...held, ...routed].sort((a, b) => a.repo.localeCompare(b.repo)),
 });
+
+// Keep the published coverage figure honest between sweeps.
+//
+// `decided` is written by discover.mjs as `topicRepos ∩ (listed ∪ rejected)`,
+// and only discover holds `topicRepos`, so it was a snapshot that went stale
+// the moment this script ran: today it said 9,987/11,011 — 91% — while triage
+// had since decided another 941, making it 99%. Understating our own coverage
+// is the safe direction to be wrong in, but it is still wrong, and the README
+// prints it as a headline.
+//
+// Every candidate carrying `github-topic` came from that sweep, so deciding
+// one moves the numerator by exactly one. Seeds and npm-search finds do not
+// count: they were never in the topic denominator.
+const queued = new Map(queue.map((c) => [c.repo.toLowerCase(), c]));
+const fromTopic = (repo) =>
+  (queued.get(repo.toLowerCase())?.sources ?? []).includes("github-topic");
+const decidedNow = [...admitted, ...rejects].filter((row) => fromTopic(row.repo)).length;
+if (decidedNow) {
+  try {
+    const coverage = read("data/coverage.json");
+    write("data/coverage.json", {
+      ...coverage,
+      decided: Math.min(coverage.decided + decidedNow, coverage.unique),
+      queued: Math.max(coverage.queued - decidedNow, 0),
+    });
+    console.error(`triage: coverage ${coverage.decided} -> ${coverage.decided + decidedNow} of ${coverage.unique}`);
+  } catch {
+    // No sweep has run yet; there is no figure to keep honest.
+  }
+}
 console.error(`triage: registry ${registry.plugins.length} -> ${nextPlugins.length}`);
