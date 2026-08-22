@@ -370,6 +370,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "yhyfhgs/dsh-providers-extension",
+      "npm": "@fhxgs/dsh-providers-extension",
+      "why": "no such package",
+      "since": "2026-08-22"
+    },
+    {
       "repo": "781316853/dsh-provider-quota",
       "npm": "@guyunli/dsh-provider-quota",
       "why": "no such package",
@@ -1326,12 +1332,6 @@
       "npm": "dsh-models-config-plugin",
       "why": "no such package",
       "since": "2026-08-21"
-    },
-    {
-      "repo": "sjh9714/dsh-movein",
-      "npm": "dsh-movein",
-      "why": "published by sjh9714/claude-to-opencode",
-      "since": "2026-08-22"
     },
     {
       "repo": "syy-shark/dsh-music-plugin",
