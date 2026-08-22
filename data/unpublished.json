@@ -6,7 +6,7 @@
   ],
   "checked": "2026-08-22",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 360,
+  "count": 361,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -1338,6 +1338,12 @@
       "npm": "dsh-music-plugin",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "WSL043/dsh-native-session-delete",
+      "npm": "dsh-native-session-delete",
+      "why": "published by wsl043/dsh-native-session-manager",
+      "since": "2026-08-22"
     },
     {
       "repo": "666489/dsh-nature-papers",
