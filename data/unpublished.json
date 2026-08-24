@@ -6,7 +6,7 @@
   ],
   "checked": "2026-08-24",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 370,
+  "count": 369,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -1758,12 +1758,6 @@
     {
       "repo": "Meredith2328/dsh-sidebar-mode",
       "npm": "dsh-sidebar-mode",
-      "why": "no such package",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "GongYuanCaiJi/dsh-simplify",
-      "npm": "dsh-simplify",
       "why": "no such package",
       "since": "2026-08-21"
     },
