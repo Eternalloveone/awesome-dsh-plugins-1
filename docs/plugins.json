@@ -14,7 +14,7 @@
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "npm": "@deepseek-ai/dsh-base",
-      "stars": 190089,
+      "stars": 191141,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -33,7 +33,7 @@
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "npm": "@deepseek-ai/dsh-web-app",
-      "stars": 190089,
+      "stars": 191141,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -52,7 +52,7 @@
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "npm": "@deepseek-ai/dsh-headless",
-      "stars": 190089,
+      "stars": 191141,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -71,7 +71,7 @@
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "npm": "@deepseek-ai/dsh-hooks-claude-code",
-      "stars": 190089,
+      "stars": 191141,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -90,7 +90,7 @@
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "verified",
       "npm": "@deepseek-ai/dsh-hooks-codex",
-      "stars": 190089,
+      "stars": 191141,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -110,12 +110,12 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@liustack/modlens",
-      "stars": 3583,
+      "stars": 3593,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-web-ui",
@@ -129,7 +129,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-aionui-panel/package.json#dsh.bundle",
-      "stars": 5842,
+      "stars": 5893,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -146,7 +146,7 @@
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "unverified",
-      "stars": 23886,
+      "stars": 23902,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
@@ -203,7 +203,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@anionex/dsh-vision-toolkit",
-      "stars": 818,
+      "stars": 817,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -222,7 +222,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@deepseek-harness-tui/dsh-tui",
-      "stars": 2417,
+      "stars": 2452,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -241,7 +241,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@huiliyi37/dsh-tianshu-tui",
-      "stars": 232,
+      "stars": 233,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -259,7 +259,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 260,
+      "stars": 262,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -295,7 +295,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 558,
+      "stars": 559,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
@@ -313,7 +313,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 208,
+      "stars": 211,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -332,7 +332,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@nanmicoder/dsh-agent-teams",
-      "stars": 937,
+      "stars": 948,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -350,7 +350,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 465,
+      "stars": 467,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -370,7 +370,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-better-sidebar",
-      "stars": 2774,
+      "stars": 2801,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -443,12 +443,12 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@zseven-w/dsh-openpencil",
-      "stars": 151,
+      "stars": 152,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "whale-girl",
@@ -463,7 +463,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "whale-girl",
-      "stars": 278,
+      "stars": 280,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
@@ -482,12 +482,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "maid-atelier/package.json#dsh.bundle",
-      "stars": 1656,
+      "stars": 1665,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "find-plugins",
@@ -552,7 +552,7 @@
       "lastVerified": "2026-08-13",
       "verifiedAgainst": "0.1.0-rc.5",
       "status": "unverified",
-      "stars": 1069,
+      "stars": 1070,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
@@ -590,7 +590,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dependencies.@deepseek-ai/dsh",
-      "stars": 418,
+      "stars": 423,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -609,7 +609,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@liustack/modsearch",
-      "stars": 242,
+      "stars": 247,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -627,7 +627,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 321,
+      "stars": 323,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -665,7 +665,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-context",
-      "stars": 979,
+      "stars": 993,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -854,7 +854,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-essential",
@@ -922,7 +922,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-meme",
-      "stars": 53,
+      "stars": 54,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -1014,7 +1014,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-lark-channel",
-      "stars": 42,
+      "stars": 43,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels"
@@ -1090,7 +1090,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-mnemon",
-      "stars": 192,
+      "stars": 196,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -1456,7 +1456,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-vision-router",
-      "stars": 955,
+      "stars": 960,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -1510,13 +1510,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 38,
+      "stars": 40,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities",
         "ui"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-auto-memory",
@@ -1679,7 +1679,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 5,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -1716,7 +1716,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-mcp-panel",
-      "stars": 42,
+      "stars": 43,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -1810,7 +1810,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@openma/deepseek-harness-acp",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -1944,7 +1944,7 @@
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-auto-approve",
@@ -2103,7 +2103,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@anysearch/anysearch-dsh",
-      "stars": 232,
+      "stars": 235,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -2613,12 +2613,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 28,
+      "stars": 29,
       "starsUpdated": "2026-08-24",
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-chat-import",
@@ -2780,7 +2780,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-blender",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -3000,7 +3000,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 5,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -3145,7 +3145,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -3328,7 +3328,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -3347,7 +3347,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-subscriptions",
-      "stars": 260,
+      "stars": 263,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -3640,7 +3640,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-remote",
-      "stars": 36,
+      "stars": 37,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -4040,7 +4040,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models"
@@ -4151,7 +4151,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "deepseek-harness-wallet",
-      "stars": 64,
+      "stars": 65,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -4442,7 +4442,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 24,
+      "stars": 25,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -4714,7 +4714,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 20,
+      "stars": 22,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -4789,7 +4789,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-agy",
-      "stars": 23,
+      "stars": 24,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models"
@@ -5084,7 +5084,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-hdc-bridge",
-      "stars": 13,
+      "stars": 14,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -5102,7 +5102,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -5469,7 +5469,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 62,
+      "stars": 63,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -5742,7 +5742,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dshmarket",
-      "stars": 2113,
+      "stars": 2172,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -6129,7 +6129,7 @@
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-session-tree",
@@ -6217,7 +6217,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-undo-savepoint",
-      "stars": 120,
+      "stars": 122,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety"
@@ -6382,7 +6382,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-client-auto-continue",
-      "stars": 36,
+      "stars": 37,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -6475,7 +6475,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 85,
+      "stars": 86,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -6604,7 +6604,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 87,
+      "stars": 86,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -6804,7 +6804,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 48,
+      "stars": 49,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -7224,7 +7224,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -7352,7 +7352,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-llm-vision-bridge",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -7447,7 +7447,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-web-lan-access",
-      "stars": 25,
+      "stars": 26,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -7503,7 +7503,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-browser-playwright",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -7672,7 +7672,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@sanqi-normal/dsh-webui-market-plugin",
-      "stars": 100,
+      "stars": 101,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -7708,7 +7708,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -7744,7 +7744,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -7908,7 +7908,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 72,
+      "stars": 73,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge"
@@ -8132,7 +8132,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@tencent-connect/dsh-qqbot",
-      "stars": 74,
+      "stars": 75,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels"
@@ -8321,7 +8321,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-marketplace",
@@ -8464,7 +8464,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -8740,7 +8740,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -8817,7 +8817,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-find-plugin",
-      "stars": 84,
+      "stars": 88,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -8965,7 +8965,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@ychris12138/dsh-usage-stats",
-      "stars": 114,
+      "stars": 117,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage"
@@ -9001,7 +9001,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dependencies.@deepseek-ai/dsh",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -9478,7 +9478,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 183,
+      "stars": 185,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -9771,7 +9771,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@zebbkira/dsh-skills-mcp-manager",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -10316,12 +10316,12 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-quota-panel",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-weixin-skylar",
@@ -10597,7 +10597,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@eddyskywalker/dsh-chatgpt-subscription",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -10617,7 +10617,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-remote-ssh",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -10850,7 +10850,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 61,
+      "stars": 62,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -10875,7 +10875,7 @@
       "tags": [
         "observability"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-settings-plus",
@@ -11187,7 +11187,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -11226,7 +11226,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-skill-hub",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models"
@@ -11340,7 +11340,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@furongjun1999/dsh-memory",
-      "stars": 32,
+      "stars": 33,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -11499,7 +11499,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-pi",
@@ -11987,7 +11987,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 16,
+      "stars": 18,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -12155,7 +12155,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 516,
+      "stars": 518,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -12291,7 +12291,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-session-manager",
@@ -12417,7 +12417,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -12480,7 +12480,7 @@
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-web-default-session",
@@ -12724,7 +12724,7 @@
         "safety",
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-opencode-go-usage-kkishapppy",
@@ -12902,7 +12902,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -13240,7 +13240,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-catgirl-plugin",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -13902,7 +13902,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -14068,7 +14068,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -14160,12 +14160,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
+      "npm": "@deeptrial/dsh-bash-rtk",
       "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage"
       ],
-      "pushedAt": "2026-08-16"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-asc",
@@ -14326,7 +14327,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety"
@@ -14819,7 +14820,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-chat-timeline",
-      "stars": 28,
+      "stars": 29,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -14988,7 +14989,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-chinese-search",
@@ -15062,7 +15063,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-18"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-test-workbench",
@@ -15137,7 +15138,7 @@
       "tags": [
         "marketplace"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-organizer",
@@ -15558,7 +15559,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -15854,12 +15855,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 70,
+      "stars": 73,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-forge",
@@ -15931,7 +15932,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "plugin/package.json#dsh.bundle",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -15968,7 +15969,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-code",
-      "stars": 27,
+      "stars": 29,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -15987,7 +15988,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.client",
       "npm": "dsh-agent-memory",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -16765,7 +16766,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@nanmicoder/dsh-auto-mode",
-      "stars": 124,
+      "stars": 126,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety"
@@ -17386,7 +17387,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.client",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -17849,7 +17850,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-remotion",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -17886,7 +17887,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -17941,7 +17942,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-config-manager",
-      "stars": 17,
+      "stars": 20,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -18018,7 +18019,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-go-balance-show",
@@ -18379,7 +18380,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@woyeshishen/dsh-vision-plugin",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -18550,7 +18551,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-writing-pad",
@@ -18599,12 +18600,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 61,
+      "stars": 62,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-md-table-formatter",
@@ -18672,7 +18673,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 145,
+      "stars": 146,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -18691,7 +18692,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@xmanrui/dsh-im",
-      "stars": 736,
+      "stars": 759,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels"
@@ -18753,7 +18754,7 @@
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "octie-dsh-plugin",
@@ -18842,7 +18843,7 @@
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -18860,7 +18861,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "dsh-community-market/package.json#dsh.client",
-      "stars": 19380,
+      "stars": 19595,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -18878,7 +18879,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1120,
+      "stars": 1122,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety",
@@ -18897,7 +18898,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 631,
+      "stars": 633,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -18916,7 +18917,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 569,
+      "stars": 572,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -18935,7 +18936,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 442,
+      "stars": 443,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -18953,7 +18954,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 574,
+      "stars": 584,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -18972,7 +18973,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dependencies.@deepseek-ai/cordis-plugin-group",
-      "stars": 2106,
+      "stars": 2180,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -19028,13 +19029,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 236,
+      "stars": 241,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "forkprobe",
@@ -19083,7 +19084,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 135,
+      "stars": 136,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities",
@@ -19120,7 +19121,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 75,
+      "stars": 76,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -19158,7 +19159,7 @@
       "status": "verified",
       "evidence": "package.json#devDependencies.@deepseek-ai/dsh-native-command",
       "npm": "dsh-plugins-store",
-      "stars": 65,
+      "stars": 66,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -19181,7 +19182,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-vision-williamj",
@@ -19194,7 +19195,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#peerDependencies.@deepseek-ai/dsh-system-prompt",
-      "stars": 35,
+      "stars": 34,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -19251,13 +19252,13 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-cost-meter",
-      "stars": 175,
+      "stars": 179,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-minigames-lhh010",
@@ -19308,7 +19309,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 375,
+      "stars": 378,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -19400,7 +19401,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 106,
+      "stars": 107,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -19456,7 +19457,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "apps/desktop/package.json#dependencies.@deepseek-ai/cordis",
-      "stars": 290,
+      "stars": 301,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -19511,7 +19512,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 22,
+      "stars": 23,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -19565,7 +19566,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 35,
+      "stars": 36,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
@@ -19601,7 +19602,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 40,
+      "stars": 42,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -19752,7 +19753,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 53,
+      "stars": 55,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -20216,7 +20217,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-web-search-pro",
-      "stars": 40,
+      "stars": 41,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -20367,7 +20368,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 13,
+      "stars": 12,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -21030,7 +21031,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-deepeye",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -21089,7 +21090,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -21202,7 +21203,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -21259,7 +21260,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -21560,7 +21561,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -21579,7 +21580,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 12,
+      "stars": 13,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -22503,7 +22504,7 @@
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-open-browser",
@@ -22536,7 +22537,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-auto-review",
-      "stars": 91,
+      "stars": 92,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -22596,7 +22597,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-composer-history",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -22678,7 +22679,7 @@
         "memory",
         "agents"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "securstack-dsh-plugin",
@@ -22857,7 +22858,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -23144,7 +23145,7 @@
         "usage",
         "ui"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-width-tiers",
@@ -23799,7 +23800,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dependencies.@deepseek-ai/cordis-plugin-group",
-      "stars": 73,
+      "stars": 76,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -24182,7 +24183,7 @@
         "agents",
         "safety"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "blocker-notify",
@@ -24419,7 +24420,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -24593,7 +24594,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-13"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-pin-recall",
@@ -24971,7 +24972,7 @@
         "usage",
         "ui"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "shopline-ai-toolkit-dsh",
@@ -25640,13 +25641,13 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "meow-memory",
-      "stars": 39,
+      "stars": 41,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-audio-dub",
@@ -25892,7 +25893,7 @@
         "agents",
         "ui"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-tool-vision",
@@ -25906,13 +25907,13 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-tool-vision",
-      "stars": 6,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
         "vision"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-co-authored-by",
@@ -26243,7 +26244,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#peerDependencies.@deepseek-ai/dsh-tools",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -26658,7 +26659,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#peerDependencies.@deepseek-ai/cordis",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -26998,7 +26999,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -27636,7 +27637,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-browser",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -28053,7 +28054,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-vibe-math",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -28527,7 +28528,7 @@
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-browser-duyefeng",
@@ -29200,7 +29201,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 11,
+      "stars": 25,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge"
@@ -29999,7 +30000,7 @@
         "interop",
         "models"
       ],
-      "pushedAt": "2026-08-16"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-randomuuid-polyfill",
@@ -30495,7 +30496,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 0,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -30552,7 +30553,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@michengai/dsh-codex-ui",
-      "stars": 30,
+      "stars": 31,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop"
@@ -31521,7 +31522,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-token-usage-samecorn",
@@ -32132,7 +32133,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 123,
+      "stars": 126,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -32231,7 +32232,7 @@
         "safety",
         "agents"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-turn-navigator-vibeingi",
@@ -32471,7 +32472,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-codex-subscription",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -32748,7 +32749,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#peerDependencies.@deepseek-ai/cordis",
-      "stars": 1,
+      "stars": 0,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -32879,7 +32880,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -33182,7 +33183,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-vision-toolkit",
-      "stars": 1,
+      "stars": 0,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -33356,7 +33357,7 @@
         "memory",
         "terminal"
       ],
-      "pushedAt": "2026-08-14"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-voice",
@@ -35058,7 +35059,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-codex-ddll8023",
@@ -35077,7 +35078,7 @@
         "models",
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-workspace-dir",
@@ -35476,7 +35477,7 @@
         "interop",
         "memory"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-browser-bridge",
@@ -35772,7 +35773,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/bundle/base/cordis.patch.yml",
-      "stars": 490,
+      "stars": 501,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -35981,7 +35982,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@godd6366/dsh-sub2api",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -37871,7 +37872,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-16"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-installer-kun25cod",
@@ -37997,7 +37998,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-smooth-stream",
-      "stars": 54,
+      "stars": 55,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -38574,7 +38575,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-gateway-provider",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models"
@@ -38656,7 +38657,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-bg-image",
@@ -40753,7 +40754,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-16"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-qq-bot-sindos",
@@ -41274,7 +41275,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-notifier",
-      "stars": 62,
+      "stars": 63,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels",
@@ -41612,7 +41613,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -42157,7 +42158,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-file-explorer-preview-code",
@@ -42605,7 +42606,7 @@
         "agents",
         "knowledge"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-hello",
@@ -43903,7 +43904,7 @@
       "status": "verified",
       "evidence": "integrations/deepseek-harness/package.json#dsh.bundle",
       "npm": "@tt-a1i/archify-dsh",
-      "stars": 15228,
+      "stars": 15294,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
@@ -43922,13 +43923,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/petdex-desktop-native/integrations/dsh/package.json#dsh.bundle",
-      "stars": 3959,
+      "stars": 3967,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop",
         "models"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "mirage",
@@ -43943,7 +43944,7 @@
       "status": "verified",
       "evidence": "typescript/packages/dsh/package.json#dsh.bundle",
       "npm": "@struktoai/mirage-dsh",
-      "stars": 3559,
+      "stars": 3562,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -43984,7 +43985,7 @@
       "status": "verified",
       "evidence": "dsh-plugin/package.json#peerDependencies.@deepseek-ai/cordis",
       "npm": "@yogsoth-ai/dare-dsh",
-      "stars": 379,
+      "stars": 380,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -44005,7 +44006,7 @@
       "status": "verified",
       "evidence": "dsh-plugin/package.json#dsh.bundle",
       "npm": "@zhaoolee/dsh-notes",
-      "stars": 150,
+      "stars": 151,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -44024,7 +44025,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "dsh-bridge/package.json#peerDependencies.@deepseek-ai/dsh-host-apiproxy",
-      "stars": 129,
+      "stars": 130,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -44043,7 +44044,7 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 627,
+      "stars": 630,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -44102,7 +44103,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "plugins/dsh-code-review/package.json#dsh.bundle",
-      "stars": 187,
+      "stars": 188,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -44120,13 +44121,13 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 180,
+      "stars": 183,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
         "ui"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "plugin-registry",
@@ -44202,7 +44203,7 @@
       "status": "verified",
       "evidence": "npm/package.json#dsh.bundle",
       "npm": "@openma/deepseek-harness-tui",
-      "stars": 56,
+      "stars": 58,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -44223,7 +44224,7 @@
       "status": "verified",
       "evidence": "packages/bundle/base/package.json#dsh.bundle",
       "npm": "@huiliyi37/dsh-base",
-      "stars": 36,
+      "stars": 38,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -44286,7 +44287,7 @@
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "ikanban",
@@ -44320,7 +44321,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "plugin/ui/package.json#dsh.bundle",
-      "stars": 64,
+      "stars": 65,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -44397,7 +44398,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "plugins/dsh-browser-desktop/package.json#dsh.bundle",
-      "stars": 34,
+      "stars": 35,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -44436,7 +44437,7 @@
       "lastVerified": "2026-08-15",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 176,
+      "stars": 178,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -44495,7 +44496,7 @@
       "status": "verified",
       "evidence": "dsh-image-vision/package.json#peerDependencies.@deepseek-ai/cordis",
       "npm": "dsh-image-vision",
-      "stars": 8,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -44520,7 +44521,7 @@
         "ui",
         "knowledge"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dexthemes",
@@ -44651,7 +44652,7 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 6,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -44876,7 +44877,7 @@
         "terminal",
         "ui"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "DSH-Deeptop",
@@ -45848,7 +45849,7 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -45908,7 +45909,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-client-ui-session-switcher/package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -46379,7 +46380,7 @@
         "observability",
         "devtools"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugins-bernardx",
@@ -46535,7 +46536,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-16"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "sgme",
@@ -46549,7 +46550,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "adapters/dsh/sgme-bridge/package.json#dsh.bundle",
-      "stars": 7,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -46568,7 +46569,7 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -47006,7 +47007,7 @@
         "memory",
         "knowledge"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "folio",
@@ -47354,7 +47355,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/candidate-baseline/package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety"
@@ -47413,7 +47414,7 @@
       "status": "verified",
       "evidence": "packages/bundle/remote-access-web/package.json#dsh.bundle",
       "npm": "@froststarinquire/dsh-remote-access-web",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -48494,7 +48495,7 @@
         "agents",
         "interop"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "sebastian-kitchen-board",
@@ -49097,7 +49098,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-human-task-client/package.json#dsh.client",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -49565,7 +49566,7 @@
       "status": "verified",
       "evidence": "dsh-pet/package.json#dsh.bundle",
       "npm": "dsh-pet",
-      "stars": 383,
+      "stars": 392,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -49605,7 +49606,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 22,
+      "stars": 23,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -50595,7 +50596,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-dafeiyu",
-      "stars": 250,
+      "stars": 252,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -51159,7 +51160,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-deepread",
-      "stars": 38,
+      "stars": 39,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities",
@@ -51349,7 +51350,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-acp/package.json#dependencies.@deepseek-ai/dsh-agent-spine-demo",
-      "stars": 1810,
+      "stars": 1811,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -51425,7 +51426,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "src/style/main.css#--dsw-tokens",
-      "stars": 1072,
+      "stars": 1088,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -51464,7 +51465,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@cocofhu/anime-find",
-      "stars": 159,
+      "stars": 160,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -51501,12 +51502,12 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 381,
+      "stars": 394,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "ru-marketplace-mcp",
@@ -51526,7 +51527,7 @@
         "marketplace",
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "SpecFusion",
@@ -51616,7 +51617,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 89,
+      "stars": 90,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -51655,12 +51656,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "runtime/deepseek-harness/package.json#dependencies.@deepseek-ai/dsh-acp-demo",
-      "stars": 34,
+      "stars": 35,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-im-gateway-zhuiyuey",
@@ -51712,7 +51713,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-pocket",
-      "stars": 570,
+      "stars": 587,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -51827,7 +51828,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-genui",
-      "stars": 97,
+      "stars": 98,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -51845,7 +51846,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 111,
+      "stars": 113,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -51889,7 +51890,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-better-markdown",
@@ -51921,7 +51922,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 22,
+      "stars": 24,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -51940,7 +51941,7 @@
       "lastVerified": "2026-08-17",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 30,
+      "stars": 31,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities",
@@ -51966,7 +51967,7 @@
         "ui",
         "agents"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-lark-sugarfor",
@@ -52220,7 +52221,7 @@
         "terminal",
         "marketplace"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "ff-toolkit",
@@ -52486,7 +52487,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.client",
-      "stars": 23,
+      "stars": 24,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -52600,7 +52601,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 13,
+      "stars": 14,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -52659,7 +52660,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 17,
+      "stars": 18,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -52736,7 +52737,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 236,
+      "stars": 237,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -52792,7 +52793,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -53037,7 +53038,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -53131,7 +53132,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -53149,7 +53150,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 21,
+      "stars": 23,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -53169,7 +53170,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-popout-sidebar",
-      "stars": 80,
+      "stars": 85,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -53793,7 +53794,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dependencies.@deepseek-ai/dsh",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -53811,7 +53812,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -53868,13 +53869,13 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@dickpy/dsh-imagegen",
-      "stars": 20,
+      "stars": 23,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
         "models"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-opencode-palette",
@@ -53888,7 +53889,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package/package.json#dsh.bundle",
-      "stars": 13,
+      "stars": 14,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop",
@@ -53950,7 +53951,7 @@
         "channels",
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "deepagent",
@@ -54038,13 +54039,13 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-whale-galgame",
-      "stars": 13,
+      "stars": 14,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
         "terminal"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "picturereader",
@@ -54529,7 +54530,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -54554,7 +54555,7 @@
         "models",
         "interop"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-uisfx",
@@ -54606,12 +54607,12 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@ha-na-bi/dsh-client-ui-custom",
-      "stars": 15,
+      "stars": 18,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-mobile-hanui",
@@ -54702,7 +54703,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -55081,7 +55082,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-tavern",
-      "stars": 26,
+      "stars": 29,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -55248,7 +55249,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-univer-office",
-      "stars": 101,
+      "stars": 104,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities",
@@ -55400,13 +55401,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.profile",
-      "stars": 32,
+      "stars": 33,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-remote-workspace",
@@ -55819,7 +55820,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools",
@@ -56336,7 +56337,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -56622,7 +56623,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-whale-meter",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -56735,7 +56736,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -57831,7 +57832,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -58000,7 +58001,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 12,
+      "stars": 13,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -58055,7 +58056,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 16,
+      "stars": 17,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -58279,7 +58280,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety"
@@ -59228,7 +59229,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-update-center",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -59538,7 +59539,7 @@
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-Desktop-Client",
@@ -59859,7 +59860,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-token-data",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -60065,7 +60066,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "notifications",
@@ -60350,7 +60351,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.client",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -60465,7 +60466,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-office",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -60523,12 +60524,12 @@
       "status": "verified",
       "evidence": "package/package.json#dsh.bundle",
       "npm": "dsh-mattpocock-skills-deck",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-prompt",
@@ -61415,7 +61416,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -61608,7 +61609,7 @@
         "devtools",
         "marketplace"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-go-balance",
@@ -61679,7 +61680,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -61970,7 +61971,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-tool-pdf",
@@ -62613,7 +62614,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@kenz1117/dsh-ui-usage-billing",
-      "stars": 9,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -63111,7 +63112,7 @@
         "memory",
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-web-speech-input",
@@ -63338,7 +63339,7 @@
         "ui",
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "DSH-Desktop-limileo",
@@ -63388,7 +63389,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -64035,7 +64036,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@michengai/dsh-agency-agents",
-      "stars": 18,
+      "stars": 19,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -64054,7 +64055,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@michengai/dsh-archive-manager",
-      "stars": 12,
+      "stars": 13,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -64280,7 +64281,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "plugin/client/package.json#dsh.client",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -64994,7 +64995,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 24,
+      "stars": 25,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels"
@@ -65012,13 +65013,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-pi-kit",
@@ -66560,7 +66561,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-review-changes/package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -67301,7 +67302,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 114,
+      "stars": 116,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -68515,7 +68516,7 @@
         "memory",
         "knowledge"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-pdf-zhtx2024",
@@ -69726,7 +69727,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-finance-data",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "observability"
@@ -69937,7 +69938,7 @@
         "safety",
         "memory"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plan-switch",
@@ -69993,7 +69994,7 @@
         "channels",
         "notifications"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-toolbox-web",
@@ -72999,7 +73000,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "whale-on-desk",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -74614,7 +74615,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -75748,7 +75749,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-peak-indicator",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -76102,7 +76103,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "mattpocock-skills-dsh-zh",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -76380,7 +76381,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@graysilver/dsh-evolve-modes",
-      "stars": 88,
+      "stars": 94,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -76718,7 +76719,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -77361,7 +77362,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -77426,7 +77427,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-skill-hub-hskelp95",
@@ -79523,7 +79524,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-session-import-junelear",
@@ -80438,7 +80439,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "observability",
@@ -82632,7 +82633,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@meilulin-1992/dsh-moa",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -84379,7 +84380,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -85346,7 +85347,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-delegate-router",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -86043,7 +86044,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-opencode-go-usage-qkncbot",
@@ -88353,7 +88354,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -89226,7 +89227,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-yogacara",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -89327,7 +89328,7 @@
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-guard-taxuesee",
@@ -91726,7 +91727,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -92310,7 +92311,7 @@
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-weixin-wendayua",
@@ -93075,7 +93076,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@xgone/dsh-remote",
-      "stars": 45,
+      "stars": 46,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -93337,7 +93338,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -93919,7 +93920,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-mcp-mgr-ui/package.json#dsh.client",
-      "stars": 6,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -94585,7 +94586,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-computer-use-win",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -95365,7 +95366,7 @@
         "usage",
         "marketplace"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-right_sidebar",
@@ -95553,7 +95554,7 @@
         "safety",
         "capabilities"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-flomo",
@@ -96156,13 +96157,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 802,
+      "stars": 804,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
         "safety"
       ],
-      "pushedAt": "2026-08-15"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "anolisa",
@@ -96175,7 +96176,7 @@
       "lastVerified": "2026-08-18",
       "verifiedAgainst": "0.1.0-rc.6",
       "status": "unverified",
-      "stars": 389,
+      "stars": 390,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -96194,7 +96195,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/bundle/base/cordis.patch.yml",
-      "stars": 252,
+      "stars": 253,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -96272,7 +96273,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-image-gen",
-      "stars": 164,
+      "stars": 173,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -96502,7 +96503,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "endfield-ui-plugin/package.json#dsh.bundle",
-      "stars": 33,
+      "stars": 36,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -96521,7 +96522,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 13,
+      "stars": 14,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -96677,13 +96678,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/prompt-templates/package.json#dsh.bundle",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools",
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-lark-bridge-jmoksz",
@@ -96715,7 +96716,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 6,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -96752,7 +96753,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "dsh-provider-quick-config/package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -96829,7 +96830,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -96942,7 +96943,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 5,
+      "stars": 7,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -97076,12 +97077,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh/package.json#dsh.bundle",
-      "stars": 17,
+      "stars": 18,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-angelina-pet",
@@ -97207,7 +97208,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-history",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -97251,7 +97252,7 @@
         "interop",
         "marketplace"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-input-traffic",
@@ -97515,7 +97516,7 @@
         "memory",
         "observability"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-skill-manager-gui",
@@ -97555,7 +97556,7 @@
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-usage-monitor",
@@ -97857,7 +97858,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-rewind-plugin",
-      "stars": 12,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -99086,7 +99087,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-turn-delete",
-      "stars": 68,
+      "stars": 70,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -99215,7 +99216,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-recall-unread",
-      "stars": 41,
+      "stars": 45,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -99823,7 +99824,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -99994,7 +99995,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-kingdom",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -101035,7 +101036,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-tab-alert",
@@ -101111,7 +101112,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-bridge",
@@ -101124,13 +101125,13 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 120,
+      "stars": 121,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-fetch-models-unselect-all",
@@ -101431,7 +101432,7 @@
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-pkgseek",
@@ -101541,7 +101542,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@xidong-ai/dsh-rate-limiter",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models"
@@ -101720,7 +101721,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-comfyui",
@@ -102018,7 +102019,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-18"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-dit",
@@ -102814,7 +102815,7 @@
         "memory",
         "knowledge"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-enter-approve",
@@ -103056,7 +103057,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-ultramath",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -104020,7 +104021,7 @@
         "terminal",
         "ui"
       ],
-      "pushedAt": "2026-08-18"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "cn-linebreak",
@@ -104282,7 +104283,7 @@
       "tags": [
         "safety"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-devlaunch",
@@ -104602,7 +104603,7 @@
         "agents",
         "models"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-delete-session-damie",
@@ -104918,7 +104919,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -105072,7 +105073,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-beast-master",
@@ -105921,7 +105922,7 @@
         "ui",
         "agents"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-usage-godpanzz",
@@ -106642,7 +106643,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-whale-desktop-launcher",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -107540,7 +107541,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 20,
+      "stars": 21,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety"
@@ -107862,7 +107863,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "BigPlan",
@@ -108219,7 +108220,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -108537,7 +108538,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-lion-skills",
@@ -108590,7 +108591,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-wiki-tools",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -110952,7 +110953,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -112362,7 +112363,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.client",
-      "stars": 11,
+      "stars": 12,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -112898,7 +112899,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 16,
+      "stars": 21,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -113104,7 +113105,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -113631,7 +113632,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "voice-stt-dsh",
@@ -115800,7 +115801,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -116390,7 +116391,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 42,
+      "stars": 43,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -116599,7 +116600,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "apps/memos-local-plugin/package.json#dsh.bundle",
-      "stars": 10946,
+      "stars": 10950,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -116659,7 +116660,7 @@
       "status": "verified",
       "evidence": "packages/dsh-tongflow/package.json#dsh.bundle",
       "npm": "dsh-tongflow",
-      "stars": 919,
+      "stars": 922,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -116695,7 +116696,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 134,
+      "stars": 138,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -116713,13 +116714,13 @@
       "lastVerified": "2026-08-20",
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "unverified",
-      "stars": 98,
+      "stars": 101,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "deepseek-harness-cli-peiyuwan",
@@ -116771,7 +116772,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-doctor-plugin/package.json#dsh.kind+witnesses+delegates_to+notes",
-      "stars": 45,
+      "stars": 46,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -116810,12 +116811,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "integrations/deepseek-harness/package.json#dsh.bundle",
-      "stars": 61,
+      "stars": 62,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-trace-compare",
@@ -116835,7 +116836,7 @@
         "memory",
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "deepspider",
@@ -116868,7 +116869,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "runtime/package.json#dependencies.@deepseek-ai/dsh",
-      "stars": 43,
+      "stars": 44,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -116905,7 +116906,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@limuyang2/dsh-agent-team",
-      "stars": 19,
+      "stars": 20,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -116942,7 +116943,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-video-lens",
-      "stars": 30,
+      "stars": 33,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -116962,7 +116963,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin",
-      "stars": 36,
+      "stars": 37,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -117002,7 +117003,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-nested-followups",
-      "stars": 14,
+      "stars": 15,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -117020,7 +117021,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 55,
+      "stars": 59,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -117096,7 +117097,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@wm-coders/dsh-custom-first-control-prompt",
-      "stars": 26,
+      "stars": 27,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -117361,7 +117362,7 @@
       "status": "verified",
       "evidence": "plugin/package.json#dsh.bundle",
       "npm": "dsh-remote-web-gateway",
-      "stars": 135,
+      "stars": 137,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -117439,7 +117440,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-17"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "ClawDSH",
@@ -117549,7 +117550,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@dsh-extension/dsh-vision-bridge",
-      "stars": 7,
+      "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -117587,7 +117588,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@wenbin_wb/dsh-bridge",
-      "stars": 25,
+      "stars": 26,
       "starsUpdated": "2026-08-24",
       "tags": [
         "channels",
@@ -117612,7 +117613,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "deepseek-desktop-zcx960",
@@ -117755,7 +117756,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui",
@@ -117774,7 +117775,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal"
@@ -117950,7 +117951,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-ssh-dshssh",
@@ -118003,7 +118004,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dependencies.@deepseek-ai/dsh",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -118138,7 +118139,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "dsh-plugin/package.json#dsh.bundle",
-      "stars": 8,
+      "stars": 9,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -118290,7 +118291,7 @@
       "lastVerified": "2026-08-20",
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "unverified",
-      "stars": 18,
+      "stars": 19,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -118559,7 +118560,7 @@
         "usage",
         "memory"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "obsidian-harness-like",
@@ -118611,7 +118612,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -118762,7 +118763,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-flowglass",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -118799,7 +118800,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -119080,7 +119081,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@zhangfengshun/dsh-remote-ssh",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -119123,7 +119124,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-ui-thinking-title",
@@ -119212,7 +119213,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-agy-link",
-      "stars": 12,
+      "stars": 13,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -119599,7 +119600,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "agent-dev-skills",
@@ -119809,7 +119810,7 @@
         "memory",
         "observability"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "DSH-Transparent-UI-Plugin-hearingi",
@@ -120259,7 +120260,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-file-review-tab",
-      "stars": 9,
+      "stars": 10,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -120359,7 +120360,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-web-desktopify-template",
@@ -120447,7 +120448,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-fund-research",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -120578,7 +120579,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-grok-vision/package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -120622,7 +120623,7 @@
         "safety",
         "models"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "yukinoDigital",
@@ -120679,7 +120680,7 @@
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "mddl-harness",
@@ -121053,7 +121054,7 @@
       "status": "verified",
       "evidence": "packages/adapter-dsh/package.json#dsh.bundle",
       "npm": "@dsh-std/adapter-dsh",
-      "stars": 2,
+      "stars": 42,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -121571,7 +121572,7 @@
         "agents",
         "devtools"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "DSH_CLIAPI",
@@ -121603,7 +121604,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -122871,7 +122872,7 @@
         "capabilities",
         "vision"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-daily-sticky",
@@ -122998,7 +122999,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-thinking-levels",
-      "stars": 1,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "observability",
@@ -123061,7 +123062,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-sight-ericfetc",
@@ -123641,7 +123642,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-image-gen-haimuhai",
@@ -123711,7 +123712,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-better-reasoning-effort",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -124513,7 +124514,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-tidewatch",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -124769,7 +124770,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-web-summary",
@@ -125653,7 +125654,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-liangwengu",
@@ -125962,7 +125963,7 @@
         "fun",
         "notifications"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "deepseek-openai-codex",
@@ -127154,7 +127155,7 @@
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "cloud-smoke-widget",
@@ -127212,7 +127213,7 @@
         "interop",
         "models"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-cost-guard",
@@ -127509,7 +127510,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -127645,7 +127646,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugins-tgydheli",
@@ -128838,7 +128839,7 @@
         "agents",
         "models"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-tui-app-yhfgyyf",
@@ -128856,7 +128857,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-calendar-ylifeonl",
@@ -128897,7 +128898,7 @@
         "marketplace",
         "observability"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-duwg",
@@ -129007,7 +129008,7 @@
         "fun",
         "agents"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "boss-watch-agent",
@@ -129098,7 +129099,7 @@
       "status": "verified",
       "evidence": "extras/dsh-plugin-stylotrace/package.json#dsh.bundle",
       "npm": "dsh-plugin-stylotrace",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities",
@@ -129886,7 +129887,7 @@
         "memory",
         "marketplace"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-aloof",
@@ -130580,7 +130581,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-codex-oauth-biratcha",
@@ -130974,7 +130975,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -131273,7 +131274,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-plugin-mobile-gateway",
-      "stars": 3,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -131297,7 +131298,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-open-in-editor",
@@ -131316,7 +131317,7 @@
         "interop",
         "memory"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-monitor-cocoking",
@@ -131686,7 +131687,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-win-multi-bash",
@@ -132025,7 +132026,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-niao-quick-open",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory"
@@ -132068,7 +132069,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "qcc-mcp-legal-oauth",
@@ -133087,12 +133088,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-generation",
@@ -133391,7 +133392,7 @@
         "usage",
         "observability"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-auto-continue-429",
@@ -134203,7 +134204,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-omc-tui",
@@ -135074,7 +135075,7 @@
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-21"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "ds-whale-ui",
@@ -135087,7 +135088,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -135106,7 +135107,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -135925,7 +135926,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -136355,7 +136356,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -136448,7 +136449,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -136640,7 +136641,7 @@
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-rw",
@@ -136994,7 +136995,7 @@
       "tags": [
         "knowledge"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-memory-kit",
@@ -137665,7 +137666,7 @@
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-llm-assistant",
@@ -138228,7 +138229,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "opencodex-dsh",
@@ -138695,7 +138696,7 @@
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-a2a-ryubyte",
@@ -138709,7 +138710,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@ryubyte/dsh-a2a",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "observability"
@@ -142909,7 +142910,7 @@
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-more",
@@ -143318,7 +143319,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "dsh-llm-as-a-verifier",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -143546,7 +143547,7 @@
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-lark-all",
@@ -151476,7 +151477,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-19"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-local-web",
@@ -151513,7 +151514,7 @@
       "tags": [
         "agents"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-luxun-desktop-pet",
@@ -152243,7 +152244,7 @@
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-sidebar-Explorer-Plus",
@@ -152567,7 +152568,7 @@
         "models",
         "memory"
       ],
-      "pushedAt": "2026-08-18"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-image-vision-xiaoyuin",
@@ -154137,7 +154138,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 194,
+      "stars": 202,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -154156,7 +154157,7 @@
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
       "npm": "@zseven-w/dsh-ios",
-      "stars": 236,
+      "stars": 240,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -154250,7 +154251,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-plugin/package.json#dsh.bundle",
-      "stars": 169,
+      "stars": 170,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -154373,7 +154374,7 @@
         "usage",
         "ui"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "JARVIS-Mission-Control-DeepSeek",
@@ -154471,7 +154472,7 @@
       "tags": [
         "channels"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-workspace-default-dir",
@@ -154969,7 +154970,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-visual-aid",
@@ -155404,7 +155405,7 @@
         "notifications",
         "usage"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-multimodal-bridge",
@@ -155966,7 +155967,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-agent-teams-misright",
@@ -156118,7 +156119,7 @@
       "tags": [
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-resize",
@@ -160468,7 +160469,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-compact",
@@ -160672,7 +160673,7 @@
         "vision",
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-resume-aa224674",
@@ -160743,7 +160744,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "pet-src/package.json#dsh.client",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -161710,7 +161711,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "rootfs/staging/package.json#dependencies.@deepseek-ai/dsh",
-      "stars": 5,
+      "stars": 6,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -161829,7 +161830,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "jarvis",
@@ -162194,7 +162195,7 @@
         "memory",
         "marketplace"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-simpletex-ocr",
@@ -162290,7 +162291,7 @@
         "terminal",
         "ui"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-cost-saver",
@@ -162367,7 +162368,7 @@
         "agents",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugins-ivwumupy",
@@ -162694,7 +162695,7 @@
         "ui",
         "notifications"
       ],
-      "pushedAt": "2026-08-20"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-codexcli-llm",
@@ -163391,7 +163392,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
@@ -163414,7 +163415,7 @@
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-read-aloud",
@@ -173258,7 +173259,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "SKILL.md#frontmatter",
-      "stars": 1622,
+      "stars": 1625,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -173276,7 +173277,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "SKILL.md#frontmatter",
-      "stars": 1522,
+      "stars": 1527,
       "starsUpdated": "2026-08-24",
       "tags": [
         "fun",
@@ -173295,7 +173296,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "SKILL.md#frontmatter",
-      "stars": 843,
+      "stars": 849,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -173558,7 +173559,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "SKILL.md#frontmatter",
-      "stars": 2,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -174319,7 +174320,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "SKILL.md#frontmatter",
-      "stars": 0,
+      "stars": 1,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop",
@@ -174902,9 +174903,9 @@
         "safety"
       ],
       "npm": "dsh-git-memory",
-      "stars": 72,
+      "stars": 73,
       "starsUpdated": "2026-08-24",
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "ruflo",
@@ -174917,7 +174918,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "SKILL.md#frontmatter",
-      "stars": 69205,
+      "stars": 69253,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -174937,7 +174938,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-weknora/package.json#dsh.bundle",
-      "stars": 20498,
+      "stars": 20517,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -174997,7 +174998,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "extensions/dsh/package.json#dsh.bundle",
-      "stars": 690,
+      "stars": 699,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -175016,7 +175017,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 255,
+      "stars": 256,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -175053,7 +175054,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 105,
+      "stars": 106,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -175072,7 +175073,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "skills/patentradar/SKILL.md#frontmatter",
-      "stars": 52,
+      "stars": 53,
       "starsUpdated": "2026-08-24",
       "tags": [
         "interop",
@@ -175091,7 +175092,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#devDependencies.@deepseek-ai/cordis",
-      "stars": 49,
+      "stars": 50,
       "starsUpdated": "2026-08-24",
       "tags": [
         "safety",
@@ -175169,7 +175170,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "01_content/package.json#dsh.bundle",
-      "stars": 46,
+      "stars": 68,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -175188,7 +175189,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 15,
+      "stars": 16,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace"
@@ -175318,7 +175319,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "dsh-plugin/package.json#peerDependencies.@deepseek-ai/dsh-tools",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -175356,7 +175357,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 10,
+      "stars": 11,
       "starsUpdated": "2026-08-24",
       "tags": [
         "vision",
@@ -175470,7 +175471,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/dsh-dify-panel/package.json#dsh.bundle",
-      "stars": 7,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -175506,7 +175507,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -175619,7 +175620,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#devDependencies.@deepseek-ai/dsh-llm-mock-server",
-      "stars": 3,
+      "stars": 5,
       "starsUpdated": "2026-08-24",
       "tags": [
         "terminal",
@@ -175693,7 +175694,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 4,
+      "stars": 8,
       "starsUpdated": "2026-08-24",
       "tags": [
         "knowledge",
@@ -175984,7 +175985,7 @@
         "memory",
         "safety"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "deepseek-harness-yunoseek",
@@ -176053,7 +176054,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "marketplace",
@@ -176547,7 +176548,8 @@
       "tags": [
         "safety",
         "capabilities"
-      ]
+      ],
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-browser-nononeko",
@@ -176566,7 +176568,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-a-stock-five-dimension",
@@ -176787,7 +176789,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 2,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -176812,7 +176814,7 @@
         "models",
         "interop"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "rice-loving-whale",
@@ -176870,7 +176872,7 @@
         "agents",
         "safety"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-sidebar",
@@ -177060,7 +177062,7 @@
         "agents",
         "interop"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-weixin-clawbot-zphome",
@@ -177504,12 +177506,12 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "packages/clutch-dsh-worktree/package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "ui"
       ],
-      "pushedAt": "2026-08-22"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-zhipu-codingbar",
@@ -177614,7 +177616,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -177730,7 +177732,7 @@
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-ssh-remote-cslht11",
@@ -177947,7 +177949,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "cordis.patch.yml",
-      "stars": 2,
+      "stars": 3,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -178001,7 +178003,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "usage",
@@ -178026,7 +178028,7 @@
         "memory",
         "agents"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-restart-desktop",
@@ -178058,7 +178060,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 3,
+      "stars": 4,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents",
@@ -178158,7 +178160,7 @@
         "memory",
         "marketplace"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-llm-wiki-flyaibox",
@@ -178994,7 +178996,7 @@
       "tags": [
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-chatgpt-crash-fix",
@@ -179068,7 +179070,7 @@
         "usage",
         "observability"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-dglab",
@@ -179233,7 +179235,7 @@
         "safety",
         "observability"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-toggle-manager",
@@ -179269,7 +179271,7 @@
       "tags": [
         "terminal"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-workbench-layout",
@@ -179288,7 +179290,7 @@
         "ui",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-session-kit",
@@ -179319,7 +179321,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "capabilities"
@@ -179496,7 +179498,7 @@
         "interop",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-https-fix",
@@ -179551,7 +179553,7 @@
       "tags": [
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-github-connect",
@@ -179619,7 +179621,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 0,
       "starsUpdated": "2026-08-24",
       "tags": [
         "models",
@@ -179737,7 +179739,7 @@
         "terminal",
         "capabilities"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "kidai-snapshot-guard",
@@ -179885,7 +179887,7 @@
       "tags": [
         "models"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-bayes-predict",
@@ -179979,7 +179981,7 @@
         "channels",
         "notifications"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-plugin-confirmo",
@@ -180222,7 +180224,7 @@
         "notifications",
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-free-web-search-sjlgg",
@@ -180328,7 +180330,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "agents"
@@ -180616,7 +180618,7 @@
         "fun",
         "ui"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "weshop-skill-pakage",
@@ -180723,7 +180725,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "devtools"
@@ -180859,7 +180861,7 @@
         "memory",
         "interop"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-notify-yimit",
@@ -180986,7 +180988,7 @@
       "verifiedAgainst": "0.1.0-rc.8",
       "status": "verified",
       "evidence": "package.json#dsh.bundle",
-      "stars": 1,
+      "stars": 2,
       "starsUpdated": "2026-08-24",
       "tags": [
         "memory",
@@ -181029,7 +181031,7 @@
         "agents",
         "memory"
       ],
-      "pushedAt": "2026-08-23"
+      "pushedAt": "2026-08-24"
     },
     {
       "name": "dsh-compact-and-branch",
@@ -181192,7 +181194,10 @@
       "lastVerified": "2026-08-24",
       "verifiedAgainst": "0.1.1-rc.2",
       "status": "verified",
-      "evidence": "package.json#dsh.bundle"
+      "evidence": "package.json#dsh.bundle",
+      "stars": 0,
+      "starsUpdated": "2026-08-24",
+      "pushedAt": "2026-08-24"
     }
   ]
 }
