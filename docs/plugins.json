@@ -175225,6 +175225,24 @@
       ]
     },
     {
+      "name": "dsh-invoice-downloader",
+      "repo": "EthanYoQ/Invoice-Downloader",
+      "path": "plugins/dsh-invoice-downloader",
+      "npm": "@ethanyoq/dsh-invoice-downloader",
+      "description": "Local IMAP invoice download, OCR, archival, and Excel reimbursement summaries through a DSH profile bundle.",
+      "category": "bundle",
+      "official": false,
+      "added": "2026-08-22",
+      "lastVerified": "2026-08-22",
+      "verifiedAgainst": "0.1.0-rc.5",
+      "status": "verified",
+      "evidence": "plugins/dsh-invoice-downloader/package.json#dsh.bundle",
+      "tags": [
+        "capabilities",
+        "ui"
+      ]
+    },
+    {
       "name": "plugin-contract-unification",
       "repo": "zhang123liang/plugin-contract-unification",
       "description": "One contract for every capability. Foundation for AI coding assistant skill systems and enterprise plugin systems.",
