@@ -4,7 +4,7 @@
 
 Memory systems, context management, session search/rewind/export.
 
-1151 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
+1152 entries, most-starred first. Back to the [registry README](../README.md) · [gallery](https://dsh.works/awesome-dsh-plugins/).
 
 | Name | Repo ★ | Repo | Description | Verified against |
 |---|---|---|---|---|
@@ -910,6 +910,7 @@ Memory systems, context management, session search/rewind/export.
 | dsh-plugin-memory-avaritia | 0 | [avaritiachaos/dsh-plugin-memory](https://github.com/avaritiachaos/dsh-plugin-memory) · [npm](https://www.npmjs.com/package/@shion-lab/dsh-plugin-memory) | Industrial-grade 4-tier cognitive memory, red-light guard, and vector semantic engine for DeepSeek Harness (dsh). | 0.1.0-rc.8 (2026-08-20) |
 | dsh-plugin-memory-nattocb | 0 | [NattoCB/dsh-plugin-memory](https://github.com/NattoCB/dsh-plugin-memory) | Persistent 5-layer memory system for DeepSeek Harness (entry injection, relevance retrieval, agent tools, and LLM-backed auto-extraction). | 0.1.0-rc.8 (2026-08-20) |
 | dsh-plugin-memtrace | 0 | [syncable-dev/dsh-plugin-memtrace](https://github.com/syncable-dev/dsh-plugin-memtrace) | Local-first code intelligence graph for DeepSeek Harness: structural search, blast radius, temporal memory, and 27 agent skills over Memtrace MCP. | 0.1.0-rc.8 (2026-08-20) |
+| dsh-plugin-message-edit-spookysandwich | - | [SpookySandwich/dsh-plugin-message-edit](https://github.com/SpookySandwich/dsh-plugin-message-edit) · [npm](https://www.npmjs.com/package/dsh-plugin-message-edit) | Edit a sent message to rewind and branch the conversation from that turn; a counter under the bubble switches versions and a Versions tab draws the branch family as a turn-level tree. | 0.1.1-rc.2 (2026-08-23) |
 | dsh-plugin-modality-fallback | 0 | [lilei0311/dsh-plugin-modality-fallback](https://github.com/lilei0311/dsh-plugin-modality-fallback) | DeepSeek Harness (dsh) plugin: route one request to a modality-capable fallback model instead of forcing the whole session onto a single model. | 0.1.0-rc.8 (2026-08-20) |
 | dsh-plugin-no-workspace | 0 | [SpookySandwich/dsh-plugin-no-workspace](https://github.com/SpookySandwich/dsh-plugin-no-workspace) · [npm](https://www.npmjs.com/package/dsh-plugin-no-workspace) | Standalone workspace-free conversations with lossless detach and direct sidebar rendering in the native DSH Web UI. | 0.1.1-rc.2 (2026-08-23) |
 | dsh-plugin-plurai | 0 | [plur-ai/dsh-plugin](https://github.com/plur-ai/dsh-plugin) | PLUR memory for DeepSeek Harness — engrams injected straight into the prompt, no tool call required | 0.1.0-rc.8 (2026-08-20) |
