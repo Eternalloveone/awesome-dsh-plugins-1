@@ -1,11 +1,11 @@
 {
   "updated": "2026-08-23",
-  "plugins": 9344,
+  "plugins": 9345,
   "authors": 5465,
-  "npm": 2016,
+  "npm": 2017,
   "categories": {
     "bundle": 86,
-    "plugin": 9142,
+    "plugin": 9143,
     "skill": 111,
     "theme": 2,
     "tool": 3
@@ -20,5 +20,5 @@
     "rejected": 1827,
     "noInstallPath": 1702
   },
-  "verifiedAgainst": "0.1.1-rc.1"
+  "verifiedAgainst": "0.1.1-rc.2"
 }
