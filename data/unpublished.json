@@ -4,7 +4,7 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-08-24",
+  "checked": "2026-08-25",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
   "count": 368,
   "packages": [
@@ -1302,13 +1302,13 @@
       "repo": "lifensame/dsh-plugin",
       "npm": "dsh-memory",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-24"
+      "since": "2026-08-25"
     },
     {
       "repo": "BayInl/dsh-memory",
       "npm": "dsh-memory",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-24"
+      "since": "2026-08-25"
     },
     {
       "repo": "solknight48/dsh-memoryhub",
@@ -1759,13 +1759,13 @@
       "repo": "sulfide2085/dsh-skill-manager",
       "npm": "dsh-skill-manager",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-24"
+      "since": "2026-08-25"
     },
     {
       "repo": "ZzzzzzzLL/dsh-skill-manager",
       "npm": "dsh-skill-manager",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-24"
+      "since": "2026-08-25"
     },
     {
       "repo": "YTxue/dsh-skill-manager-ytxue",
