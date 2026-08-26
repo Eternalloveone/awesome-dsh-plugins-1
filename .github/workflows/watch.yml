@@ -122,23 +122,48 @@ jobs:
             echo "topic universe unchanged since the last sweep"
             exit 0
           fi
-          # The README headline reads coverage.json, and ci.yml runs
-          # `render.mjs --check` on every push to main.
-          node scripts/render.mjs
-          node scripts/validate.mjs
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- data/coverage.json README.md lists docs
-          git commit -m "coverage: the sweep re-measured the topic universe"
-          # main can move under us while the sweep runs, so rebase rather than
-          # fail -- and --autostash, because the sweep also rewrote
-          # data/candidates.json, which is deliberately NOT staged here (it
-          # belongs to the triage PR, not to main). Plain `pull --rebase`
-          # refuses to run with unstaged changes in the tree and takes the whole
-          # step down with it. The stash is reapplied before the next step
-          # commits that queue onto the discovery branch.
-          git pull --rebase --autostash origin main
-          git push origin main
+
+          # The sweep produced two files and they go to two different places:
+          # coverage.json to main (a measurement), candidates.json to the
+          # triage branch in the next step (a queue). Save both before this
+          # step starts moving the tree around under them.
+          cp data/coverage.json "$RUNNER_TEMP/coverage.json"
+          cp data/candidates.json "$RUNNER_TEMP/candidates.json"
+
+          # README, lists/ and docs/ are GENERATED. The stars job re-renders
+          # and pushes them to main four times a day, and this sweep takes tens
+          # of minutes, so main routinely moves mid-run. Rebasing our render
+          # onto theirs asks git to textually merge two independent outputs of
+          # the same generator over files neither side hand-edited -- it
+          # conflicts, and a conflict there means nothing.
+          #
+          # So: take main's tree wholesale, replay the one datum we actually
+          # own, and regenerate from it. Re-render, never re-merge.
+          for attempt in 1 2 3; do
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            cp "$RUNNER_TEMP/coverage.json" data/coverage.json
+            node scripts/render.mjs
+            node scripts/validate.mjs
+            git add -A -- data/coverage.json README.md lists docs
+            if git diff --cached --quiet; then
+              echo "main already carries this measurement"
+              break
+            fi
+            git commit -m "coverage: the sweep re-measured the topic universe"
+            if git push origin main; then
+              echo "measurement published on attempt $attempt"
+              break
+            fi
+            echo "main moved under us; re-rendering onto it (attempt $attempt)"
+            if [ "$attempt" = 3 ]; then
+              echo "could not publish the measurement after 3 attempts"
+              exit 1
+            fi
+          done
+
+          # Hand the queue to the next step, which the reset above rewound.
+          cp "$RUNNER_TEMP/candidates.json" data/candidates.json
 
       - name: Publish to the reused triage PR
         env:
