@@ -6,7 +6,7 @@
   ],
   "checked": "2026-08-26",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 367,
+  "count": 368,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -2109,6 +2109,13 @@
       "npm": "gatecraft",
       "why": "published by eric20junior/gatecraft",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "sdoygb/conjugate-spectral-geometry",
+      "path": "dsh-geometry-plugin",
+      "npm": "geometry-knowledge",
+      "why": "published by sdoygb/geometry-knowledge",
+      "since": "2026-08-26"
     },
     {
       "repo": "Saktawdi/dsh-ha-orchestrator",
