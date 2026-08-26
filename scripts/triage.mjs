@@ -59,13 +59,23 @@ const CONCURRENCY = 12;
 // prover has been re-checked against it — not automatically, or the field
 // starts asserting compatibility nobody looked at.
 //
-// Re-checked against 0.1.0-rc.8 (released 2026-08-19) before this bump:
-// docs/user/develop/basic/publish.md is byte-identical to rc.7, and the only
-// `dsh` manifest keys in the harness tree are still `bundle` and `client`. The
-// two install paths this prover reads did not move. rc.8's new surfaces —
-// Profile Bundles and the experimental `ctx.agentTeams` service — ride on
-// `dsh.bundle`, so they need no new proof shape.
-const DSH_VERSION = process.env.DSH_VERSION ?? "0.1.0-rc.8";
+// Re-checked against 0.1.1-rc.2 (npm `latest` since 2026-08-21) before this
+// bump, by diffing the harness tree tag-to-tag rather than trusting the
+// release notes:
+//
+//   apps/cli/src/plugin.ts            byte-identical to rc.8
+//   packages/boot/app-boot/src/profile.ts   byte-identical to rc.8
+//
+// Those two files are the whole `dsh.bundle.patch` install path, and they did
+// not move. packages/client/modules/src/index.ts did change, but only in how
+// it wires the boot-manifest injection internally; the key it reads is still
+// `pkg.dsh?.client`. packages/skill/skill-filesystem/src/ is unchanged, so
+// the SKILL.md frontmatter contract this prover ports is still the loader's.
+//
+// The version this stamps is a claim about *the install-path contract*, not
+// about having booted the harness -- so it may only move when that contract
+// has been re-read at the new version, which is what the diff above is.
+const DSH_VERSION = process.env.DSH_VERSION ?? "0.1.1-rc.2";
 
 const read = (rel) => JSON.parse(readFileSync(join(ROOT, rel), "utf8"));
 const write = (rel, value) => writeFileSync(join(ROOT, rel), `${JSON.stringify(value, null, 2)}\n`);
@@ -340,6 +350,36 @@ async function proveDeep(repo) {
     if (text && SKILL_FRONTMATTER.test(text)) {
       return {
         proof: { evidence: `${p}#frontmatter`, why: "nested SKILL.md", path: dirname(p) === "." ? undefined : dirname(p) },
+        facts: { tree: paths.length },
+      };
+    }
+  }
+
+  // The flat lane. dsh mounts a skill root and walks its entries: a directory
+  // becomes `<dir>/SKILL.md`, and *any top-level file ending in `.md`* is a
+  // skill in its own right --
+  //
+  //   packages/skill/skill-filesystem/src/index.ts (0.1.1-rc.2)
+  //     :725  ? { path: join(entry.path, 'SKILL.md'), directory: entry.path }
+  //     :726  : entry.type === 'file' && entry.name.endsWith('.md')
+  //
+  // CONTRIBUTING has documented both shapes since the frontmatter fix ("flat
+  // `<name>.md`"), but this prover only ever matched files literally named
+  // SKILL.md, so a repo that ships its skill as `how-to-thing.md` proved
+  // nothing and was rejected for having "no SKILL.md" -- about a file dsh
+  // would have loaded. Same failure as the frontmatter regex: the registry
+  // was refusing work it had already found.
+  //
+  // No name filter beyond `.md`, deliberately: the frontmatter gate is the
+  // filter, and it is dsh's, not ours. A README without `---` on line 1, a
+  // kebab-case `name` and a `description` is not a skill to dsh and is not one
+  // here either.
+  const flat = paths.filter((p) => !p.includes("/") && /\.md$/i.test(p) && !/^SKILL\.md$/i.test(p));
+  for (const p of flat) {
+    const text = await raw(repo, p);
+    if (text && SKILL_FRONTMATTER.test(text)) {
+      return {
+        proof: { evidence: `${p}#frontmatter`, why: "flat top-level <name>.md skill" },
         facts: { tree: paths.length },
       };
     }
@@ -694,7 +734,11 @@ for (const d of decided) {
   // Admitted, so any rejection on file for this repo has been overturned.
   if (alreadyRejected.has(c.repo.toLowerCase())) overturned.add(c.repo.toLowerCase());
 
-  const category = d.evidence.includes("SKILL.md") ? "skill" : "plugin";
+  // A skill proves itself through frontmatter, whatever the file is called:
+  // `SKILL.md#frontmatter` for the directory lane, `<name>.md#frontmatter` for
+  // the flat one. Keying on the filename alone filed every flat skill as a
+  // "plugin".
+  const category = d.evidence.endsWith("#frontmatter") ? "skill" : "plugin";
   admitted.push(ordered({
     name: nameFor(c.repo, takenNames),
     repo: c.repo,
@@ -759,19 +803,28 @@ write("data/candidates.json", {
 // Every candidate carrying `github-topic` came from that sweep, so deciding
 // one moves the numerator by exactly one. Seeds and npm-search finds do not
 // count: they were never in the topic denominator.
-const queued = new Map(queue.map((c) => [c.repo.toLowerCase(), c]));
+const queuedBefore = new Map(queue.map((c) => [c.repo.toLowerCase(), c]));
 const fromTopic = (repo) =>
-  (queued.get(repo.toLowerCase())?.sources ?? []).includes("github-topic");
+  (queuedBefore.get(repo.toLowerCase())?.sources ?? []).includes("github-topic");
 const decidedNow = [...admitted, ...rejects].filter((row) => fromTopic(row.repo)).length;
+// What stayed behind is knowable exactly, so count it rather than subtract it:
+// a queue that grew since the sweep made `queued - decidedNow` drift below the
+// rows actually sitting there, and `queued: 0` next to a queue holding 151
+// undecided repos is the same lie as a 100% denominator.
+const stillQueued = [...held, ...routed].filter((c) => (c.sources ?? []).includes("github-topic")).length;
 if (decidedNow) {
   try {
     const coverage = read("data/coverage.json");
-    write("data/coverage.json", {
-      ...coverage,
-      decided: Math.min(coverage.decided + decidedNow, coverage.unique),
-      queued: Math.max(coverage.queued - decidedNow, 0),
-    });
-    console.error(`triage: coverage ${coverage.decided} -> ${coverage.decided + decidedNow} of ${coverage.unique}`);
+    const raw = coverage.decided + decidedNow;
+    const decided = Math.min(raw, coverage.unique);
+    write("data/coverage.json", { ...coverage, decided, queued: stillQueued });
+    console.error(`triage: coverage ${coverage.decided} -> ${decided} of ${coverage.unique}, ${stillQueued} still queued`);
+    // The numerator outrunning the denominator is not a rounding artifact: it
+    // means `unique` is older than the registry. Clamping silently is how a
+    // stale sweep becomes a published 100%, so say it out loud.
+    if (raw > coverage.unique) {
+      console.error(`triage: WARNING coverage denominator is stale — decided ${raw} exceeds the ${coverage.measured} sweep's ${coverage.unique}; re-run \`npm run discover\` before publishing`);
+    }
   } catch {
     // No sweep has run yet; there is no figure to keep honest.
   }
