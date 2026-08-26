@@ -6,7 +6,7 @@
   ],
   "checked": "2026-08-26",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 368,
+  "count": 367,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -1299,13 +1299,13 @@
       "since": "2026-08-21"
     },
     {
-      "repo": "lifensame/dsh-plugin",
+      "repo": "BayInl/dsh-memory",
       "npm": "dsh-memory",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-08-26"
     },
     {
-      "repo": "BayInl/dsh-memory",
+      "repo": "lifensame/dsh-plugin",
       "npm": "dsh-memory",
       "why": "2 listed repos declare this name and the package states no repository",
       "since": "2026-08-26"
@@ -1596,12 +1596,6 @@
       "repo": "errorcode7/dsh-prompt-manager",
       "npm": "dsh-prompt-manager",
       "why": "published by saisenbox/dsh-prompt-manager",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "JoukoPuro/dsh-prompt-polish",
-      "npm": "dsh-prompt-polish",
-      "why": "no such package",
       "since": "2026-08-21"
     },
     {
