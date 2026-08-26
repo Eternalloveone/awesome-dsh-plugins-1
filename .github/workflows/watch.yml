@@ -196,6 +196,14 @@ jobs:
           # juggling below moves the tree out from under it.
           cp data/coverage.json "$RUNNER_TEMP/coverage.json"
 
+          # Set here, not inherited. The step above does configure an identity,
+          # but only after its own `exit 0` for "no new candidates" -- and a
+          # sweep that queues nothing while measuring a bigger universe is
+          # precisely the run this step exists for. Borrowing that identity
+          # would fail exactly when it matters: "Author identity unknown".
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           # README, lists/ and docs/ are GENERATED. The stars job re-renders
           # and pushes them to main four times a day, and this sweep takes tens
           # of minutes, so main routinely moves mid-run. Rebasing our render
