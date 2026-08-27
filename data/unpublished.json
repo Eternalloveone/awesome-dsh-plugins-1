@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-08-26",
+  "checked": "2026-08-27",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 369,
+  "count": 375,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -374,6 +374,30 @@
       "npm": "@fhxgs/dsh-providers-extension",
       "why": "no such package",
       "since": "2026-08-22"
+    },
+    {
+      "repo": "oThTJx/dsh-skill-impeccable",
+      "npm": "@firefly0621/dsh-skill-impeccable",
+      "why": "no such package",
+      "since": "2026-08-27"
+    },
+    {
+      "repo": "oThTJx/dsh-skill-karpathy-guidelines",
+      "npm": "@firefly0621/dsh-skill-karpathy-guidelines",
+      "why": "no such package",
+      "since": "2026-08-27"
+    },
+    {
+      "repo": "oThTJx/dsh-skill-ponytail",
+      "npm": "@firefly0621/dsh-skill-ponytail",
+      "why": "no such package",
+      "since": "2026-08-27"
+    },
+    {
+      "repo": "oThTJx/dsh-skill-taste",
+      "npm": "@firefly0621/dsh-skill-taste",
+      "why": "no such package",
+      "since": "2026-08-27"
     },
     {
       "repo": "Saikel-Orado-Liu/dsh-coding-preset",
@@ -1308,13 +1332,13 @@
       "repo": "BayInl/dsh-memory",
       "npm": "dsh-memory",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-26"
+      "since": "2026-08-27"
     },
     {
       "repo": "lifensame/dsh-plugin",
       "npm": "dsh-memory",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-26"
+      "since": "2026-08-27"
     },
     {
       "repo": "solknight48/dsh-memoryhub",
@@ -1759,13 +1783,13 @@
       "repo": "sulfide2085/dsh-skill-manager",
       "npm": "dsh-skill-manager",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-26"
+      "since": "2026-08-27"
     },
     {
       "repo": "ZzzzzzzLL/dsh-skill-manager",
       "npm": "dsh-skill-manager",
       "why": "2 listed repos declare this name and the package states no repository",
-      "since": "2026-08-26"
+      "since": "2026-08-27"
     },
     {
       "repo": "YTxue/dsh-skill-manager-ytxue",
@@ -1841,6 +1865,12 @@
       "since": "2026-08-21"
     },
     {
+      "repo": "chen731215-dev/dsh-tavern",
+      "npm": "dsh-tavern",
+      "why": "published by chen731215-dev/dsh-tavern-v2",
+      "since": "2026-08-27"
+    },
+    {
       "repo": "Yihong89/dsh-teacher",
       "npm": "dsh-teacher",
       "why": "no such package",
@@ -1893,6 +1923,12 @@
       "npm": "dsh-tool-somark",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "qq1376868542-lang/dsh-tools",
+      "npm": "dsh-tools",
+      "why": "published by lokiggo/dsh-tools",
+      "since": "2026-08-27"
     },
     {
       "repo": "dfycaly98931680/dsh-trajectory-governance",
