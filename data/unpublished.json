@@ -6,7 +6,7 @@
   ],
   "checked": "2026-08-30",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 375,
+  "count": 378,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -501,6 +501,30 @@
       "npm": "@locallens/dsh-tool-screenshot-ocr",
       "why": "no such package",
       "since": "2026-08-21"
+    },
+    {
+      "repo": "mattismegevand/dsh-dock",
+      "npm": "@mattismegevand/dsh-dock",
+      "why": "no such package",
+      "since": "2026-08-30"
+    },
+    {
+      "repo": "mattismegevand/dsh-git",
+      "npm": "@mattismegevand/dsh-git",
+      "why": "no such package",
+      "since": "2026-08-30"
+    },
+    {
+      "repo": "mattismegevand/dsh-open",
+      "npm": "@mattismegevand/dsh-open",
+      "why": "no such package",
+      "since": "2026-08-30"
+    },
+    {
+      "repo": "mattismegevand/dsh-terminal",
+      "npm": "@mattismegevand/dsh-terminal",
+      "why": "no such package",
+      "since": "2026-08-30"
     },
     {
       "repo": "xiaoxiaosrm/dsh-mattpocock-skills",
@@ -1422,12 +1446,6 @@
       "repo": "xxxxxxxyu/dsh-notify-sound",
       "npm": "dsh-notify-sound",
       "why": "published by lqfhub/dsh-plugin",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "fly3366/dsh-o11y-plugin",
-      "npm": "dsh-o11y-plugin",
-      "why": "no such package",
       "since": "2026-08-21"
     },
     {
