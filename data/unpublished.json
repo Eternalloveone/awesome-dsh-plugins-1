@@ -4,9 +4,9 @@
     "Kept rather than deleted: the name is how we notice the author publishing later.",
     "scripts/npm-check.mjs restores the field to plugins.json when one resolves."
   ],
-  "checked": "2026-08-29",
+  "checked": "2026-08-30",
   "method": "GET registry.npmjs.org/<name>; 404 is missing, timeout is unknown and changes nothing",
-  "count": 376,
+  "count": 375,
   "packages": [
     {
       "repo": "shililinghu/dsh-file-upload-deepseek-harness-plug-in",
@@ -2258,12 +2258,6 @@
     {
       "repo": "CrazeBox/dsh-ExploreTree",
       "npm": "research-tree-plugin",
-      "why": "no such package",
-      "since": "2026-08-21"
-    },
-    {
-      "repo": "Hilbert-beinghappy/seektty",
-      "npm": "seektty",
       "why": "no such package",
       "since": "2026-08-21"
     },
